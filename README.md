@@ -19,6 +19,7 @@ Please note that this project is not available for public deployment; it is inte
 - Clearer HTML and CSS structure
 - Images for better interpretation: Img and Vendor folders
 - I started adding text content related to the topic
+- Bugs or errors are expected
 
 ## What's coming?
 
