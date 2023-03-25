@@ -16,7 +16,7 @@ Please note that this project is not available for public deployment; it is inte
 
 ## What's new?
 
-- Clearer HTML and CSS structure
+- Clearer HTML (semantics) and CSS structure (improvement expected)
 - Images for better interpretation: Img and Vendor folders
 - I started adding text content related to the topic
 - Bugs or errors are expected
