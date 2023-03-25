@@ -110,10 +110,10 @@ Once the entire project has been deployed, we will add a note with all passed te
 - sample.jpg: [@jjjordan](https://unsplash.com/@jjjordan)
 - hero.jpg: [@naimbic](https://www.pexels.com/@naimbic)
 - Rather than relying on Stack Overflow or Google for all my programming queries, I specifically turned to **ChatGPT** to seek clarification on certain code implementations and clear up any lingering doubts.
-- Code Institute for the proper education provided, which is being applied throughout this project.
+- [codeinstitute.net](https://codeinstitute.net/) for the proper education provided, which knowledge is being applied throughout this project.
 - Programminghub where I learned the basics before joining Code Institute.
 
 ## Authors
 
-- [@plexoio](https://www.github.com/plexoio)
+- [@plexoio](https://www.github.com/plexoio) | Frank Arellano
 
