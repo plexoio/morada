@@ -1,0 +1,136 @@
+/* Buy CTA*/
+
+.buy {
+    background-color: white;
+    color:#9B59B6;
+    padding: 8px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+}
+.buy:hover {
+    background-color: rgb(219, 219, 219);
+    color:#9c59b6cc;
+    padding: 8px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+/*NFT section - BASIC*/
+
+/* START NFT BASIC 1*/
+.nft-basic{
+    width: 32.7vw;
+    height: 32vw;
+    border: 1px solid #000;
+    background-image: url('/vendor/img/sample.jpg');
+    background-size: cover;
+    transition:0.5s;
+}
+
+.info-basic {
+    width: 32.7vw;
+    height: 32vw;
+    opacity: 0;
+    transition:0.5s;
+    color:rgba(0, 0, 0, 0);
+}
+
+.info-basic:hover {
+    width: 32.7vw;
+    height: 32vw;
+    background-color:#9c59b6b2;
+    opacity: 1;
+    transition:0.5s;
+    color:white;
+}
+
+.info-basic > p{
+    width: 30ch;
+    text-align: center;
+}
+.info-basic:hover > p{
+    width: 30ch;
+    text-align: center;
+}
+
+/* End NFT BASIC 1 */
+
+/* START NFT BASIC 2*/
+.nft-basic2{
+    width: 32.7vw;
+    height: 32vw;
+    border: 1px solid #000;
+    background-image: url('/vendor/img/sample.jpg');
+    background-size: cover;
+    transition:0.5s;
+}
+
+.info-basic2 {
+    width: 32.7vw;
+    height: 32vw;
+    opacity: 0;
+    transition:0.5s;
+    color:rgba(0, 0, 0, 0);
+}
+
+.info-basic2:hover {
+    width: 32.7vw;
+    height: 32vw;
+    background-color:#9c59b6b2;
+    opacity: 1;
+    transition:0.5s;
+    color:white;
+}
+
+.info-basic2 > p{
+    width: 30ch;
+    text-align: center;
+}
+.info-basic2:hover > p{
+    width: 30ch;
+    text-align: center;
+}
+
+/* End NFT BASIC 2 */
+
+/* START NFT BASIC 3*/
+.nft-basic3{
+    width: 32.7vw;
+    height: 32vw;
+    border: 1px solid #000;
+    background-image: url('/vendor/img/sample.jpg');
+    background-size: cover;
+    transition:0.5s;
+}
+
+.info-basic3 {
+    width: 32.7vw;
+    height: 32vw;
+    opacity: 0;
+    transition:0.5s;
+    color:rgba(0, 0, 0, 0);
+}
+
+.info-basic3:hover {
+    width: 32.7vw;
+    height: 32vw;
+    background-color:#9c59b6b2;
+    opacity: 1;
+    transition:0.5s;
+    color:white;
+}
+
+.info-basic3 > p{
+    width: 30ch;
+    text-align: center;
+}
+.info-basic3:hover > p{
+    width: 30ch;
+    text-align: center;
+}
+
+/* End NFT BASIC 3 */
