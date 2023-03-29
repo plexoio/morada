@@ -17,11 +17,30 @@ Please note that this project is not available for public deployment; it is inte
 
 ## Roadmap
 
-- Create main index.html file
+- Create main `index.html`, `learn.html`, `marketplace.html`, `contact.html`, `style.css`, and `nft.css` files
+
 - Organize the web app's structure properly
+
+- Add images or Lottie files and related content for better interpretation
+
 - Add structural files and documents to appropriate folders and subfolders
 
-## Features
+- Layouts
+
+- Accessibility
+
+- Anchor security: `rel` attribute and values
+
+- W3C testing
+
+- Apply learned content more on DOM selectors, semantics, selectors, CSS implementation, measurements, font, colors, etc.
+
+- Responsiveness
+
+- UE/UI high performance
+
+
+## Actual Features
 
 - Full-stack boilerplate
 - Completely runnable
