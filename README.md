@@ -1,5 +1,5 @@
 
-# NOT YET `Released` Morada NFT Project
+# NOT YET `Released` | Morada NFT Project
 
 Morada NFT is a landing page for purchasing functional NFTs offered by a hotel. "Functional" in this context refers to NFTs that hold real value or utility.
 
