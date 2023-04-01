@@ -15,6 +15,9 @@ Please note that this project is not available for public deployment; **it is in
 
 
 
+## What can I do?
+
+- You are welcome to take a look to my development process by checking on the different branches created on this repository
 
 ## Roadmap
 
