@@ -3,7 +3,7 @@
 
 Morada NFT is a landing page for purchasing functional NFTs offered by a hotel. "Functional" in this context refers to NFTs that hold real value or utility.
 
-Please note that this project is not available for public deployment; it is intended solely for learning and demonstration purposes.
+Please note that this project is not available for public deployment; **it is intended solely for learning and demonstration purposes**.
 
 - **Stage 5: Structure** is only for documenting the development process of Morada NFT
 
