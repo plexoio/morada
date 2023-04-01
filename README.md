@@ -54,7 +54,7 @@ Bugs or errors are still expected
 
 - Fictitious connection with Metamask (still pending)
 
-- I am still building the final code structure. More versions are coming!
+I am still building the final code structure. More versions are coming!
 
 
 ## Roadmap
