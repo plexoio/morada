@@ -18,8 +18,6 @@ body {
     font-family: 'Roboto', Bitter, sans-serif;
 }
 
-
-
 .sticky-top {
     position: fixed;
     top:0;
@@ -72,7 +70,8 @@ transition: 0.3s;
     border: 1px solid white;
     padding: 5px;
     border-radius: 5px;
-transition: 0.3s;
+    transition: 0.3s;
+    cursor:pointer;
 }
 
 #metamask:hover {
@@ -142,7 +141,7 @@ body h1,h2{
   .hr-cut-bottom {
     border-top: 2px solid rgb(155, 89, 182, 0.5);
     border-width: 2px;
-    padding: 0 0 50px 0;
+    padding: 0 0 70px 0;
   }
 .background {
     background-color: rgb(155, 89, 182);
@@ -292,10 +291,6 @@ div {
     text-align:justify;
 }
 
-div p {
-    font-size: initial;
-}
-
 span {
     font-weight: 700;
 }
@@ -314,7 +309,37 @@ footer {
     position:fixed;
     bottom: 0;
     width: 100%;
+    text-align: center;
 }
+
+footer > p {
+    margin-bottom: 5px;
+    padding-right:5px;
+}
+
+.footer {
+    display: inline-block;
+    font-size: 12px;
+}
+
+
+ul {
+    text-align: center;
+    list-style: none;
+    margin:0;
+}
+
+ul > li {
+    display: inline-block;
+    padding:10px 5px 5px 0px;
+}
+
+ul > li > a {
+    font-size: 12px;
+    color:white;
+    text-decoration: none;
+}
+
 .height {
     height:100vh;
 }
@@ -327,6 +352,26 @@ footer {
     background-color: #9c59b61e;
     float:left;
     left:16vw;
+}
+
+ul[class=base-color]{
+    padding:0;
+}
+
+ul[class=base-color] > li > a {
+    color:#ffffff;
+    border: 1px solid #9B59B6;
+    border-radius: 15px;
+    padding:10px;
+    background-color: #9B59B6;
+    transition:0.3s;
+}
+
+ul[class=base-color] > li > a:hover {
+    border: 1px solid #9B59B6;
+    background-color: rgba(156, 89, 182, 0.746);
+    transition:0.3s;
+    color:white;
 }
 
 fieldset{
@@ -344,6 +389,10 @@ input {
     padding:8px;
     border-radius: 15px;
     border: 1px solid #9c59b685 ;
+    cursor:auto;
+}
+input:hover {
+    cursor:pointer;
 }
 
 select {
@@ -385,7 +434,7 @@ div[id=text-align] > input {
     width:95%;
 }
 
-div[class="learn-nft"] {
+div[class=learn-nft] {
     background-color: #9c59b61e;
 }
 .learn-nft {
