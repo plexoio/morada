@@ -47,9 +47,12 @@ Please note that this project is not available for public deployment; **it is in
 ## Actual Features
 
 - Full-stack boilerplate
-- Completely runnable
-- Semi-responsive design
-- Structured comments in code
+- 100% runnable and updated
+- Fully responsive project
+- Some comments in code for better understanding
+- Valuable content added to `learn.html` and `index.html`
+- User-friendly
+- HTML5, CSS3, Javascript
 
 ## Visual Structure
 
@@ -102,9 +105,9 @@ Intended logical organization of the code
 
 ## FAQ
 
-#### Is the structure already finished?
+#### Is the project already finished?
 
-Once the entire project has been deployed, the structure section may be considered as complete.
+Once the entire project has been deployed the title and content of this page will change to a positive answer.
 
 #### Are there issues in it?
 
