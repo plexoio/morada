@@ -44,7 +44,7 @@ Please note that this project is not available for public deployment; **it is in
 
 - Submit project to Code Institute
 
-## Actual Features
+## Main Features
 
 - Full-stack boilerplate
 - 100% runnable and updated
