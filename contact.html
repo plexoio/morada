@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Morada Hotel - Contact</title>
+        <meta name="description" content="Morada NFT is a landing page for purchasing functional NFTs offered by a hotel. Functional in this context refers to NFTs that hold real value or utility. Please note that this project is not available for public deployment; it is intended solely for learning and demonstration purposes.">
+        <meta name="keywords" content="morada, hotel, nft, basic, expert, premium, utility, value, blockchain, polygon, metamask, nfts">
+        <meta name="author" content="Frank Arellano">
+        <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    </head>
+    <body>
+
+        <!-- Start nav section-->
+        <header>
+            <nav>
+                <div>
+                    <img class="logo-img" src="assets/img/logo.png" alt="logo of morada">
+                </div>
+                <a href="index.htm" target="_blank">Home</a>
+                <a href="marketplace.html" target="_blank">Market</a>
+                <a href="learn.html" target="_blank">Learn</a>
+                <a href="contact.html" target="_blank">Contact</a>
+                <a id="metamask" href="metamask.html" target="_blank"><strong>Metamask</strong></a>               
+            </nav>
+        </header>
+        <!-- End nav section-->
+
+        <div class="height text-center">
+        <section class="contact">
+            <form action="" method="POST">
+                <fieldset>
+                    <legend>Contact</legend>
+
+                    <div id="text-align">
+                    <label for="name">Name*</label>
+                    <input id="name" type="text" name="contactname" placeholder="Albert" required>
+                    
+                    <label for="lastname">Last Name*</label>
+                    <input id="lastname" type="text" name="contactlname" placeholder="Einstein" required>
+                    
+                    <label for="email">E-mail*</label>
+                    <input id="email" type="email" name="contactemail" placeholder="einstein@mail.eu" required>
+                    </div>
+
+                </fieldset>
+
+                <fieldset>
+                    <legend>Topic*</legend>
+                    <div id="text-align">
+                        <label for="topic">Choose</label>
+                        <select id="topic" name="topic" required>
+                            <option></option>
+                            <option value="learn">Learn</option>
+                            <option value="metamask">Metamask</option>
+                            <option value="marketplace">Marketplace</option>
+                            <option value="NFT">NFT</option>
+                            <option value="Location">Location</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </div>
+                </fieldset>
+
+                <fieldset>
+                    <legend>
+                        Comment*
+                    </legend>
+                    <label for="explain"></label>
+                    <textarea id="explain" name="explain" rows="10" cols="50" required></textarea>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Data Consent*</legend>
+                    <label for="acceptdatause"></label>
+                    <input class="inline" id="acceptdatause" type="checkbox" name="contact" value="yes" required>
+                    <a class="acceptdata" href="#" target="_blank" rel="">I accept the Privacy Policy and Temrs & Conditions</a>
+                </fieldset>
+
+                <input class="claim bkg-white base-color" type="submit" value="Send request">
+                <input class="learn bkg-white base-color" type="reset" value="Reset form">
+            </form>
+        </section>
+        <aside class="aside contact">
+            <div>
+                <h1 class="text-center base-color">What is Morada?</h1>
+                <p>Lorem Ipsum is simply dummy text of the printing and 
+                    typesetting industry. Lorem Ipsum has been the industry's 
+                    standard dummy text ever since the 1500s, when an unknown 
+                    printer took a galley of type and scrambled it to make a 
+                    type specimen book. It has survived not only five centuries, 
+                    but also the leap into electronic typesetting, remaining 
+                    essentially unchanged. It was popularised in the 1960s with 
+                    the release of Letraset sheets containing Lorem Ipsum passages, 
+                    and more recently with desktop publishing software like Aldus 
+                    PageMaker including versions of Lorem Ipsum.
+                </p>
+                <p><strong>Address:</strong></p>
+                <p><strong>Tlf:</strong></p>
+                <p><strong>Email:</strong></p>
+                <p><strong>Smart Contract:</strong></p>
+            </div>
+        </aside>
+        </div>
+        
+        <section class="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d643684.0358774893!2d9.92012577925788!3d52.38528608001345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47afef35fcca8c8f%3A0xe62a665a2fbb2490!2sGehrenkamp%201%2C%2038550%20Isenb%C3%BCttel!5e0!3m2!1sen!2sde!4v1680290819949!5m2!1sen!2sde" 
+                width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" 
+                referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+        </section>
+
+        <!-- Start of footer-->
+        <footer class="background text-center">
+            <div class="center">
+                <p>©2023 <b>morada.nft</b> of Morada by Frank Arellano</p>
+            </div>
+        </footer>
+    </body>
