@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # Development Process of Morada NFT
 
 Morada NFT is a landing page for purchasing functional NFTs offered by a hotel. "Functional" in this context refers to NFTs that hold real value or utility.
@@ -17,6 +18,15 @@ Please note that this project is not available for public deployment; **it is in
 
 - **Stage 5: Structure** is only for documenting the development process of Morada NFT
 >>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
+=======
+# NOT YET `Released` | Morada NFT Project
+
+Morada NFT is a landing page for purchasing functional NFTs offered by a hotel. "Functional" in this context refers to NFTs that hold real value or utility.
+
+Please note that this project is not available for public deployment; **it is intended solely for learning and demonstration purposes**.
+
+- **Not completed yet** I am still developing this web app, stay tuned!
+>>>>>>> 7e5979e6937c855a9d2d96e940c72df72b59015a
 
 
 
@@ -25,6 +35,7 @@ Please note that this project is not available for public deployment; **it is in
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 ## What's new?
@@ -85,6 +96,13 @@ I am still building the final code structure. More versions are coming!
 
 
 >>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
+=======
+
+## What can I do?
+
+- You are welcome to take a look to my development process by checking on the different branches created on this repository
+
+>>>>>>> 7e5979e6937c855a9d2d96e940c72df72b59015a
 ## Roadmap
 
 - Create main `index.html`, `learn.html`, `marketplace.html`, `contact.html`, `style.css`, and `nft.css` files
@@ -109,6 +127,7 @@ I am still building the final code structure. More versions are coming!
 
 - UE/UI high performance
 
+<<<<<<< HEAD
 
 ## Actual Features
 
@@ -116,6 +135,21 @@ I am still building the final code structure. More versions are coming!
 - Completely runnable
 - Semi-responsive design
 - Structured comments in code
+=======
+- Finish up `documentation`
+
+- Submit project to Code Institute
+
+## Main Features
+
+- Full-stack boilerplate
+- 100% runnable and updated
+- Fully responsive project
+- Some comments in code for better understanding
+- Valuable content added to `learn.html` and `index.html`
+- User-friendly
+- HTML5, CSS3, Javascript
+>>>>>>> 7e5979e6937c855a9d2d96e940c72df72b59015a
 
 ## Visual Structure
 
@@ -125,6 +159,7 @@ Intended logical organization of the code
 
 ├── index.html
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ├── page1.html
 
@@ -170,6 +205,8 @@ Intended logical organization of the code
 
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> 7e5979e6937c855a9d2d96e940c72df72b59015a
 ├── marketplace.html
 
 ├── learn.html
@@ -202,11 +239,15 @@ Intended logical organization of the code
 
 ├── **vendor**/
 
+<<<<<<< HEAD
 >>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
+=======
+>>>>>>> 7e5979e6937c855a9d2d96e940c72df72b59015a
 │   └── img/
 
 │       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── hero.jpg
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 │       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── sample.jpg
 =======
@@ -217,10 +258,13 @@ Intended logical organization of the code
 
     └── document.pdf
 =======
+=======
+>>>>>>> 7e5979e6937c855a9d2d96e940c72df72b59015a
 │       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── marketplace.jpg
 
 │       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── sample.jpg
 
+<<<<<<< HEAD
 >>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
 
 ## FAQ
@@ -228,6 +272,14 @@ Intended logical organization of the code
 #### Is the structure already finished?
 
 Once the entire project has been deployed, the structure section may be considered as complete.
+=======
+
+## FAQ
+
+#### Is the project already finished?
+
+Once the entire project has been deployed the title and content of this page will change to a positive answer.
+>>>>>>> 7e5979e6937c855a9d2d96e940c72df72b59015a
 
 #### Are there issues in it?
 
@@ -235,16 +287,23 @@ Once the entire project has been deployed, we will add a note with all passed te
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
+=======
+>>>>>>> 7e5979e6937c855a9d2d96e940c72df72b59015a
 ## Credits
 
 - sample.jpg: [@jjjordan](https://unsplash.com/@jjjordan)
 - hero.jpg: [@naimbic](https://www.pexels.com/@naimbic)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 - marketplace.jpg: [@Rodion Kutsaiev](https://unsplash.com/photos/-tgTipG2t_g)
 >>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
+=======
+- marketplace.jpg: [@Rodion Kutsaiev](https://unsplash.com/photos/-tgTipG2t_g)
+>>>>>>> 7e5979e6937c855a9d2d96e940c72df72b59015a
 - Rather than relying on Stack Overflow or Google for all my programming queries, I specifically turned to **ChatGPT** to seek clarification on certain code implementations and clear up any lingering doubts.
 - [codeinstitute.net](https://codeinstitute.net/) for the proper education provided, which knowledge is being applied throughout this project.
 - Programminghub where I learned the basics before joining Code Institute.
@@ -252,6 +311,7 @@ Once the entire project has been deployed, we will add a note with all passed te
 ## Authors
 
 - [@plexoio](https://www.github.com/plexoio) | Frank Arellano
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 
@@ -261,4 +321,6 @@ Once the entire project has been deployed, we will add a note with all passed te
 >>>>>>> 545ac190df7e176d9a7379f390f087148bd63cb2
 =======
 >>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
+=======
+>>>>>>> 7e5979e6937c855a9d2d96e940c72df72b59015a
 
