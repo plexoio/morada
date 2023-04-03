@@ -3,6 +3,7 @@
 
 Morada NFT is a landing page for purchasing functional NFTs offered by a hotel. "Functional" in this context refers to NFTs that hold real value or utility.
 
+<<<<<<< HEAD
 Please note that this project is not available for public deployment; it is intended solely for learning and demonstration purposes.
 
 <<<<<<< HEAD
@@ -11,6 +12,11 @@ Please note that this project is not available for public deployment; it is inte
 - **Stage 1: Structure** is only for documenting the development process of Morada NFT.
 
 >>>>>>> 545ac190df7e176d9a7379f390f087148bd63cb2
+=======
+Please note that this project is not available for public deployment; **it is intended solely for learning and demonstration purposes**.
+
+- **Stage 5: Structure** is only for documenting the development process of Morada NFT
+>>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
 
 
 
@@ -19,6 +25,7 @@ Please note that this project is not available for public deployment; it is inte
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ## What's new?
 
@@ -33,6 +40,51 @@ Please note that this project is not available for public deployment; it is inte
 
 =======
 >>>>>>> 545ac190df7e176d9a7379f390f087148bd63cb2
+=======
+## What's new?
+
+- Started with contact.html section
+
+- Marketplace.html improved
+
+- Learn.html created with youtube embbedded MIT course about Blockchain by Gary Gensler
+
+- Added lottie animation script, ready for iframe graphics
+
+- New folder structure (industry standard)
+
+- File paths updated
+
+- Google Maps added on contact page
+
+- Fix bugs and errors
+
+- Cleaned nav bar css
+
+- Less redundant css declarations, new rules for those created
+
+Bugs or errors are still expected
+
+## What's coming?
+
+- First Jigsaw W3C testing
+
+- New HTML W3C testing
+
+- Improvement of all pages
+
+- Address Call-to-action issue
+
+- Finishing up contact section
+
+- Social media buttons?
+
+- Fictitious connection with Metamask (still pending)
+
+I am still building the final code structure. More versions are coming!
+
+
+>>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
 ## Roadmap
 
 - Create main `index.html`, `learn.html`, `marketplace.html`, `contact.html`, `style.css`, and `nft.css` files
@@ -73,6 +125,7 @@ Intended logical organization of the code
 
 ├── index.html
 
+<<<<<<< HEAD
 ├── page1.html
 
 ├── page2.html
@@ -116,10 +169,45 @@ Intended logical organization of the code
 ├── **vendor**/
 
 <<<<<<< HEAD
+=======
+├── marketplace.html
+
+├── learn.html
+
+├── contact.html
+
+├── **assets**/
+
+│ &nbsp;&nbsp;&nbsp;└── css/
+
+│       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── style.css
+
+│       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── nft.css
+
+│ &nbsp;&nbsp;&nbsp;└── font/
+
+│    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Bitter/
+
+│    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Lora/
+
+│    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Roboto/
+
+│ &nbsp;&nbsp;&nbsp;└── img/
+
+│       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── logo.png
+
+│ &nbsp;&nbsp;&nbsp;└── js/
+
+├── **documentation**/
+
+├── **vendor**/
+
+>>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
 │   └── img/
 
 │       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── hero.jpg
 
+<<<<<<< HEAD
 │       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── sample.jpg
 =======
 │   └── files
@@ -128,6 +216,12 @@ Intended logical organization of the code
 └── **resources**/
 
     └── document.pdf
+=======
+│       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── marketplace.jpg
+
+│       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── sample.jpg
+
+>>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
 
 ## FAQ
 
@@ -140,10 +234,17 @@ Once the entire project has been deployed, the structure section may be consider
 Once the entire project has been deployed, we will add a note with all passed tests for security, accessibility, quality, and semantics.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
 ## Credits
 
 - sample.jpg: [@jjjordan](https://unsplash.com/@jjjordan)
 - hero.jpg: [@naimbic](https://www.pexels.com/@naimbic)
+<<<<<<< HEAD
+=======
+- marketplace.jpg: [@Rodion Kutsaiev](https://unsplash.com/photos/-tgTipG2t_g)
+>>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
 - Rather than relying on Stack Overflow or Google for all my programming queries, I specifically turned to **ChatGPT** to seek clarification on certain code implementations and clear up any lingering doubts.
 - [codeinstitute.net](https://codeinstitute.net/) for the proper education provided, which knowledge is being applied throughout this project.
 - Programminghub where I learned the basics before joining Code Institute.
@@ -151,10 +252,13 @@ Once the entire project has been deployed, we will add a note with all passed te
 ## Authors
 
 - [@plexoio](https://www.github.com/plexoio) | Frank Arellano
+<<<<<<< HEAD
 =======
 
 ## Authors
 
 - [@plexoio](https://www.github.com/plexoio)
 >>>>>>> 545ac190df7e176d9a7379f390f087148bd63cb2
+=======
+>>>>>>> b3276b4f6aadf0bf94c5839112ca748cf9b69828
 
