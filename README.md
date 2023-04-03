@@ -5,7 +5,12 @@ Morada NFT is a landing page for purchasing functional NFTs offered by a hotel. 
 
 Please note that this project is not available for public deployment; it is intended solely for learning and demonstration purposes.
 
+<<<<<<< HEAD
 - **Stage 2: Structure** is only for documenting the development process of Morada NFT
+=======
+- **Stage 1: Structure** is only for documenting the development process of Morada NFT.
+
+>>>>>>> 545ac190df7e176d9a7379f390f087148bd63cb2
 
 
 
@@ -14,6 +19,7 @@ Please note that this project is not available for public deployment; it is inte
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
+<<<<<<< HEAD
 ## What's new?
 
 - Clearer HTML (semantics) and CSS structure (improvement expected)
@@ -25,6 +31,8 @@ Please note that this project is not available for public deployment; it is inte
 
 - I am still building the final code structure. More versions are coming!
 
+=======
+>>>>>>> 545ac190df7e176d9a7379f390f087148bd63cb2
 ## Roadmap
 
 - Create main `index.html`, `learn.html`, `marketplace.html`, `contact.html`, `style.css`, and `nft.css` files
@@ -85,7 +93,11 @@ Intended logical organization of the code
 
 ├── **img**/
 
+<<<<<<< HEAD
 │   ├── logo.png
+=======
+│   ├── image1.jpg
+>>>>>>> 545ac190df7e176d9a7379f390f087148bd63cb2
 
 │   ├── image2.png
 
@@ -103,11 +115,15 @@ Intended logical organization of the code
 
 ├── **vendor**/
 
+<<<<<<< HEAD
 │   └── img/
 
 │       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── hero.jpg
 
 │       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── sample.jpg
+=======
+│   └── files
+>>>>>>> 545ac190df7e176d9a7379f390f087148bd63cb2
 
 └── **resources**/
 
@@ -123,6 +139,7 @@ Once the entire project has been deployed, the structure section may be consider
 
 Once the entire project has been deployed, we will add a note with all passed tests for security, accessibility, quality, and semantics.
 
+<<<<<<< HEAD
 ## Credits
 
 - sample.jpg: [@jjjordan](https://unsplash.com/@jjjordan)
@@ -134,4 +151,10 @@ Once the entire project has been deployed, we will add a note with all passed te
 ## Authors
 
 - [@plexoio](https://www.github.com/plexoio) | Frank Arellano
+=======
+
+## Authors
+
+- [@plexoio](https://www.github.com/plexoio)
+>>>>>>> 545ac190df7e176d9a7379f390f087148bd63cb2
 
