@@ -8,7 +8,9 @@
         <meta name="keywords" content="morada, hotel, nft, basic, expert, premium, utility, value, blockchain, polygon, metamask, nfts">
         <meta name="author" content="Frank Arellano">
         <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+        <link href="assets/css/media.css" rel="stylesheet" type="text/css">
         <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/web3@1.3.5/dist/web3.min.js"></script>
     </head>
     <body>
 
@@ -16,19 +18,21 @@
         <header>
             <nav>
                 <div>
-                    <img class="logo-img" src="assets/img/logo.png" alt="logo of morada">
+                    <a href="index.htm"><img class="logo-img" src="assets/img/logo.png" alt="logo of morada"></a>
                 </div>
                 <a href="index.htm" target="_blank">Home</a>
                 <a href="marketplace.html" target="_blank">Market</a>
                 <a href="learn.html" target="_blank">Learn</a>
                 <a href="contact.html" target="_blank">Contact</a>
-                <a id="metamask" href="metamask.html" target="_blank"><strong>Metamask</strong></a>               
+                <a onclick="connect()" id="metamask"><strong>Metamask</strong></a>               
             </nav>
         </header>
         <!-- End nav section-->
 
         <div class="height text-center">
+        <a href="contact.html"><h1 class="background call-action-start padding-bottom">Contact</h1></a>
         <section class="contact">
+            <h2 class="base-color call-action-start padding-bottom">Contact</h2>
             <form action="" method="POST">
                 <fieldset>
                     <legend>Contact</legend>
@@ -83,7 +87,7 @@
         </section>
         <aside class="aside contact">
             <div>
-                <h1 class="text-center base-color">What is Morada?</h1>
+                <h2 class="text-center base-color">What is Morada?</h2>
                 <p>Lorem Ipsum is simply dummy text of the printing and 
                     typesetting industry. Lorem Ipsum has been the industry's 
                     standard dummy text ever since the 1500s, when an unknown 
@@ -95,10 +99,17 @@
                     and more recently with desktop publishing software like Aldus 
                     PageMaker including versions of Lorem Ipsum.
                 </p>
-                <p><strong>Address:</strong></p>
-                <p><strong>Tlf:</strong></p>
-                <p><strong>Email:</strong></p>
-                <p><strong>Smart Contract:</strong></p>
+                <p><strong>Address</strong></p>
+                <p><strong>Tlf</strong></p>
+                <p><strong>Email</strong></p>
+                <p><strong>Smart Contract</strong></p>
+                <p><strong>Social Media</strong></p>
+                <ul class="base-color">
+                    <li><a href="https://www.facebook.com/plexo.io" target="_blank">Facebook</a></li>
+                    <li><a href="https://twitter.com/plexoio" target="_blank">Twitter</a></li>
+                    <li><a href="https://instagram.com/plexo.io target="_blank">Instagram</a></li>
+                    <li><a href="https://linktr.ee/plexoblockchain" target="_blank">Linktree</a></li>
+                </ul>
             </div>
         </aside>
         </div>
@@ -116,4 +127,22 @@
                 <p>©2023 <b>morada.nft</b> of Morada by Frank Arellano</p>
             </div>
         </footer>
+        <script>
+            async function connect() {
+              if (typeof window.ethereum !== 'undefined') {
+                try {
+                  // Request account access
+                  await window.ethereum.request({ method: 'eth_requestAccounts' });
+                  // Get the current account
+                  const accounts = await window.ethereum.request({ method: 'eth_accounts' });
+                  const currentAccount = accounts[0];
+                  alert(`Logged in as ${currentAccount}`);
+                } catch (error) {
+                  alert(`Error: ${error.message}`);
+                }
+              } else {
+                alert('Metamask is not installed');
+              }
+            }
+          </script>
     </body>

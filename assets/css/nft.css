@@ -5,7 +5,7 @@
     place-items: center;
 }
 
-.info-basic {
+.info-nft {
     width: 100%;
     height: 32vw;
     opacity: 0;
@@ -15,25 +15,17 @@
     margin: 0;
 }
 
-.info-basic:hover {
-    width: 100%;
-    height: 100%;
+.info-nft:hover {
     background-color:#9c59b6b2;
     opacity: 1;
     transition:0.5s;
     color:white;
-    margin: 0;
 }
 
-.info-basic > p{
+.info-nft > p{
     width: 30ch;
     text-align: center;
 }
-.info-basic:hover > p{
-    width: 30ch;
-    text-align: center;
-}
-
 
 /*NFT section - BASIC*/
 
@@ -72,3 +64,79 @@
 }
 
 /* End NFT BASIC 3 */
+
+/*NFT section - EXPERT*/
+
+/* START NFT EXPERT 1*/
+.nft-basic{
+    width: 32.9%;
+    height: 32vw;
+    background-image: url('../../vendor/img/sample.jpg');
+    background-size: cover;
+    transition:0.5s;
+    display: inline-block;
+}
+
+/* End NFT EXPERT 1 */
+
+/* START NFT EXPERT 2*/
+.nft-basic2{
+    width: 32.9%;
+    height: 32vw;
+    background-image: url('../../vendor/img/sample.jpg');
+    background-size: cover;
+    transition:0.5s;
+    display: inline-block;
+}
+
+/* End NFT EXPERT 2 */
+
+/* START NFT EXPERT 3*/
+.nft-basic3{
+    width: 32.9%;
+    height: 32vw;
+    background-image: url('../../vendor/img/sample.jpg');
+    background-size: cover;
+    transition:0.5s;
+    display: inline-block;
+}
+
+/* End NFT EXPERT 3 */
+
+/*NFT section - PREMIUM*/
+
+/* START NFT PREMIUM 1*/
+.nft-basic{
+    width: 32.9%;
+    height: 32vw;
+    background-image: url('../../vendor/img/sample.jpg');
+    background-size: cover;
+    transition:0.5s;
+    display: inline-block;
+}
+
+/* End NFT PREMIUM 1 */
+
+/* START NFT PREMIUM 2*/
+.nft-basic2{
+    width: 32.9%;
+    height: 32vw;
+    background-image: url('../../vendor/img/sample.jpg');
+    background-size: cover;
+    transition:0.5s;
+    display: inline-block;
+}
+
+/* End NFT PREMIUM 2 */
+
+/* START NFT PREMIUM 3*/
+.nft-basic3{
+    width: 32.9%;
+    height: 32vw;
+    background-image: url('../../vendor/img/sample.jpg');
+    background-size: cover;
+    transition:0.5s;
+    display: inline-block;
+}
+
+/* End NFT PREMIUM 3 */

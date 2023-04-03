@@ -1,0 +1,217 @@
+/* Mobile devices (small screens)*/
+@media only screen and (max-width: 480px) {
+nav {
+  font-size: 1.1rem;
+}
+div[class=learn-nft] {
+  width: 80vw;
+}
+details > p {
+  width: 70vw;
+  font-size: 17px;
+}
+.hero-container {
+  height: 100vw;
+  width: 100vw;
+}
+.tangerine-hero-title {
+  top: 10%;
+}
+.tangerine-hero-button {
+  top:25%;
+}
+.nft-basic {
+  width: 100vw;
+  height: 100vw;
+  display: block;
+}
+.info-nft {
+  width: 100vw;
+  height: 100vw;
+}
+.nft-basic2 {
+  width: 100vw;
+  height: 100vw;
+  display: block;
+}
+.nft-basic3 {
+  width: 100vw;
+  height: 100vw;
+  display: block;
+}
+
+.contact {
+  float: left;
+  left: 10vw;
+  width: 80vw;
+}
+
+textarea{
+  width: 90%;
+}
+
+.aside {
+  width: 80vw;
+  padding: 20px;
+  margin-left: -20px;
+}
+ul > li {
+  display: inline-block;
+  padding: 20px 10px 10px 0px;
+}
+ul {
+  padding: 0;
+}
+
+ul > li > a {
+    font-size: 18px;
+}
+.footer {
+  font-size: 14px;
+}
+}
+/*Tablets (portrait orientation)*/
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  div[class=learn-nft] {
+    width: 80vw;
+  }
+  details > p {
+    width: 70vw;
+    font-size: 17px;
+  }
+
+  .tangerine-font {
+    font-size: 2rem;
+  }
+
+  .nft-basic {
+    width: 30vw;
+    height: 30vw;
+  }
+  .info-nft {
+    width: 30vw;
+    height: 30vw;
+  }
+  .info-nft > p {
+    width: 20ch;
+    font-size: 12px;
+  }
+  .nft-basic2 {
+    width: 30vw;
+    height: 30vw;
+  }
+  .nft-basic3 {
+    width: 30vw;
+    height: 30vw;
+  }
+.claim {
+    padding: 5px 5px 5px 5px;
+    font-size: 12px;
+}
+.claim:hover {
+  padding: 5px 5px 5px 5px;
+  font-size: 12px;
+}
+.learn {
+  padding: 5px 5px 5px 5px;
+  font-size: 12px;
+}
+.learn:hover {
+padding: 5px 5px 5px 5px;
+font-size: 12px;
+}
+
+a[href="index.htm"] > img {
+  display: none;
+  }
+body nav {
+  height: 2rem;
+  padding: 20px 0 5px;}
+.padding {
+  padding: 70px 0 10px 0;
+  }
+
+.contact {
+  left:20vw;
+}
+
+.aside {
+    width: 40ch;
+    margin-left: 0px;
+}
+
+ul {
+  display: inline-block;
+  padding: 0;
+}
+.hr-cut-bottom {
+  padding: 0 0 35px 0;
+}
+}
+
+/*Tablets (landscape orientation) and small desktops*/
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  div[class=learn-nft] {
+    width: 80vw;
+  }
+  details > p {
+    width: 70vw;
+  }
+  .tangerine-font {
+    font-size: 2rem;
+  }
+
+  .nft-basic {
+    width: 30vw;
+    height: 30vw;
+  }
+  .info-nft {
+    width: 30vw;
+    height: 30vw;
+  }
+  .info-nft > p {
+    width: 20ch;
+    font-size: 12px;
+  }
+  .nft-basic2 {
+    width: 30vw;
+    height: 30vw;
+  }
+  .nft-basic3 {
+    width: 30vw;
+    height: 30vw;
+  }
+.claim {
+    padding: 5px 5px 5px 5px;
+    font-size: 12px;
+}
+.claim:hover {
+  padding: 5px 5px 5px 5px;
+  font-size: 12px;
+}
+.learn {
+  padding: 5px 5px 5px 5px;
+  font-size: 12px;
+}
+.learn:hover {
+padding: 5px 5px 5px 5px;
+font-size: 12px;
+}
+
+a[href="index.htm"] > img {
+  display: none;
+  }
+body nav {
+  height: 2rem;
+  padding: 20px 0 5px;}
+.padding {
+  padding: 70px 0 10px 0;
+  }
+ul {
+  display: inline-block;
+  padding: 0;
+}
+.hr-cut-bottom {
+  padding: 0 0 35px 0;
+}
+}
