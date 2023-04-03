@@ -21,7 +21,7 @@ body {
 .sticky-top {
     position: fixed;
     top:0;
-    width: 100%;
+    width: 100vw;
     z-index: 999;
 }
 
@@ -54,10 +54,13 @@ nav > div {
     justify-content: center;
 }
 
+a {
+    text-decoration: none;
+}
+
 nav > a {
     color:white;
-    text-decoration: none;
-transition: 0.3s;
+    transition: 0.3s;
     padding-right:10px;
 }
 
@@ -175,8 +178,8 @@ h2 {
     margin:0;
     background: url('../../vendor/img/hero.jpg') no-repeat center center fixed;
     background-size: cover;
-    height: 80vh;
-    width: auto;
+    height: 50vw;
+    width: 100vw;
     position:relative;
 }
 
@@ -308,7 +311,7 @@ footer {
     color:white;
     position:fixed;
     bottom: 0;
-    width: 100%;
+    width: 100vw;
     text-align: center;
 }
 
@@ -436,9 +439,9 @@ div[id=text-align] > input {
 
 div[class=learn-nft] {
     background-color: #9c59b61e;
+    width:40%;
 }
 .learn-nft {
-    width:40%;
     margin-top:10vh;
     margin-bottom:15vh;
     display: inline-block;
@@ -451,6 +454,7 @@ details {
     margin:0 0 10px 0;
     text-align: center;
 }
+
 details > p {
     padding:10px 10px;
     width:40ch;
@@ -459,12 +463,21 @@ details > p {
     text-align: justify;
     margin:10px 0 0 0;
 }
+
 summary {
     background-color: #9B59B6;
     color:white;
     padding:20px;
     font-weight: 700;
+    transition: 0.5s;
+    cursor: pointer;
+    font-size: 18px;
+}
+summary:hover {
+    transition: 0.5s;
+    background-color: #460462;
 }
 div > iframe {
     margin-bottom: 10px;
+    margin-top:10px;
 }
