@@ -150,6 +150,6 @@ Once the entire project has been deployed, we will add a note with all passed te
 - [codeinstitute.net](https://codeinstitute.net/) for the proper education provided, which knowledge is being applied throughout this project.
 - Programminghub where I learned the basics before joining Code Institute.
 
-## Authors
+## Authors 
 
 - [@plexoio](https://www.github.com/plexoio) | Frank Arellano
