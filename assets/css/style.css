@@ -1,16 +1,16 @@
 @font-face {
     font-family: "Roboto";
-    src: url("morada/assets/font/roboto/Roboto-Regular.ttf");
+    src: url("../font/roboto/Roboto-Regular.ttf");
   }
 
 @font-face {
     font-family: "Bitter";
-    src: url("morada/assets/font/bitter/static/bitter-Regular.ttf");
+    src: url("../font/bitter/static/bitter-Regular.ttf");
   }
 
   @font-face {
     font-family: "Tangerine";
-    src: url("morada/assets/font/tangerine/Tangerine-Regular.ttf");
+    src: url("../font/tangerine/Tangerine-Regular.ttf");
   }
 body {
     background-color:#FFE8FF;
