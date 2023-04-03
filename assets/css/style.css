@@ -21,7 +21,7 @@ body {
 .sticky-top {
     position: fixed;
     top:0;
-    width: 100vw;
+    width: 100%;
     z-index: 999;
 }
 
@@ -179,7 +179,7 @@ h2 {
     background: url('../../vendor/img/hero.jpg') no-repeat center center fixed;
     background-size: cover;
     height: 50vw;
-    width: 100vw;
+    width: 100%;
     position:relative;
 }
 
@@ -290,8 +290,8 @@ h2 {
     font-weight: 600;
 }
 
-div {
-    text-align:justify;
+div > img {
+    text-align:center;
 }
 
 span {
@@ -315,9 +315,13 @@ footer {
     text-align: center;
 }
 
+footer > ul {
+    margin-top:10px;
+}
+
 footer > p {
     margin-bottom: 5px;
-    padding-right:5px;
+    margin-left:40px;
 }
 
 .footer {
@@ -333,12 +337,12 @@ ul {
 }
 
 ul > li {
-    display: inline-block;
+    display: inline;
     padding:10px 5px 5px 0px;
 }
 
 ul > li > a {
-    font-size: 12px;
+    font-size: 16px;
     color:white;
     text-decoration: none;
 }

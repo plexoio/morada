@@ -56,18 +56,22 @@ textarea{
   margin-left: -20px;
 }
 ul > li {
-  display: inline-block;
-  padding: 20px 10px 10px 0px;
+  display: inline;
+  padding: 10px 5px 5px 0px;
 }
 ul {
   padding: 0;
 }
 
 ul > li > a {
-    font-size: 18px;
+    font-size: 16px;
 }
 .footer {
   font-size: 14px;
+}
+
+footer > p {
+  margin-left:5px;
 }
 }
 /*Tablets (portrait orientation)*/
@@ -105,20 +109,20 @@ ul > li > a {
     height: 30vw;
   }
 .claim {
-    padding: 5px 5px 5px 5px;
-    font-size: 12px;
+    padding: 5px 5px;
+    font-size: 16px;
 }
 .claim:hover {
-  padding: 5px 5px 5px 5px;
-  font-size: 12px;
+  padding: 5px 5px;
+  font-size: 16px;
 }
 .learn {
-  padding: 5px 5px 5px 5px;
-  font-size: 12px;
+  padding: 5px 5px;
+  font-size: 16px;
 }
 .learn:hover {
-padding: 5px 5px 5px 5px;
-font-size: 12px;
+padding: 5px 5px;
+font-size: 16px;
 }
 
 a[href="index.htm"] > img {
@@ -182,19 +186,19 @@ ul {
     height: 30vw;
   }
 .claim {
-    padding: 5px 5px 5px 5px;
+    padding: 5px 5px;
     font-size: 12px;
 }
 .claim:hover {
-  padding: 5px 5px 5px 5px;
+  padding: 5px 5px;
   font-size: 12px;
 }
 .learn {
-  padding: 5px 5px 5px 5px;
+  padding: 5px 5px;
   font-size: 12px;
 }
 .learn:hover {
-padding: 5px 5px 5px 5px;
+padding: 5px 5px;
 font-size: 12px;
 }
 

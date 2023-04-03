@@ -17,21 +17,25 @@
 
         <!-- Start nav section-->
         <header class="sticky-top">
-            <nav>
-                <div>
-                    <a href="index.htm"><img class="logo-img" src="assets/img/logo.png" alt="logo of morada"></a>
-                </div>
-                <a href="index.htm" target="_blank">Home</a>
-                <a href="marketplace.html" target="_blank">Market</a>
-                <a href="learn.html" target="_blank">Learn</a>
-                <a href="contact.html" target="_blank">Contact</a>
-                <a onclick="connect()" id="metamask"><strong>Metamask</strong></a>               
+            <nav aria-label="Morada Navigation Bar">
+                <ul>
+                    <li>
+                        <div>
+                            <a href="index.htm"><img class="logo-img" src="assets/img/logo.png" alt="logo of morada"></a>
+                        </div>
+                    </li>
+                    <li><a href="index.htm" target="_blank">Home</a></li>
+                    <li><a href="marketplace.html" target="_blank">Market</a></li>
+                    <li><a href="learn.html" target="_blank">Learn</a></li>
+                    <li><a href="contact.html" target="_blank">Contact</a></li>
+                    <li><a onclick="connect()" id="metamask"><strong>Metamask</strong></a></li> 
+                </ul>              
             </nav>
         </header>
         <!-- End nav section-->
 
         <!-- Start of Branding-->
-        <div class="padding">
+        <div class="padding" aria-labelledby="site-title site-motto site-main-buttons">
         <hr class="hr-cut">
         <section class="hr">
             <h2 class="tangerine">Morada Hotel</h2>
