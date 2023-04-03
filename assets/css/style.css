@@ -153,6 +153,10 @@ body h1,h2{
     background-color: white;
 }
 
+.color-white {
+    color:white;
+}
+
 .call-to-action {
     position: fixed;
     width: 100%;
@@ -321,12 +325,12 @@ footer > ul {
 
 footer > p {
     margin-bottom: 5px;
-    margin-left:40px;
 }
 
 .footer {
     display: inline-block;
     font-size: 12px;
+    margin-left:40px;
 }
 
 

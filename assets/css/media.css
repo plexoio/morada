@@ -68,12 +68,10 @@ ul > li > a {
 }
 .footer {
   font-size: 14px;
-}
-
-footer > p {
   margin-left:5px;
 }
 }
+
 /*Tablets (portrait orientation)*/
 @media only screen and (min-width: 481px) and (max-width: 768px) {
   div[class=learn-nft] {
@@ -151,6 +149,12 @@ ul {
 .hr-cut-bottom {
   padding: 0 0 35px 0;
 }
+
+.footer {
+  font-size: 16px;
+  margin-left:5px;
+}
+
 }
 
 /*Tablets (landscape orientation) and small desktops*/
