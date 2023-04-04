@@ -6,7 +6,7 @@ The static website is built on `HTML`, `CSS`, and subtle features using `Javascr
 
 As evident from all the information provided in this Readme.md, the state of this released product should be considered as an `MVP` for the main features.
 
-Please note that this project is not available for public deployment; **it is intended solely for learning and demonstration purposes**.
+Please note that this project is not available for public deployment; **it is intended solely for learning and demonstration purposes** even though is ready for use.
 
 **Preview Link:** [Morada Hotel](https://plexoio.github.io/morada/index.htm)
 
@@ -29,6 +29,98 @@ Please note that this project is not available for public deployment; **it is in
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+
+## Strategy
+A leading hotel has chosen to embrace cutting-edge technology to distinguish itself from competitors. Their clients and stakeholders are typically keen on tracking the franchise's advancements. For many, being a member of this hotel is viewed as a significant investment, akin to joining an exclusive club that is passed down from generation to generation.
+
+The hotel has identified the most efficient technology to securely preserve their membership data indefinitely: blockchain technology on the Polygon Network. This eliminates the need for excess paperwork and unnecessary human intervention. By reducing data processing costs, it offers a greener solution for the environment while efficiently verifying customer memberships.
+
+At Morada, they believe in enjoying life to the fullest. Their philosophy balances stoicism and hedonism, ensuring that they know when to indulge.
+
+As a result, NFTs on the Polygon Network have been chosen as the ideal solution to manage, store, and commercialize memberships. This approach makes them interoperable, allowing clients to access partner services as well. Members can simply hold and connect their digital NFTs to verify their identity whenever necessary.
+
+These findings are the product of thorough research, as demonstrated by the accompanying table and graphic.A leading hotel has chosen to embrace cutting-edge technology to distinguish itself from competitors. Their clients and stakeholders are typically keen on tracking the franchise's advancements. For many, being a member of this hotel is viewed as a significant investment, akin to joining an exclusive club that is passed down from generation to generation.
+
+The hotel has identified the most efficient technology to securely preserve their membership data indefinitely: blockchain technology on the Polygon Network. This eliminates the need for excess paperwork and unnecessary human intervention. By reducing data processing costs, it offers a greener solution for the environment while efficiently verifying customer memberships.
+
+At Morada, they believe in enjoying life to the fullest. Their philosophy balances stoicism and hedonism, ensuring that they know when to indulge.
+
+As a result, NFTs on the Polygon Network have been chosen as the ideal solution to manage, store, and commercialize memberships. This approach makes them interoperable, allowing clients to access partner services as well. Members can simply hold and connect their digital NFTs to verify their identity whenever necessary.
+
+These findings are the product of thorough research, as demonstrated by the accompanying priorities table and graphic of this iteration:
+
+
+
+<table>
+    <caption>Hola</caption>
+    <thead>
+        <tr>
+            <th>Goals</th>
+            <th>Relevancy<br>(0-5)</th>
+            <th>Viability<br>(0-5)</th>
+            <th>N. Items<br>(0-~)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Landing page</td>
+            <td>5</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>NFT showcase</td>
+            <td>5</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Marketplace</td>
+            <td>5</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Metamask Login</td>
+            <td>5</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Learn section</td>
+            <td>4</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Contact Section</td>
+            <td>5</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>CTA of current offers</td>
+            <td>4</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>N. Items</td>
+            <td></td>
+            <td></td>
+            <td>7</td>
+        </tr>
+        <tr>
+            <td>Max. Points</td>
+            <td></td>
+            <td></td>
+            <td>35</td>
+        </tr>
+        <tr>
+            <td>Results</td>
+            <td>33</td>
+            <td>21</td>
+        </tr>
+        <tr>
+            <td>Percentage</td>
+            <td>94.28% <br>(Strategy)</td>
+            <td>60%<br>(Scope)</td>
+        </tr>
+    </tbody>
+</table>
 <hr>
 
 ## What's new?
