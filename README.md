@@ -1,18 +1,35 @@
+# Morada NFT - Main Webpage
 
-# Development Process of Morada NFT
+Morada NFT is a landing page for purchasing functional NFTs offered by a hotel. "Functional" in this context refers to NFTs that hold real value or utility. Apart from receiving special benefits, free stays, surprises, VIP services, and more, clients will be at the forefront of the most advanced technology available for membership management and ticket issuance. Users become part of the hotel by holding an NFT, which is 100% tradable and valid for lifetime use.
 
-Morada NFT is a landing page for purchasing functional NFTs offered by a hotel. "Functional" in this context refers to NFTs that hold real value or utility.
+The static website is built on `HTML`, `CSS`, and subtle features using `Javascript`. It is fully responsive, structured, and organized.
+
+As evident from all the information provided in this Readme.md, the state of this released product should be considered as an `MVP` for the main features.
 
 Please note that this project is not available for public deployment; **it is intended solely for learning and demonstration purposes**.
 
-- **Stage 6: Structure** is only for documenting the development process of Morada NFT
+**Preview Link:** [Morada Hotel](https://plexoio.github.io/morada/index.htm)
 
 
+## Index
+
+1. <a href="#strategy">Strategy - Reason, Solution and Value</a>
+2. <a href="#scope">Scope - Feature and Capability</a>
+3. <a href="#structure">Structure - Content, Priority and Organization</a>
+4. <a href="#skeleton">Skeleton - Layout, Interaction and relationship</a>
+5. <a href="#surface">Surface - Color, Typography, Effect and Images</a>
+6. <a href="#technologies">Technologies used</a>
+7. <a href="#testing">Testing</a>
+8. <a href="#development">Development process</a>
+9. <a href="#deployment">Deployment</a>
+10. <a href="#graphics">Graphic sources</a>
+11. <a href="#credits">Credits</a>
 
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+<hr>
 
 ## What's new?
 
