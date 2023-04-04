@@ -48,79 +48,24 @@ At Morada, they believe in enjoying life to the fullest. Their philosophy balanc
 As a result, NFTs on the Polygon Network have been chosen as the ideal solution to manage, store, and commercialize memberships. This approach makes them interoperable, allowing clients to access partner services as well. Members can simply hold and connect their digital NFTs to verify their identity whenever necessary.
 
 These findings are the product of thorough research, as demonstrated by the accompanying priorities table and graphic of this iteration:
+<br>
+| Goals               | Relevancy (0-5) | Viability (0-5) | N. Items (0-~) |
+|:-------------------:|:---------------:|:---------------:|:-------------:|
+| Landing page        | 5               | 5               |               |
+| NFT showcase        | 5               | 2               |               |
+| Marketplace         | 5               | 1               |               |
+| Metamask Login      | 5               | 2               |               |
+| Learn section       | 4               | 3               |               |
+| Contact Section     | 5               | 5               |               |
+| CTA of current offers | 4             | 3               |               |
+| N. Items            |                 |                 | 7             |
+| Max. Points         |                 |                 | 35            |
+| Results             | 33              | 21              |               |
+| Percentage          | 94.28% <br> (Strategy)| 60% <br> (Scope)     |               |
+<br>
 
+![Table Graphic](https://github.com/plexoio/morada/blob/main/assets/img/strategy.png)
 
-
-<table>
-    <caption>Hola</caption>
-    <thead>
-        <tr>
-            <th>Goals</th>
-            <th>Relevancy<br>(0-5)</th>
-            <th>Viability<br>(0-5)</th>
-            <th>N. Items<br>(0-~)</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Landing page</td>
-            <td>5</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>NFT showcase</td>
-            <td>5</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>Marketplace</td>
-            <td>5</td>
-            <td>1</td>
-        </tr>
-        <tr>
-            <td>Metamask Login</td>
-            <td>5</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>Learn section</td>
-            <td>4</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>Contact Section</td>
-            <td>5</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>CTA of current offers</td>
-            <td>4</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>N. Items</td>
-            <td></td>
-            <td></td>
-            <td>7</td>
-        </tr>
-        <tr>
-            <td>Max. Points</td>
-            <td></td>
-            <td></td>
-            <td>35</td>
-        </tr>
-        <tr>
-            <td>Results</td>
-            <td>33</td>
-            <td>21</td>
-        </tr>
-        <tr>
-            <td>Percentage</td>
-            <td>94.28% <br>(Strategy)</td>
-            <td>60%<br>(Scope)</td>
-        </tr>
-    </tbody>
-</table>
 <hr>
 
 ## What's new?
