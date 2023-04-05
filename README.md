@@ -1,4 +1,4 @@
-# Morada NFT - Main Webpage
+# Morada Hotel NFT Project
 
 Morada NFT is a landing page for purchasing functional NFTs offered by a hotel. "Functional" in this context refers to NFTs that hold real value or utility. Apart from receiving special benefits, free stays, surprises, VIP services, and more, clients will be at the forefront of the most advanced technology available for membership management and ticket issuance. Users become part of the hotel by holding an NFT, which is 100% tradable and valid for lifetime use.
 
@@ -30,7 +30,7 @@ Please note that this project is not available for public deployment; **it is in
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-## Strategy <a name="strategy-plane"></a> | [START](#index)
+## Strategy <a name="strategy-plane"></a> | ### [START](#index)
 This leading hotel embraces innovative technology to differentiate from competitors, appealing to `clients` who value progressive advancements. Hotel membership is seen as a substantial investment for stakeholders and regular clients, comparable to an exclusive, generational club.
 
 To securely preserve membership data, the hotel employs blockchain technology on the Polygon Network, reducing paperwork, costs, and environmental impact while efficiently verifying memberships.
@@ -40,6 +40,8 @@ Morada's balanced philosophy combines stoicism and hedonism for a well-rounded l
 The `Morada Platform` aims to present these variety of innovative ideas and useful tools to its users, clients, and stakeholders.
 
 These insights stem from comprehensive research, as evidenced by the accompanying table and graphic.
+
+### Research
 
 <br>
 
@@ -59,6 +61,8 @@ These insights stem from comprehensive research, as evidenced by the accompanyin
 
 <br>
 
+### Research Graphic
+
 ![Table Graphic](https://github.com/plexoio/morada/blob/main/assets/img/strategy.png)
 
 The results show that the points we selected for our 'Relevancy' group are integrated with the most important points for the project itself, with the `Learn` and `CTA Offers` points having a slight difference of `4` to `5` compared to the highest point.
@@ -71,7 +75,7 @@ Based on these percentages, I have written a `Strategy` for `Relevancy` and a `S
 
 With this information, we can now move on to the next stage, which is `Scope`.
 
-## Scope <a name="scope-plane"></a> | [START](#index)
+## Scope <a name="scope-plane"></a> | ### [START](#index)
 
 Based on the importance of each functionality and feature, as well as the time frame, technology, and resources, we have decided to focus on what's most important for this iteration. This will enable us to get the best out of it and maintain a high trade-off environment, while delivering an MVP that maintains perceived value, a sense of surprise, and long-term engagement.
 
@@ -113,11 +117,11 @@ We have analyzed important factors at each step of our research for Useful, Sell
 | Subject wants more information about Morada NFT project                | Subject found the landing page of the project                                                   |
 | Subject wants to see how the NFTs will be displayed                    | Subject can see from the homepage 3 categories: Basic, Expert and Premium. Inside each category, 3 NFTs |
 | Subject wants to learn more about Blockchain and how NFTs will work    | Subject realized there are 2 educational sections on the homepage and a special educational section called Learn at the navbar |
-| Subject wants to try the process of buying an NFT                      | Subject discovered that first they need to log in with Metamask and simply click on Claim at the home page or on the future Marketplace |
+| Subject wants to try the process of buying a NFT                      | Subject discovered that first they need to log in with Metamask and simply click on Claim at the home page or on the future Marketplace |
 | Subject has questions and would like to more directly speak with an agent from the hotel | Subject found a friendly contact page for that                                                |
 
 
-In this way we have aligned our Scope based on the results of our research on the Strategy plane. This will help us in consecuense build the foundations of our next plane, Structure.
+In this way we have aligned our `Scope` based on the results of our research on the `Strategy` plane. The intention of a MVP iteration is evident at this point. This will help us in consecuense build the foundations of our next plane, `Structure`.
 
 <hr>
 
