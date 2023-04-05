@@ -42,6 +42,7 @@ The `Morada Platform` aims to present these variety of innovative ideas and usef
 These insights stem from comprehensive research, as evidenced by the accompanying table and graphic.
 
 <br>
+
 | Goals               | Relevancy (0-5) | Viability (0-5) | N. Items (0-~) |
 |:-------------------:|:---------------:|:---------------:|:-------------:|
 | Landing page        | 5               | 5               |               |
@@ -50,11 +51,12 @@ These insights stem from comprehensive research, as evidenced by the accompanyin
 | Metamask Login      | 5               | 2               |               |
 | Learn section       | 4               | 3               |               |
 | Contact Section     | 5               | 5               |               |
-| CTA Offers | 4             | 3               |               |
+| CTA of current offers | 4             | 3               |               |
 | N. Items            |                 |                 | 7             |
 | Max. Points         |                 |                 | 35            |
 | Results             | 33              | 21              |               |
 | Percentage          | 94.28% <br> (Strategy)| 60% <br> (Scope)     |               |
+
 <br>
 
 ![Table Graphic](https://github.com/plexoio/morada/blob/main/assets/img/strategy.png)
