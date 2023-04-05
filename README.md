@@ -13,17 +13,17 @@ Please note that this project is not available for public deployment; **it is in
 
 ## Index
 
-1. <a href="#strategy">Strategy - Reason, Solution and Value</a>
-2. <a href="#scope">Scope - Feature and Capability</a>
-3. <a href="#structure">Structure - Content, Priority and Organization</a>
-4. <a href="#skeleton">Skeleton - Layout, Interaction and relationship</a>
-5. <a href="#surface">Surface - Color, Typography, Effect and Images</a>
-6. <a href="#technologies">Technologies used</a>
-7. <a href="#testing">Testing</a>
-8. <a href="#development">Development process</a>
-9. <a href="#deployment">Deployment</a>
-10. <a href="#graphics">Graphic sources</a>
-11. <a href="#credits">Credits</a>
+1. [Strategy - Reason, Solution and Value](#strategy)
+2. [Scope - Feature and Capability](#scope)
+3. [Structure - Content, Priority and Organization](#structure)
+4. [Skeleton - Layout, Interaction and relationship](#skeleton)
+5. [Surface - Color, Typography, Effect and Images](#surface)
+6. [Technologies used](#technologies)
+7. [Testing](#testing)
+8. [Development process](#development)
+9. [Deployment](#deployment)
+10. [Graphic sources](#graphics)
+11. [Credits](#credits)
 
 ## Badges
 
