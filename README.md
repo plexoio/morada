@@ -11,10 +11,10 @@ Please note that this project is not available for public deployment; **it is in
 **Preview Link:** [Morada Hotel](https://plexoio.github.io/morada/index.htm)
 
 
-## Index
+## Index <a name="index"></a>
 
 1. [Strategy - Reason, Solution and Value](#strategy-plane)
-2. [Scope - Feature and Capability](#scope)
+2. [Scope - Feature and Capability](#scope-plane)
 3. [Structure - Content, Priority and Organization](#structure)
 4. [Skeleton - Layout, Interaction and relationship](#skeleton)
 5. [Surface - Color, Typography, Effect and Images](#surface)
@@ -30,7 +30,7 @@ Please note that this project is not available for public deployment; **it is in
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-## Strategy {#strategy-plane}
+## Strategy <a name="strategy-plane"></a> | [START](#index)
 This leading hotel embraces innovative technology to differentiate from competitors, appealing to `clients` who value progressive advancements. Hotel membership is seen as a substantial investment for stakeholders and regular clients, comparable to an exclusive, generational club.
 
 To securely preserve membership data, the hotel employs blockchain technology on the Polygon Network, reducing paperwork, costs, and environmental impact while efficiently verifying memberships.
@@ -71,7 +71,7 @@ Based on these percentages, I have written a `Strategy` for `Relevancy` and a `S
 
 With this information, we can now move on to the next stage, which is `Scope`.
 
-## Scope {#scope}
+## Scope <a name="scope-plane"></a> | [START](#index)
 
 Based on the importance of each functionality and feature, as well as the time frame, technology, and resources, we have decided to focus on what's most important for this iteration. This will enable us to get the best out of it and maintain a high trade-off environment, while delivering an MVP that maintains perceived value, a sense of surprise, and long-term engagement.
 
@@ -102,7 +102,19 @@ The Polygon Network solves most of our long-term challenges as well:
 - User-friendly applications
 - Utilities and services
 
-We have analyzed important factors at each step of our research for Useful, Sellable, Buildable: Objective, Functional, Non-functional, Business rules. As seen from our User Story table:
+We have analyzed important factors at each step of our research for Useful, Sellable, Buildable: Objective, Functional, Non-functional, Business rules. As seen from our `User Story` table:
+
+**Note:** In this context, "subject" refers to a user, prospect, or stakeholder.
+
+### User Story
+
+| Scenario                                                               | Solution                                                                                        |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Subject wants more information about Morada NFT project                | Subject found the landing page of the project                                                   |
+| Subject wants to see how the NFTs will be displayed                    | Subject can see from the homepage 3 categories: Basic, Expert and Premium. Inside each category, 3 NFTs |
+| Subject wants to learn more about Blockchain and how NFTs will work    | Subject realized there are 2 educational sections on the homepage and a special educational section called Learn at the navbar |
+| Subject wants to try the process of buying an NFT                      | Subject discovered that first they need to log in with Metamask and simply click on Claim at the home page or on the future Marketplace |
+| Subject has questions and would like to more directly speak with an agent from the hotel | Subject found a friendly contact page for that                                                |
 
 
 In this way we have aligned our Scope based on the results of our research on the Strategy plane. This will help us in consecuense build the foundations of our next plane, Structure.
