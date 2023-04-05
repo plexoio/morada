@@ -31,23 +31,16 @@ Please note that this project is not available for public deployment; **it is in
 
 
 ## Strategy
-A leading hotel has chosen to embrace cutting-edge technology to distinguish itself from competitors. Their clients and stakeholders are typically keen on tracking the franchise's advancements. For many, being a member of this hotel is viewed as a significant investment, akin to joining an exclusive club that is passed down from generation to generation.
+This leading hotel embraces innovative technology to differentiate from competitors, appealing to `clients` who value progressive advancements. Hotel membership is seen as a substantial investment for stakeholders and regular clients, comparable to an exclusive, generational club.
 
-The hotel has identified the most efficient technology to securely preserve their membership data indefinitely: blockchain technology on the Polygon Network. This eliminates the need for excess paperwork and unnecessary human intervention. By reducing data processing costs, it offers a greener solution for the environment while efficiently verifying customer memberships.
+To securely preserve membership data, the hotel employs blockchain technology on the Polygon Network, reducing paperwork, costs, and environmental impact while efficiently verifying memberships.
 
-At Morada, they believe in enjoying life to the fullest. Their philosophy balances stoicism and hedonism, ensuring that they know when to indulge.
+Morada's balanced philosophy combines stoicism and hedonism for a well-rounded life experience. By adopting NFTs on the Polygon Network, the hotel effectively manages memberships, allows interoperability with partner services, and streamlines identity verification for `clients`.
 
-As a result, NFTs on the Polygon Network have been chosen as the ideal solution to manage, store, and commercialize memberships. This approach makes them interoperable, allowing clients to access partner services as well. Members can simply hold and connect their digital NFTs to verify their identity whenever necessary.
+The `Morada Platform` aims to present these variety of innovative ideas and useful tools to its users, clients, and stakeholders.
 
-These findings are the product of thorough research, as demonstrated by the accompanying table and graphic.A leading hotel has chosen to embrace cutting-edge technology to distinguish itself from competitors. Their clients and stakeholders are typically keen on tracking the franchise's advancements. For many, being a member of this hotel is viewed as a significant investment, akin to joining an exclusive club that is passed down from generation to generation.
+These insights stem from comprehensive research, as evidenced by the accompanying table and graphic.
 
-The hotel has identified the most efficient technology to securely preserve their membership data indefinitely: blockchain technology on the Polygon Network. This eliminates the need for excess paperwork and unnecessary human intervention. By reducing data processing costs, it offers a greener solution for the environment while efficiently verifying customer memberships.
-
-At Morada, they believe in enjoying life to the fullest. Their philosophy balances stoicism and hedonism, ensuring that they know when to indulge.
-
-As a result, NFTs on the Polygon Network have been chosen as the ideal solution to manage, store, and commercialize memberships. This approach makes them interoperable, allowing clients to access partner services as well. Members can simply hold and connect their digital NFTs to verify their identity whenever necessary.
-
-These findings are the product of thorough research, as demonstrated by the accompanying priorities table and graphic of this iteration:
 <br>
 | Goals               | Relevancy (0-5) | Viability (0-5) | N. Items (0-~) |
 |:-------------------:|:---------------:|:---------------:|:-------------:|
@@ -57,7 +50,7 @@ These findings are the product of thorough research, as demonstrated by the acco
 | Metamask Login      | 5               | 2               |               |
 | Learn section       | 4               | 3               |               |
 | Contact Section     | 5               | 5               |               |
-| CTA of current offers | 4             | 3               |               |
+| CTA Offers | 4             | 3               |               |
 | N. Items            |                 |                 | 7             |
 | Max. Points         |                 |                 | 35            |
 | Results             | 33              | 21              |               |
@@ -65,6 +58,16 @@ These findings are the product of thorough research, as demonstrated by the acco
 <br>
 
 ![Table Graphic](https://github.com/plexoio/morada/blob/main/assets/img/strategy.png)
+
+The results show that the points we selected for our 'Relevancy' group are integrated with the most important points for the project itself, with the `Learn` and `CTA Offers` points having a slight difference of `4` to `5` compared to the highest point.
+
+In terms of viability, things started getting serious enough for us to see what we can really accomplish within the given time frame, with the technologies in use and the resources available. Among the 7 points, only 2 points scored a perfect `5` out of `5`, with `Learn` scoring the highest after the ones already mentioned, at `3`.
+
+Taking into account the other points for `Viability`, we arrive at a percentage that represents our possible contribution to this idea based on factors such as time, technology, and resources. From a different perspective, this tells us that we can complete at least 60% of this project, with the other 40% requiring greater investments in time and human resources.
+
+Based on these percentages, I have written a `Strategy` for `Relevancy` and a `Scope` for `Viability`, as these results can help us understand our overall `Strategy` and the upcoming `Scope` planning, since they are all interrelated.
+
+With this information, we can now move on to the next stage, which is `Scope`.
 
 <hr>
 
