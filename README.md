@@ -15,9 +15,9 @@ Please note that this project is not available for public deployment; **it is in
 
 1. [Strategy - Reason, Solution and Value](#strategy-plane)
 2. [Scope - Feature and Capability](#scope-plane)
-3. [Structure - Content, Priority and Organization](#structure)
-4. [Skeleton - Layout, Interaction and relationship](#skeleton)
-5. [Surface - Color, Typography, Effect and Images](#surface)
+3. [Structure - Content, Priority and Organization](#structure-plane)
+4. [Skeleton - Layout, Interaction and relationship](#skeleton-plane)
+5. [Surface - Color, Typography, Effect and Images](#surface-plane)
 6. [Technologies used](#technologies)
 7. [Testing](#testing)
 8. [Development process](#development)
@@ -30,7 +30,7 @@ Please note that this project is not available for public deployment; **it is in
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-## Strategy <a name="strategy-plane"></a> | ### [START](#index)
+## Strategy <a name="strategy-plane"></a> | [#](#index)
 This leading hotel embraces innovative technology to differentiate from competitors, appealing to `clients` who value progressive advancements. Hotel membership is seen as a substantial investment for stakeholders and regular clients, comparable to an exclusive, generational club.
 
 To securely preserve membership data, the hotel employs blockchain technology on the Polygon Network, reducing paperwork, costs, and environmental impact while efficiently verifying memberships.
@@ -75,7 +75,7 @@ Based on these percentages, I have written a `Strategy` for `Relevancy` and a `S
 
 With this information, we can now move on to the next stage, which is `Scope`.
 
-## Scope <a name="scope-plane"></a> | ### [START](#index)
+## Scope <a name="scope-plane"></a> | [#](#index)
 
 Based on the importance of each functionality and feature, as well as the time frame, technology, and resources, we have decided to focus on what's most important for this iteration. This will enable us to get the best out of it and maintain a high trade-off environment, while delivering an MVP that maintains perceived value, a sense of surprise, and long-term engagement.
 
@@ -122,6 +122,16 @@ We have analyzed important factors at each step of our research for Useful, Sell
 
 
 In this way we have aligned our `Scope` based on the results of our research on the `Strategy` plane. The intention of a MVP iteration is evident at this point. This will help us in consecuense build the foundations of our next plane, `Structure`.
+
+## Structure <a name="structure-plane"></a> | [#](#index)
+
+Our initial version of Morada NFT is straightforward for users, but as we add more features, the site's complexity will increase, and it will be considered of medium difficulty due to its connection to blockchain and the underlying processes.
+
+In this iteration, as shown in the following mind map, the site is intuitive, and users can easily navigate to where they need to go and understand what actions to take. The relationships between pages are clear, and one page leads to another. Users can sense the current functionality and enjoy interactivity due to various state changes. We have considered consistency, predictability, learnability, visibility, and feedback to ensure a good user experience.
+
+Please refer to the following mind map for more details on the Interactive Experience Design (IXD) for our Morada Project.
+
+![IXD Mindmap](https://github.com/plexoio/morada/blob/main/documentation/assets/img/IXD.png)
 
 <hr>
 
