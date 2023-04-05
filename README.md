@@ -30,7 +30,7 @@ Please note that this project is not available for public deployment; **it is in
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-## Strategy
+## Strategy {#strategy}
 This leading hotel embraces innovative technology to differentiate from competitors, appealing to `clients` who value progressive advancements. Hotel membership is seen as a substantial investment for stakeholders and regular clients, comparable to an exclusive, generational club.
 
 To securely preserve membership data, the hotel employs blockchain technology on the Polygon Network, reducing paperwork, costs, and environmental impact while efficiently verifying memberships.
@@ -63,13 +63,49 @@ These insights stem from comprehensive research, as evidenced by the accompanyin
 
 The results show that the points we selected for our 'Relevancy' group are integrated with the most important points for the project itself, with the `Learn` and `CTA Offers` points having a slight difference of `4` to `5` compared to the highest point.
 
-In terms of viability, things started getting serious enough for us to see what we can really accomplish within the given time frame, with the technologies in use and the resources available. Among the 7 points, only 2 points scored a perfect `5` out of `5`, with `Learn` scoring the highest after the ones already mentioned, at `3`.
+In terms of viability, things started getting serious enough for us to see what we can really accomplish within the given time frame `3 weeks`, with the technologies in use and the resources available. Among the 7 points, only 2 points scored a perfect `5` out of `5`, with `Learn` scoring the highest after the ones already mentioned, at `3`.
 
 Taking into account the other points for `Viability`, we arrive at a percentage that represents our possible contribution to this idea based on factors such as time, technology, and resources. From a different perspective, this tells us that we can complete at least 60% of this project, with the other 40% requiring greater investments in time and human resources.
 
 Based on these percentages, I have written a `Strategy` for `Relevancy` and a `Scope` for `Viability`, as these results can help us understand our overall `Strategy` and the upcoming `Scope` planning, since they are all interrelated.
 
 With this information, we can now move on to the next stage, which is `Scope`.
+
+## Scope {#scope}
+
+Based on the importance of each functionality and feature, as well as the time frame, technology, and resources, we have decided to focus on what's most important for this iteration. This will enable us to get the best out of it and maintain a high trade-off environment, while delivering an MVP that maintains perceived value, a sense of surprise, and long-term engagement.
+
+For this iteration, we decided to include features and functionalities under the following conditions and goals:
+
+
+|     Condition      |             Iteration              |            Goals             |
+|:------------------:|:----------------------------------:|:----------------------------:|
+|    Limited use     |   - index.htm<br>- contact.html<br>- learn.html   |    Culture acquisition       |
+|   Simple design    |   - Metamask Login<br>- NFT showcase   |        Tech Showcase         |
+| Low leading rates<br>& Non-functional | - CTA offer<br>- Marketplace<br>- Metamask Login | Long-term Investment<br>& Future Implementation |
+
+
+
+
+As we can see, the most achievable ones are the first three points on our list. We'll design the starting points of those tagged as `future implementation` for the sake of clarity, user experience, and to convey our message properly.
+
+Each priority section will take a Sprint of 2 to 3 days of development. Initial design of future implementation should not take more than 1 day.
+
+Users and stakeholders want the hotel to demonstrate that they are at the forefront of the latest technologies. They want to use blockchain but don't know precisely how, and we have presented the idea of NFTs or tokenization of memberships, which they love. They want an introduction and more information about the project.
+
+The Polygon Network solves most of our long-term challenges as well:
+
+- Paperwork
+- Tracking
+- Payment methods
+- Interoperability
+- User-friendly applications
+- Utilities and services
+
+We have analyzed important factors at each step of our research for Useful, Sellable, Buildable: Objective, Functional, Non-functional, Business rules. As seen from our User Story table:
+
+
+In this way we have aligned our Scope based on the results of our research on the Strategy plane. This will help us in consecuense build the foundations of our next plane, Structure.
 
 <hr>
 
