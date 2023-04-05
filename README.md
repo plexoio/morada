@@ -63,7 +63,7 @@ These insights stem from comprehensive research, as evidenced by the accompanyin
 
 ### Research Graphic
 
-![Table Graphic](https://github.com/plexoio/morada/blob/main/assets/img/strategy.png)
+![Table Graphic](https://github.com/plexoio/morada/blob/main/documentation/assets/img/strategy.png)
 
 The results show that the points we selected for our 'Relevancy' group are integrated with the most important points for the project itself, with the `Learn` and `CTA Offers` points having a slight difference of `4` to `5` compared to the highest point.
 
@@ -132,6 +132,12 @@ In this iteration, as shown in the following mind map, the site is intuitive, an
 Please refer to the following mind map for more details on the Interactive Experience Design (IXD) for our Morada Project.
 
 ![IXD Mindmap](https://github.com/plexoio/morada/blob/main/documentation/assets/img/IXD.png)
+
+Placing the right keywords, data, and content in the appropriate sections and subsections is crucial to ensure proper navigation and organization. This approach allows us to convey value and serve the final purpose of the underlying feature. We also use lists and nested lists to present information effectively. By referring to the first mind map, which represents the interactive part, we can see how information will be placed and how it will serve its purpose in conjunction with the interactive design.
+
+Please refer to the following mind map for more details on the Information Architecture Design (IAD) for our Morada Project.
+
+![IXD Mindmap](https://github.com/plexoio/morada/blob/main/documentation/assets/img/IAD.png)
 
 <hr>
 
