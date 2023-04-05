@@ -13,7 +13,7 @@ Please note that this project is not available for public deployment; **it is in
 
 ## Index
 
-1. [Strategy - Reason, Solution and Value](#strategy)
+1. [Strategy - Reason, Solution and Value](#strategy-plane)
 2. [Scope - Feature and Capability](#scope)
 3. [Structure - Content, Priority and Organization](#structure)
 4. [Skeleton - Layout, Interaction and relationship](#skeleton)
@@ -30,7 +30,7 @@ Please note that this project is not available for public deployment; **it is in
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-## Strategy {#strategy}
+## Strategy {#strategy-plane}
 This leading hotel embraces innovative technology to differentiate from competitors, appealing to `clients` who value progressive advancements. Hotel membership is seen as a substantial investment for stakeholders and regular clients, comparable to an exclusive, generational club.
 
 To securely preserve membership data, the hotel employs blockchain technology on the Polygon Network, reducing paperwork, costs, and environmental impact while efficiently verifying memberships.
