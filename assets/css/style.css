@@ -385,13 +385,14 @@ ul[class=base-color] > li > a {
     color:#ffffff;
     border: 1px solid #9B59B6;
     border-radius: 15px;
-    padding:10px;
+    padding:7px;
     background-color: #9B59B6;
     transition:0.3s;
+    font-size: 13px;
+    margin-top:5px;
 }
 
 ul[class=base-color] > li {
-    margin:20px
 }
 
 ul[class=base-color] > li > a:hover {
