@@ -7,7 +7,7 @@
 
 .info-nft {
     width: 100%;
-    height: 32vw;
+    height: 100%;
     opacity: 0;
     transition:0.5s;
     color:rgba(0, 0, 0, 0);
@@ -23,16 +23,17 @@
 }
 
 .info-nft > p{
-    width: 30ch;
     text-align: center;
+    padding: 20%;
+    margin:0;
 }
 
 /*NFT section - BASIC*/
 
 /* START NFT BASIC 1*/
 .nft-basic{
-    width: 32.9%;
-    height: 32vw;
+    width: 30vw;
+    height: 30vw;
     background-image: url('../../vendor/img/sample.jpg');
     background-size: cover;
     transition:0.5s;
@@ -43,24 +44,28 @@
 
 /* START NFT BASIC 2*/
 .nft-basic2{
-    width: 32.9%;
-    height: 32vw;
+    width: 30vw;
+    height: 30vw;
     background-image: url('../../vendor/img/sample.jpg');
     background-size: cover;
     transition:0.5s;
     display: inline-block;
+    
+
 }
 
 /* End NFT BASIC 2 */
 
 /* START NFT BASIC 3*/
 .nft-basic3{
-    width: 32.9%;
-    height: 32vw;
+    width: 30vw;
+    height: 30vw;
     background-image: url('../../vendor/img/sample.jpg');
     background-size: cover;
     transition:0.5s;
     display: inline-block;
+    
+
 }
 
 /* End NFT BASIC 3 */
@@ -69,36 +74,42 @@
 
 /* START NFT EXPERT 1*/
 .nft-basic{
-    width: 32.9%;
-    height: 32vw;
+    width: 30vw;
+    height: 30vw;
     background-image: url('../../vendor/img/sample.jpg');
     background-size: cover;
     transition:0.5s;
     display: inline-block;
+    
+
 }
 
 /* End NFT EXPERT 1 */
 
 /* START NFT EXPERT 2*/
 .nft-basic2{
-    width: 32.9%;
-    height: 32vw;
+    width: 30vw;
+    height: 30vw;
     background-image: url('../../vendor/img/sample.jpg');
     background-size: cover;
     transition:0.5s;
     display: inline-block;
+    
+
 }
 
 /* End NFT EXPERT 2 */
 
 /* START NFT EXPERT 3*/
 .nft-basic3{
-    width: 32.9%;
-    height: 32vw;
+    width: 30vw;
+    height: 30vw;
     background-image: url('../../vendor/img/sample.jpg');
     background-size: cover;
     transition:0.5s;
     display: inline-block;
+    
+
 }
 
 /* End NFT EXPERT 3 */
@@ -107,36 +118,42 @@
 
 /* START NFT PREMIUM 1*/
 .nft-basic{
-    width: 32.9%;
-    height: 32vw;
+    width: 30vw;
+    height: 30vw;
     background-image: url('../../vendor/img/sample.jpg');
     background-size: cover;
     transition:0.5s;
     display: inline-block;
+    
+
 }
 
 /* End NFT PREMIUM 1 */
 
 /* START NFT PREMIUM 2*/
 .nft-basic2{
-    width: 32.9%;
-    height: 32vw;
+    width: 30vw;
+    height: 30vw;
     background-image: url('../../vendor/img/sample.jpg');
     background-size: cover;
     transition:0.5s;
     display: inline-block;
+    
+
 }
 
 /* End NFT PREMIUM 2 */
 
 /* START NFT PREMIUM 3*/
 .nft-basic3{
-    width: 32.9%;
-    height: 32vw;
+    width: 30vw;
+    height: 30vw;
     background-image: url('../../vendor/img/sample.jpg');
     background-size: cover;
     transition:0.5s;
     display: inline-block;
+    
+
 }
 
 /* End NFT PREMIUM 3 */
