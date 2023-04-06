@@ -163,17 +163,15 @@ Our next station, the `Surface plane`.
 
 ## Surface Plane <a name="surface-plane"></a> | [#](#index)
 
-We did a lot of research, thinking, brainstorming, and discussions. We even created a desktop-based prototype, as seen above. However, we never fully knew until we started playing in the field, where the experience was different. It was time to start coding and bring our ideas to life.
-
-Approach:
+We did a lot of research, thinking, brainstorming, and discussions. We even created a desktop-based prototype, as seen above. However, we never fully knew until we started playing in the field, where the experience was different. It was time to start coding and bring our ideas to life. **Approach:**
 
 Before we started coding and investing resources and time, we needed to clarify our approach for the surface plane. We wanted to ensure that our product brought a positive visual language and context to the users. Efficiency was what we were looking for, and the following details were crucial for the building process:
 
-### Color:
+### Color
 
 - We used #9b59b6 as the main color, along with #ffffff, #460462, #000, #9c59b685, #9c59b61e, and other variations of the main color.
 
-### Layout: 
+### Layout
 
 - For the NFTs display, we used a grid layout with a maximum of three images displayed inline on big screens, and one image on small devices. 
 
@@ -181,7 +179,7 @@ Before we started coding and investing resources and time, we needed to clarify 
 
 - For the Marketplace and Learn sections, we used the same layout, lists and sublists, as seen from the Skeleton.
 
-### Fonts: 
+### Fonts
 
 - We used Roboto for all fonts until specified otherwise. 
 
@@ -189,13 +187,13 @@ Before we started coding and investing resources and time, we needed to clarify 
 
 - We used Tangerine for Morada title and mottos.
 
-### Images: 
+### Images
 
 - We kept the law of thirds based on the Viewport Width. 
 
 - We used non-copyrighted resources when using vendor resources, and the images had to match the website's spirit.
 
-### Order: 
+### Order
 
 - We prioritized the elements as already described throughout the different planes. 
 
@@ -203,7 +201,7 @@ Before we started coding and investing resources and time, we needed to clarify 
 
 - For the Contact section, we used the left contact form and the right side the about section with social media buttons.
 
-### Sequences: 
+### Sequences
 
 - We kept in mind that for the homepage, 'One row of NFTs, one row of Educational content' was repeated a maximum of three times. 
 
@@ -213,7 +211,7 @@ For each section and interaction, economy had to be taken into account, with the
 
 We decided to arrange the content like this because users wanted to see the NFTs at first, they also wanted to learn and understand what was coming and how they could take action at the right time. We were sure that we smelled value here.
 
-We had to be careful of the following concerns:
+**We had to be careful of the following concerns:**
 
 - Repetition
 
