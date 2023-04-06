@@ -163,6 +163,72 @@ Our next station, the `Surface plane`.
 
 ## Surface Plane <a name="surface-plane"></a> | [#](#index)
 
+We did a lot of research, thinking, brainstorming, and discussions. We even created a desktop-based prototype, as seen above. However, we never fully knew until we started playing in the field, where the experience was different. It was time to start coding and bring our ideas to life.
+
+Approach:
+
+Before we started coding and investing resources and time, we needed to clarify our approach for the surface plane. We wanted to ensure that our product brought a positive visual language and context to the users. Efficiency was what we were looking for, and the following details were crucial for the building process:
+
+### Color:
+
+- We used #9b59b6 as the main color, along with #ffffff, #460462, #000, #9c59b685, #9c59b61e, and other variations of the main color.
+
+### Layout: 
+
+- For the NFTs display, we used a grid layout with a maximum of three images displayed inline on big screens, and one image on small devices. 
+
+- For the educational parts on the main page, we followed an alternation from right to left and kept the law of thirds for the section at hand and content display. 
+
+- For the Marketplace and Learn sections, we used the same layout, lists and sublists, as seen from the Skeleton.
+
+### Fonts: 
+
+- We used Roboto for all fonts until specified otherwise. 
+
+- We used Bitter for some subtitles.
+
+- We used Tangerine for Morada title and mottos.
+
+### Images: 
+
+- We kept the law of thirds based on the Viewport Width. 
+
+- We used non-copyrighted resources when using vendor resources, and the images had to match the website's spirit.
+
+### Order: 
+
+- We prioritized the elements as already described throughout the different planes. 
+
+- The way lists were displayed on the Marketplace and Learn sections was consistent. 
+
+- For the Contact section, we used the left contact form and the right side the about section with social media buttons.
+
+### Sequences: 
+
+- We kept in mind that for the homepage, 'One row of NFTs, one row of Educational content' was repeated a maximum of three times. 
+
+- For Marketplace and Learn, we displayed the related video first, followed by the details lists with the answers they were looking for, keeping progressive disclosure.
+
+For each section and interaction, economy had to be taken into account, with the most important elements easily recognized. We had already noticed many patterns throughout the product layouts and interactions. It was readable, with colors creating good contrasts always, and different fonts were added when necessary.
+
+We decided to arrange the content like this because users wanted to see the NFTs at first, they also wanted to learn and understand what was coming and how they could take action at the right time. We were sure that we smelled value here.
+
+We had to be careful of the following concerns:
+
+- Repetition
+
+- Contrast
+
+- Proximity
+
+- Alignment
+
+We focused on keeping things simple as possible, presenting fewer choices to the users while presenting concrete features and content.
+
+After considering all these last details, we could polish our ideas from the skeleton and could start coding. We noticed how the coding process went smoothly, less complicated and more enjoyable. Therefore, less money was needed, less human work and fewer errors to finalize nobly this product. It was time to start coding.
+
+## Technologies Used <a name="technologies"></a> | [#](#index)
+
 <hr>
 
 ## What's new?
