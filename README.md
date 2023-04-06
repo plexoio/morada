@@ -143,11 +143,25 @@ The IXD and IAD mind maps have provided a clear direction for the skeleton plane
 
 ## Skeleton Plane <a name="skeleton-plane"></a> | [#](#index)
 
-GIF
+In this plane, we can now focus on gathering all the pieces we've developed so far and putting them together to follow the chain of our design process. Our approach has been to use the Strategy, Scope, and Structure planes to create the Skeleton plane. Here, we can finally see how users will interact with our design and the first outcomes of our hard work.
 
-https://xd.adobe.com/view/0352a1bc-b277-452d-8631-fd933ce523b2-5601/?fullscreen
+Our goal is to bring the functionalities we've proposed and studied to life. The skeleton allows us to see how the elements, features, and information can interact with each other. For this project, we've chosen to use Adobe XD, which the author is experienced with. This software provides a more comprehensive wireframe for us to work with.
 
-PDF
+![Gif of the Skeleton Prototype](https://github.com/plexoio/morada/blob/main/documentation/assets/img/gif-skeleton.gif)
+
+With our prototype, we can see our planned navigation, priorities, progression from simple to more complex, and the first learning experience. We can also see the progressive disclosure through each interaction. This is all achieved without having to start coding the actual product.
+
+Our prototype showcases how the content can be presented to users by following habits, standards, and conventions that most users desire. We've paid attention to keywords, invisible information, hierarchies, and content in lists and forms. All of this can be seen in our `desktop-based prototype`.
+
+The layout we've created is simple, intuitive, and repetitive. With the completion of the Skeleton plane, we now have a perspective on the colors and shapes that we will use for our final plane, the `Surface`.
+
+- Prototype on [Adobe XD](https://xd.adobe.com/view/0352a1bc-b277-452d-8631-fd933ce523b2-5601/?fullscreen) (full-screen)
+
+- [Download PDF](https://github.com/plexoio/morada/blob/main/documentation/assets/pdf/pdf-skeleton.pdf)
+
+Our next station, the `Surface plane`.
+
+## Surface Plane <a name="surface-plane"></a> | [#](#index)
 
 <hr>
 
