@@ -64,7 +64,7 @@ textarea{
   margin-left: -20px;
 }
 ul > li {
-  display: inline;
+  display: inline-block;
   padding: 10px 5px 5px 0px;
 }
 ul {

@@ -193,37 +193,54 @@ h2 {
 }
 
 .claim {
-    padding: 10px 15px 10px 15px;
+    padding: 10px 40px 10px 40px;
     border-radius: 6px;
     text-decoration: none;
     font-weight: 700;
     font-size: 18px;
-    border: 2px solid #9c59b6cc;
     margin-bottom: 20px;
-    margin-right:5px;
+    margin-right:8px;
     transition: 0.3s;
+    background-color: #9B59B6;
+    color: white;
 }
 .claim:hover {
-    background-color: #9c59b6cc;
-    color:#ffffff;
-    border: 2px solid #2e2e2e69;
+    background-color: #FFE8FF;
+    color:#9B59B6;
     transition: 0.3s;
 }
 .learn {
-    padding: 8px 13px 8px 13px;
+    padding: 8px 18px 8px 18px;
     border-radius: 6px;
     text-decoration: none;
     font-weight: 700;
     font-size: 18px;
-    border: 1px solid #9c59b6cc;
     margin-bottom: 20px;
     margin-right:5px;
     transition: 0.3s;
+    background-color: #FFE8FF;
 }
 .learn:hover {
-    background-color: #9c59b6cc;
+    background-color:#9B59B6;
     color:#ffffff;
-    border: 1px solid #2e2e2e69;
+    transition: 0.3s;
+}
+
+.claim-nft {
+    padding: 7px 18px 7px 18px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-right:5px;
+    transition: 0.3s;
+    background-color: #ffffff;
+    color:#9B59B6;
+}
+.claim-nft:hover {
+    background-color:#f5dcff;
+    color:#9B59B6;
     transition: 0.3s;
 }
 .card-based-container {
@@ -336,7 +353,7 @@ ul {
 }
 
 ul > li {
-    display: inline;
+    display: inline-block;
     padding-right: 10px;
 }
 
@@ -371,6 +388,10 @@ ul[class=base-color] > li > a {
     padding:10px;
     background-color: #9B59B6;
     transition:0.3s;
+}
+
+ul[class=base-color] > li {
+    margin:20px
 }
 
 ul[class=base-color] > li > a:hover {
