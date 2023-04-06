@@ -143,6 +143,12 @@ The IXD and IAD mind maps have provided a clear direction for the skeleton plane
 
 ## Skeleton Plane <a name="skeleton-plane"></a> | [#](#index)
 
+GIF
+
+https://xd.adobe.com/view/0352a1bc-b277-452d-8631-fd933ce523b2-5601/?fullscreen
+
+PDF
+
 <hr>
 
 ## What's new?
