@@ -31,16 +31,20 @@ body {
     padding: 0.5rem;
 }
 .logo-img-background {
-    background-color: hsl(288, 53%, 53%);
+    background-color: #9B59B6;
     width:100%;
     margin: 0;
     padding-top:10px;
 }
 
 .nav {
-    background-color: hsl(288, 53%, 53%);
+    background-color: #9B59B6;
     text-align: center;
     padding:20px 0;
+}
+
+.page-title {
+    border-top: 1px solid rgba(255, 255, 255, 0.486);
 }
 
 .nav-logo {
@@ -468,7 +472,7 @@ div[class=learn-nft] {
     display: inline-block;
     border:1px solid #9c59b685;
     padding:20px;
-    border-radius:15px
+    border-radius:15px;
 }
 
 details {
@@ -483,6 +487,7 @@ details > p {
     display: inline-block;
     text-align: justify;
     margin:10px 0 0 0;
+    font-weight: 400;
 }
 
 summary {
