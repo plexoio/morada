@@ -70,6 +70,10 @@ ul > li > a {
   font-size: 14px;
   margin-left:5px;
 }
+
+a[href="index.htm"] > img {
+  display: none;
+  }
 }
 
 /*Tablets (portrait orientation)*/
