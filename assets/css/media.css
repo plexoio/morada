@@ -1,6 +1,9 @@
 /* Mobile devices (small screens)*/
 
 @media only screen and (max-width: 480px) {
+
+/* General Styling*/
+
 nav {
   font-size: 1.1rem;
 }
@@ -27,25 +30,12 @@ details > p {
   top:25%;
 }
 
+/* NFT display Basic*/
+
 .nft-basic {
   width: 100vw;
   height: 100vw;
   display: block;
-}
-
-.info-nft {
-  width: 100%;
-  height: 100%;
-  display: block;
-}
-
-.info-nft:hover {
-  margin-top:0;
-}
-
-.info-nft > p {
-  text-align: center;
-  padding: 20%;
 }
 
 .nft-basic2 {
@@ -59,6 +49,71 @@ details > p {
   height: 100vw;
   display: block;
 }
+
+/* NFT display Expert*/
+
+.nft-expert {
+  width: 100vw;
+  height: 100vw;
+  display: block;
+}
+
+.nft-expert2 {
+  width: 100vw;
+  height: 100vw;
+  display: block;
+}
+
+.nft-expert3 {
+  width: 100vw;
+  height: 100vw;
+  display: block;
+}
+
+/* NFT display Premium*/
+
+.nft-premium {
+  width: 100vw;
+  height: 100vw;
+  display: block;
+}
+
+.nft-premium2 {
+  width: 100vw;
+  height: 100vw;
+  display: block;
+}
+
+.nft-premium3 {
+  width: 100vw;
+  height: 100vw;
+  display: block;
+}
+.info-nft {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/*NFT general styling*/
+
+.info-nft:hover {
+  margin-top:0;
+}
+
+.info-nft > div {
+  text-align: center;
+  padding: 10% 0 10% 0;
+}
+
+.info-nft > div > p {
+  font-weight: 400;
+  text-align: center;
+  font-size: 18px;
+  text-transform: capitalize;
+}
+
+/* Contact page styling*/
 
 .contact {
   float: left;
@@ -76,6 +131,7 @@ textarea{
   margin-left: -20px;
 }
 
+/* Footer and General Styling*/
 ul > li {
   display: inline-block;
   padding: 10px 5px 5px 0px;
@@ -104,6 +160,8 @@ a[href="index.htm"] > img {
 
 @media only screen and (min-width: 481px) and (max-width: 768px) {
 
+/* General Styling*/
+
 div[class=learn-nft] {
   width: 80vw;
 }
@@ -117,7 +175,19 @@ details > p {
   font-size: 2rem;
 }
 
+/* NFT display Basic */
+
 .nft-basic {
+  width: 30vw;
+  height: 30vw;
+}
+
+.nft-basic2 {
+  width: 30vw;
+  height: 30vw;
+}
+
+.nft-basic3 {
   width: 30vw;
   height: 30vw;
 }
@@ -130,16 +200,6 @@ details > p {
 .info-nft > p {
   text-align: center;
   padding: 20%;
-}
-
-.nft-basic2 {
-  width: 30vw;
-  height: 30vw;
-}
-
-.nft-basic3 {
-  width: 30vw;
-  height: 30vw;
 }
 
 .claim {

@@ -21,11 +21,12 @@ Please note that this project is not available for public deployment; **it is in
 4. [Skeleton Plane - Layout, Interaction and Relationship](#skeleton-plane)
 5. [Surface Plane - Color, Typography, Effect and Images](#surface-plane)
 6. [Technologies Used](#technologies)
-7. [Testing Results](#testing)
-8. [Development Process](#development)
-9. [Deployment Process](#deployment)
-10. [Graphic Sources](#graphics)
-11. [Credits](#credits)
+7. [Features Explained](#features)
+8. [Testing Results](#testing)
+9. [Development Process](#development)
+10. [Deployment Process](#deployment)
+11. [Graphic Sources](#graphics)
+12. [Credits](#credits)
 
 ## Badges
 
