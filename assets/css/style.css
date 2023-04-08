@@ -59,10 +59,14 @@ h2 {
     padding-top:10px;
 }
 
+body nav {
+    height: 2rem;
+    padding: 20px 0 5px;
+}
+
 .nav {
     background-color: #9B59B6;
     text-align: center;
-    padding:20px 0;
 }
 
 .page-title {
