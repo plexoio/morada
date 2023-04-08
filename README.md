@@ -242,6 +242,38 @@ After considering all these last details, we could polish our ideas from the ske
 
 ## Technologies Used <a name="technologies"></a> | [#](#index)
 
+Every project requires standardized processes and a variety of essential tools.
+
+From the beginning to the end, we used the following technologies:
+
+### Coding
+- **Visual Studio Code**: For the coding process, along with internal extensions such as auto-save, boilerplates, markdown and HTML preview, W3C validation, and more.
+- **Adobe XD**: For creating wireframes.
+- **[W3C HTML Validator](https://validator.w3.org/)**: For validating all .html pages.
+- **[W3C CSS Validator](https://jigsaw.w3.org/css-validator/)**: For validating all .css files.
+- **HTML5**: For structuring the site.
+- **CSS3**: For styling the site.
+- **JavaScript**: For adding Metamask login functionality.
+- **Google Developer Tools**: For testing and improving CSS and HTML.
+- **GitHub**: For repositories and version control.
+- **Git Bash**: For version control and project management.
+- **Gitpod**: For learning about Git Bash, Visual Studio Code, and GitHub.
+- **[Code Institute](https://codeinstitute.net/)**: As a source of knowledge and information to build the entire project.
+
+### Branding
+- **Google Fonts**: For adding personality to the site.
+- **[Unstoppable Domains](https://unstoppabledomains.com/?ref=a28abc13737a4e8)**: For the morada.nft Web3 domain (found in the footer).
+- **[DeepAI](https://deepai.org/)**: For creating the NFTs.
+- **[My Color Space](https://mycolor.space/)**: For the project's color palette.
+- **[Flat UI Colors](https://flatuicolors.com/)**: For the primary color of the project.
+- **[Am I Responsive?](https://ui.dev/amiresponsive)**: For the initial mockup in various screen sizes.
+- **[Lunapic](https://www2.lunapic.com/editor/?action=changecolor)**: For changing specific colors in the logo.
+
+### Artificial Intelligence (AI)
+- **[ChatGPT-4](https://chat.openai.com/chat)**: For consulting, copywriting, proofreading, drudgery or assistance with various tedious tasks.
+
+## Testing<a name="testing"></a> | [#](#index)
+
 <hr>
 
 ## Credits
