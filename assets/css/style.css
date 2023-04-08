@@ -445,7 +445,9 @@ footer {
     width: 100%;
     text-align: center;
 }
-
+#bold {
+    font-weight: 600;
+}
 footer {
     padding: 10px 0px;
 }
