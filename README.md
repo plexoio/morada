@@ -170,34 +170,14 @@ Before we started coding and investing resources and time, we needed to clarify 
 
 ### Color
 
-#### Primary color
-
-- Shade of purple: `#9b59b6`
-
-<div style="background-color: #9b59b6; width: 50px; height: 50px;"></div>
-
-#### Secondary color
-
-- White: `#ffffff`
-
-<div style="background-color: #ffffff; width: 50px; height: 50px;"></div>
-
-- Shade of dark purple: `#460462`
-
-<div style="background-color: #460462; width: 50px; height: 50px;"></div>
-
-- Black: `#000`
-
-<div style="background-color: #000; width: 50px; height: 50px;"></div>
-
-- Shade of light purple: `#9c59b685`
-
-<div style="background-color: #9c59b685; width: 50px; height: 50px;"></div>
-
-- Shade of lighter purple: `#9c59b61e`
-
-<div style="background-color: #9c59b61e; width: 50px; height: 50px;"></div>
-
+|         | Color Type       | Color Name             | Hex Code |
+| ------- | ---------------- | ---------------------- | -------- |
+| ![Color](https://via.placeholder.com/50x50/9b59b6/9b59b6?text=+) | Primary Color    | Shade of purple        | `#9b59b6` |
+| ![Color](https://via.placeholder.com/50x50/ffffff/ffffff?text=+) | Secondary Color  | White                  | `#ffffff` |
+| ![Color](https://via.placeholder.com/50x50/460462/460462?text=+) | Secondary Color  | Shade of dark purple   | `#460462` |
+| ![Color](https://via.placeholder.com/50x50/000000/000000?text=+) | Secondary Color  | Black                  | `#000000` |
+| ![Color](https://via.placeholder.com/50x50/9c59b685/9c59b685?text=+) | Secondary Color  | Shade of light purple  | `#9c59b685` |
+| ![Color](https://via.placeholder.com/50x50/9c59b61e/9c59b61e?text=+) | Secondary Color  | Shade of lighter purple| `#9c59b61e` |
 
 #### Pallet
 
@@ -216,11 +196,11 @@ The following color palette was used as a reference throughout the project:
 
 ### Fonts
 
-- We used Roboto for all fonts until specified otherwise. 
+- We used `Roboto` for all fonts until specified otherwise. 
 
-- We used Bitter for some subtitles.
+- We used `Bitter` for some subtitles.
 
-- We used Tangerine for Morada's title and mottos.
+- We used `Tangerine` for Morada's title and mottos.
 
 ### Images
 
