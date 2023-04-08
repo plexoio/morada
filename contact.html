@@ -4,8 +4,8 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Morada Hotel - Contact</title>
-        <meta name="description" content="Morada NFT is a landing page for purchasing functional NFTs offered by a hotel. Functional in this context refers to NFTs that hold real value or utility. Please note that this project is not available for public deployment; it is intended solely for learning and demonstration purposes.">
-        <meta name="keywords" content="morada, hotel, nft, basic, expert, premium, utility, value, blockchain, polygon, metamask, nfts">
+        <meta name="description" content="Get in touch with Morada Hotel and learn more about our NFT Project!">
+        <meta name="keywords" content="contact, project, morada, hotel, nft, basic, expert, premium, utility, value, blockchain, polygon, metamask, nfts">
         <meta name="author" content="Frank Arellano">
         <link href="assets/css/style.css" rel="stylesheet" type="text/css">
         <link href="assets/css/media.css" rel="stylesheet" type="text/css">
@@ -20,108 +20,120 @@
                  <ul>
                     <div class="nav-logo">
                         <a href="index.htm"><img class="logo-img" src="assets/img/logo.png" alt="logo of morada"></a>
-                </div>
+                    </div>
                     <li><a href="index.htm" target="_blank">Home</a></li>
                     <li><a href="marketplace.html" target="_blank">Marketplace</a></li>
                     <li><a href="learn.html" target="_blank">Learn</a></li>
                     <li><a href="contact.html" target="_blank">Contact</a></li>
-                    <li><a onclick="connect()" id="metamask"><strong>Metamask</strong></a></li> 
+                    <li><a href="#" id="metamask"><strong>Metamask</strong></a></li> 
                 </ul>              
             </nav>
         </header>
         <!-- End nav section-->
 
+        <!-- Start of Contact Form-->
         <div class="height text-center" aria-label="contact and about sections">
-        <a href="contact.html"><h1 class="page-title background call-action-start padding-bottom">Contact</h1></a>
-        <section class="contact">
-            <h2 class="base-color call-action-start padding-bottom">Contact</h2>
-            <form action="" method="POST">
-                <fieldset>
-                    <legend>Personal</legend>
+            <a href="contact.html">
+                <h1 class="page-title background call-action-start padding-bottom">Contact</h1>
+            </a>
 
-                    <div id="text-align">
-                    <label for="name">Name*</label>
-                    <input id="name" type="text" name="contactname" placeholder="Albert" required>
+            <section class="contact">
+                <h2 class="base-color call-action-start padding-bottom">Contact</h2>
+                <form action="" method="POST">
+                    <fieldset>
+                        <legend>Personal</legend>
+                        <div id="text-align">
+                        <label for="name">Name*</label>
+                        <input id="name" type="text" name="contactname" placeholder="Albert" required>
+                        
+                        <label for="lastname">Last Name*</label>
+                        <input id="lastname" type="text" name="contactlname" placeholder="Einstein" required>
+                        
+                        <label for="email">E-mail*</label>
+                        <input id="email" type="email" name="contactemail" placeholder="einstein@mail.eu" required>
+                        </div>
+                    </fieldset>
+
+                    <fieldset>
+                        <legend>Topic*</legend>
+                        <div id="text-align">
+                            <label for="topic">Choose</label>
+                            <select id="topic" name="topic" required>
+                                <option></option>
+                                <option value="learn">Learn</option>
+                                <option value="metamask">Metamask</option>
+                                <option value="marketplace">Marketplace</option>
+                                <option value="NFT">NFT</option>
+                                <option value="Location">Location</option>
+                                <option value="Other">Other</option>
+                            </select>
+                        </div>
+                    </fieldset>
+
+                    <fieldset>
+                        <legend>
+                            Comment*
+                        </legend>
+                        <label for="explain"></label>
+                        <textarea id="explain" name="explain" rows="10" cols="50" required></textarea>
+                    </fieldset>
+
+                    <fieldset>
+                        <legend>Data Consent*</legend>
+                        <label for="acceptdatause"></label>
+                        <input class="inline" id="acceptdatause" type="checkbox" name="contact" value="yes" required>
+                        <a class="acceptdata" href="#" target="_blank" rel="">I accept the Privacy Policy and Temrs & Conditions</a>
+                    </fieldset>
+
+                    <input class="claim bkg-white base-color" type="submit" value="Send request">
+                    <input class="learn bkg-white base-color" type="reset" value="Reset form">
+                </form>
+            </section>
+            <!-- End of Contact Form-->
+
+            <!-- Start of About us-->
+            <aside class="aside contact">
+                <div>
+                    <h2 class="text-center base-color">What is Morada?</h2>
+                    <p>Lorem Ipsum is simply dummy text of the printing and 
+                        typesetting industry. Lorem Ipsum has been the industry's 
+                        standard dummy text ever since the 1500s, when an unknown 
+                        printer took a galley of type and scrambled it to make a 
+                        type specimen book. It has survived not only five centuries, 
+                        but also the leap into electronic typesetting, remaining 
+                        essentially unchanged. It was popularised in the 1960s with 
+                        the release of Letraset sheets containing Lorem Ipsum passages, 
+                        and more recently with desktop publishing software like Aldus 
+                        PageMaker including versions of Lorem Ipsum.
+                    </p>
                     
-                    <label for="lastname">Last Name*</label>
-                    <input id="lastname" type="text" name="contactlname" placeholder="Einstein" required>
-                    
-                    <label for="email">E-mail*</label>
-                    <input id="email" type="email" name="contactemail" placeholder="einstein@mail.eu" required>
-                    </div>
+                    <!-- Location Data-->
+                    <p><strong>Address</strong></p>
+                    <p><strong>Tlf</strong></p>
+                    <p><strong>Email</strong></p>
+                    <p><strong>Smart Contract</strong></p>
 
-                </fieldset>
-
-                <fieldset>
-                    <legend>Topic*</legend>
-                    <div id="text-align">
-                        <label for="topic">Choose</label>
-                        <select id="topic" name="topic" required>
-                            <option></option>
-                            <option value="learn">Learn</option>
-                            <option value="metamask">Metamask</option>
-                            <option value="marketplace">Marketplace</option>
-                            <option value="NFT">NFT</option>
-                            <option value="Location">Location</option>
-                            <option value="Other">Other</option>
-                        </select>
-                    </div>
-                </fieldset>
-
-                <fieldset>
-                    <legend>
-                        Comment*
-                    </legend>
-                    <label for="explain"></label>
-                    <textarea id="explain" name="explain" rows="10" cols="50" required></textarea>
-                </fieldset>
-
-                <fieldset>
-                    <legend>Data Consent*</legend>
-                    <label for="acceptdatause"></label>
-                    <input class="inline" id="acceptdatause" type="checkbox" name="contact" value="yes" required>
-                    <a class="acceptdata" href="#" target="_blank" rel="">I accept the Privacy Policy and Temrs & Conditions</a>
-                </fieldset>
-
-                <input class="claim bkg-white base-color" type="submit" value="Send request">
-                <input class="learn bkg-white base-color" type="reset" value="Reset form">
-            </form>
-        </section>
-        <aside class="aside contact">
-            <div>
-                <h2 class="text-center base-color">What is Morada?</h2>
-                <p>Lorem Ipsum is simply dummy text of the printing and 
-                    typesetting industry. Lorem Ipsum has been the industry's 
-                    standard dummy text ever since the 1500s, when an unknown 
-                    printer took a galley of type and scrambled it to make a 
-                    type specimen book. It has survived not only five centuries, 
-                    but also the leap into electronic typesetting, remaining 
-                    essentially unchanged. It was popularised in the 1960s with 
-                    the release of Letraset sheets containing Lorem Ipsum passages, 
-                    and more recently with desktop publishing software like Aldus 
-                    PageMaker including versions of Lorem Ipsum.
-                </p>
-                <p><strong>Address</strong></p>
-                <p><strong>Tlf</strong></p>
-                <p><strong>Email</strong></p>
-                <p><strong>Smart Contract</strong></p>
-                <p><strong>Social Media</strong></p>
-                <ul class="base-color">
-                    <li><a href="https://www.facebook.com/plexo.io" target="_blank" rel="noopener noreferrer nofollow">Facebook</a></li>
-                    <li><a href="https://twitter.com/plexoio" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-                    <li><a href="https://instagram.com/plexo.io" target="_blank" rel="noopener noreferrer nofollow">Instagram</a></li>
-                    <li><a href="https://linktr.ee/plexoblockchain" target="_blank" rel="noopener noreferrer nofollow">Linktree</a></li>
-                </ul>
-            </div>
-        </aside>
+                    <!-- Social Media Buttons-->
+                    <p><strong>Social Media</strong></p>
+                    <ul class="base-color">
+                        <li><a href="https://www.facebook.com/plexo.io" target="_blank" rel="noopener noreferrer nofollow">Facebook</a></li>
+                        <li><a href="https://twitter.com/plexoio" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
+                        <li><a href="https://instagram.com/plexo.io" target="_blank" rel="noopener noreferrer nofollow">Instagram</a></li>
+                        <li><a href="https://linktr.ee/plexoblockchain" target="_blank" rel="noopener noreferrer nofollow">Linktree</a></li>
+                    </ul>
+                </div>
+            </aside>
         </div>
-        
+        <!-- End of Contact Form-->
+
+        <!-- Start of Embedded Google Maps-->
         <section>
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d643684.0358774893!2d9.92012577925788!3d52.38528608001345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47afef35fcca8c8f%3A0xe62a665a2fbb2490!2sGehrenkamp%201%2C%2038550%20Isenb%C3%BCttel!5e0!3m2!1sen!2sde!4v1680290819949!5m2!1sen!2sde" 
                 width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" 
                 referrerpolicy="no-referrer-when-downgrade" alt="Our location on Google Maps">
             </iframe>
         </section>
+        <!-- End of Embedded Google Maps-->
 
         <!-- Start of footer-->
         <footer class="background text-center" aria-label="footer section">
@@ -129,23 +141,46 @@
                 <p>©2023 <b>morada.nft</b> of Morada by <a class="color-white" href="https://github.com/plexoio" target="_blank" aria-label="link to author" rel="author noopener noreferrer">Frank Arellano</a></p>
             </div>
         </footer>
+        <!-- End of footer-->
+        
+        <!-- Start of Metasmask Login to Polygon network by ChatGPT4 -->
         <script>
             async function connect() {
               if (typeof window.ethereum !== 'undefined') {
                 try {
-                  // Request account access
-                  await window.ethereum.request({ method: 'eth_requestAccounts' });
-                  // Get the current account
-                  const accounts = await window.ethereum.request({ method: 'eth_accounts' });
-                  const currentAccount = accounts[0];
+                  await addPolygonNetwork();
+                  await requestAccountAccess();
+                  const currentAccount = await getCurrentAccount();
                   alert(`Logged in as ${currentAccount}`);
                 } catch (error) {
-                  alert(`Error: ${error.message}`);
+                  displayError(error);
                 }
               } else {
                 alert('Metamask is not installed');
               }
             }
+        
+            async function addPolygonNetwork() {
+              // ...
+            }
+        
+            async function requestAccountAccess() {
+              // ...
+            }
+        
+            async function getCurrentAccount() {
+              // ...
+            }
+        
+            function displayError(error) {
+              // ...
+            }
+        
+            document.getElementById('metamask').addEventListener('click', (event) => {
+              event.preventDefault();
+              connect();
+            });
           </script>
+        <!-- End of Metasmask Login to Polygon network by ChatGPT4 -->
     </body>
 </html>

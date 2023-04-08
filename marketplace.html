@@ -4,8 +4,8 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Morada Hotel - Marketplace</title>
-        <meta name="description" content="Morada NFT is a landing page for purchasing functional NFTs offered by a hotel. Functional in this context refers to NFTs that hold real value or utility. Please note that this project is not available for public deployment; it is intended solely for learning and demonstration purposes.">
-        <meta name="keywords" content="morada, hotel, nft, basic, expert, premium, utility, value, blockchain, polygon, metamask, nfts">
+        <meta name="description" content="NFT Marketplace of Morada Hotel, claim your membership NFT today!">
+        <meta name="keywords" content="membership, marketplace, morada, hotel, nft, basic, expert, premium, utility, value, blockchain, polygon, metamask, nfts">
         <meta name="author" content="Frank Arellano">
         <link href="assets/css/style.css" rel="stylesheet" type="text/css">
         <link href="assets/css/media.css" rel="stylesheet" type="text/css">
@@ -13,68 +13,104 @@
         <script src="https://cdn.jsdelivr.net/npm/web3@1.3.5/dist/web3.min.js"></script>
     </head>
     <body class="bkg-white">
+        <!-- Start nav section-->
         <header>
             <nav class="nav" aria-label="Morada Navigation Bar">
                  <ul>
                     <div class="nav-logo">
                         <a href="index.htm"><img class="logo-img" src="assets/img/logo.png" alt="logo of morada"></a>
-                </div>
+                    </div>
                     <li><a href="index.htm" target="_blank">Home</a></li>
                     <li><a href="marketplace.html" target="_blank">Marketplace</a></li>
                     <li><a href="learn.html" target="_blank">Learn</a></li>
                     <li><a href="contact.html" target="_blank">Contact</a></li>
-                    <li><a onclick="connect()" id="metamask"><strong>Metamask</strong></a></li> 
+                    <li><a href="#" id="metamask"><strong>Metamask</strong></a></li> 
                 </ul>              
             </nav>
         </header>
         <!-- End nav section-->
+
+        <!-- Start of content section-->
         <section style="text-align:center" aria-label="section to learn about NFTs, Blockchain and Morada NFTs">
-            <a href="learn.html"><h1 class="page-title background call-action-start padding-bottom">Marketplace</h1></a>
-                <div class="learn-nft">
-                    <iframe width="100%" height="315" alt="how to buy using Metamask on a Marketplace" src="https://www.youtube.com/embed/EQNm0uP9Lq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-                    </iframe>
+            <a href="marketplace.html"><h1 class="page-title background call-action-start padding-bottom">Marketplace</h1></a>
+            
+            <div class="learn-nft">
+                <h2 class="base-color">How does it work?</h2>
+          
+                <!--- Start of Youtube Embedded-->
+                <iframe width="100%" height="315" alt="how to buy using Metamask on a Marketplace" src="https://www.youtube.com/embed/EQNm0uP9Lq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+                </iframe>
+                <!--- End of Youtube Embedded-->
+
                 <details>
                     <summary>How to find the Marketplace?</summary>
                     <p>Morada Hotel marketplace will be accessible from this very same page!</p>
                 </details>
+
                 <details>
                     <summary>What do I need to start buying?</summary>
                     <p>Purchasing our functional NFTs is made easy through your Metamask wallet, just like in the video above!</p>
                 </details>
+
                 <details>
                     <summary>What to consider?</summary>
                     <p>Don't forget to switch your network, as our NFTs are managed in Polygon network!</p>
                 </details>
+
                 <details>
                     <summary>When will it be available?</summary>
                     <p>With our interoperable NFTs, take advantage of exciting opportunities coming your way soon!</p>
                 </details>
-                </div>
+            </div>
         </section>
+         <!-- End of content section-->
 
-        <!-- Start of footer-->
+        <!-- Start of Footer-->
         <footer class="background text-center" aria-label="footer section">
             <div class="center">
                 <p>©2023 <b>morada.nft</b> of Morada by <a class="color-white" href="https://github.com/plexoio" target="_blank" aria-label="link to author" rel="author noopener noreferrer">Frank Arellano</a></p>
             </div>
         </footer>
+        <!-- End of Footer-->
+
+        <!-- Start of Metasmask Login to Polygon network by ChatGPT4 -->
         <script>
             async function connect() {
               if (typeof window.ethereum !== 'undefined') {
                 try {
-                  // Request account access
-                  await window.ethereum.request({ method: 'eth_requestAccounts' });
-                  // Get the current account
-                  const accounts = await window.ethereum.request({ method: 'eth_accounts' });
-                  const currentAccount = accounts[0];
+                  await addPolygonNetwork();
+                  await requestAccountAccess();
+                  const currentAccount = await getCurrentAccount();
                   alert(`Logged in as ${currentAccount}`);
                 } catch (error) {
-                  alert(`Error: ${error.message}`);
+                  displayError(error);
                 }
               } else {
                 alert('Metamask is not installed');
               }
             }
-          </script>
+        
+            async function addPolygonNetwork() {
+              // ...
+            }
+        
+            async function requestAccountAccess() {
+              // ...
+            }
+        
+            async function getCurrentAccount() {
+              // ...
+            }
+        
+            function displayError(error) {
+              // ...
+            }
+        
+            document.getElementById('metamask').addEventListener('click', (event) => {
+              event.preventDefault();
+              connect();
+            });
+        </script>
+        <!-- End of Metasmask Login to Polygon network by ChatGPT4 -->
     </body>
 </html>

@@ -8,6 +8,8 @@ As evident from all the information provided in this Readme.md, the state of thi
 
 Please note that this project is not available for public deployment; **it is intended solely for learning and demonstration purposes** even though is ready for use.
 
+![Responsive Mockup image](https://github.com/plexoio/morada/blob/main/documentation/assets/img/responsive-mockup.png)
+
 **Preview Link:** [Morada Hotel](https://plexoio.github.io/morada/index.htm)
 
 
@@ -28,8 +30,6 @@ Please note that this project is not available for public deployment; **it is in
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-![Responsive Mockup image](https://github.com/plexoio/morada/blob/main/documentation/assets/img/responsive-mockup.png)
 
 ## Strategy Plane <a name="strategy-plane"></a> | [#](#index)
 This leading hotel embraces innovative technology to differentiate from competitors, appealing to `clients` who value progressive advancements. Hotel membership is seen as a substantial investment for stakeholders and regular clients, comparable to an exclusive, generational club.
@@ -170,7 +170,41 @@ Before we started coding and investing resources and time, we needed to clarify 
 
 ### Color
 
-- We used #9b59b6 as the main color, along with #ffffff, #460462, #000, #9c59b685, #9c59b61e, and other variations of the main color.
+#### Primary color
+
+- Shade of purple: `#9b59b6`
+
+<div style="background-color: #9b59b6; width: 50px; height: 50px;"></div>
+
+#### Secondary color
+
+- White: `#ffffff`
+
+<div style="background-color: #ffffff; width: 50px; height: 50px;"></div>
+
+- Shade of dark purple: `#460462`
+
+<div style="background-color: #460462; width: 50px; height: 50px;"></div>
+
+- Black: `#000`
+
+<div style="background-color: #000; width: 50px; height: 50px;"></div>
+
+- Shade of light purple: `#9c59b685`
+
+<div style="background-color: #9c59b685; width: 50px; height: 50px;"></div>
+
+- Shade of lighter purple: `#9c59b61e`
+
+<div style="background-color: #9c59b61e; width: 50px; height: 50px;"></div>
+
+
+#### Pallet
+
+The following color palette was used as a reference throughout the project:
+
+- [My Color Space](https://mycolor.space/?hex=%239B59B6&sub=1)
+
 
 ### Layout
 
@@ -178,7 +212,7 @@ Before we started coding and investing resources and time, we needed to clarify 
 
 - For the educational parts on the main page, we followed an alternation from right to left and kept the law of thirds for the section at hand and content display. 
 
-- For the Marketplace and Learn sections, we used the same layout, lists and sublists, as seen from the Skeleton.
+- For the Marketplace and Learn sections, we used the same layout, lists, and sublists as seen from the Skeleton.
 
 ### Fonts
 
@@ -186,7 +220,7 @@ Before we started coding and investing resources and time, we needed to clarify 
 
 - We used Bitter for some subtitles.
 
-- We used Tangerine for Morada title and mottos.
+- We used Tangerine for Morada's title and mottos.
 
 ### Images
 

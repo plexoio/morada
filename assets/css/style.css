@@ -1,3 +1,4 @@
+/* Start of local Google Fonts */
 @font-face {
     font-family: "Roboto";
     src: url("../font/roboto/Roboto-Regular.ttf");
@@ -12,10 +13,31 @@
     font-family: "Tangerine";
     src: url("../font/tangerine/Tangerine-Regular.ttf");
   }
+/* End of local Google Fonts */
+
+/* Start General Styling*/ 
+
 body {
     background-color:#FFE8FF;
     margin:0;
     font-family: 'Roboto', Bitter, sans-serif;
+}
+
+body h1,h2{
+    color:white;
+    padding: 0.5rem 0.5rem;
+    font-family: 'Roboto', Bitter, serif;
+    text-align: center;
+    margin:0;
+    letter-spacing: 1px;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-size:1.5rem;
 }
 
 .sticky-top {
@@ -89,15 +111,6 @@ transition: 0.3s;
 transition: 0.3s;
 }
 
-body h1,h2{
-    color:white;
-    padding: 0.5rem 0.5rem;
-    font-family: 'Roboto', Bitter, serif;
-    text-align: center;
-    margin:0;
-    letter-spacing: 1px;
-}
-
 .base-color {
     color:#9B59B6;
 }
@@ -111,6 +124,7 @@ body h1,h2{
     padding-top: 10px;
     margin-left: -30px;
 }
+
 .tangerine-font {
     font-family: 'Tangerine', Roboto, serif;
     font-weight: 400;
@@ -118,16 +132,19 @@ body h1,h2{
     margin:0;
     color: #ffffff;
 }
+
 .tangerine-hero-title {
     position:relative; 
     top:30%;
     text-align: center;
 }
+
 .tangerine-hero-button {
     position:relative; 
     top:50%;
     text-align: center;
 }
+
 #call-out-text {
     font-size:2rem;
     padding: 10px 0;
@@ -140,19 +157,17 @@ body h1,h2{
     margin:10px 0;
     padding: 0;
     background-color: white;
-  }
-  .hr-cut {
+}
+
+.hr-cut-bottom {
     border-top: 2px solid rgb(155, 89, 182, 0.5);
     border-width: 2px;
-    padding: 0;
-  }
-  .hr-cut-bottom {
-    border-top: 2px solid rgb(155, 89, 182, 0.5);
-    border-width: 2px;
-  }
+}
+
 .background {
     background-color: rgb(155, 89, 182);
 }
+
 .bkg-white {
     background-color: white;
 }
@@ -161,26 +176,7 @@ body h1,h2{
     color:white;
 }
 
-.call-to-action {
-    position: fixed;
-    width: 100%;
-    z-index: 999;
-    opacity: 0;
-    display: none;
-    top: 3px;;
-}
-
-.call-to-action.show {
-    opacity: 1;
-  }
-
-h1 {
-    font-size: 1.5rem;
-}
-
-h2 {
-    font-size:1.5rem;
-}
+/* Start of Home Hero Section*/
 
 .hero-container {
     margin:0;
@@ -208,11 +204,13 @@ h2 {
     background-color: #9B59B6;
     color: white;
 }
+
 .claim:hover {
     background-color: #FFE8FF;
     color:#9B59B6;
     transition: 0.3s;
 }
+
 .learn {
     padding: 8px 18px 8px 18px;
     border-radius: 6px;
@@ -224,6 +222,7 @@ h2 {
     transition: 0.3s;
     background-color: #FFE8FF;
 }
+
 .learn:hover {
     background-color:#9B59B6;
     color:#ffffff;
@@ -242,11 +241,15 @@ h2 {
     background-color: #ffffff;
     color:#9B59B6;
 }
+
 .claim-nft:hover {
     background-color:#f5dcff;
     color:#9B59B6;
     transition: 0.3s;
 }
+
+/* Start of Home Card-based Containers */
+
 .card-based-container {
     text-align: center;
 }
@@ -272,49 +275,6 @@ h2 {
     border: 1px solid #000;
 }
 
-.img-marketplace{
-    width: 300px;
-    height: 300px;
-    background: url('../../vendor/img/marketplace.jpg') no-repeat;
-    background-size: cover;
-    margin: 0;
-    padding: 0;
-    border-radius: 5px;
-}
-
-.blockquote-left {
-    border-left: 5px solid rgb(155, 89, 182);
-    background-color: rgba(0, 0, 0, 0.068);
-    display: block;
-    padding:2% 5%;
-    text-align: center;
-    transition:0.3s;
-}
-.blockquote-left:hover {
-    border-left: 5px solid rgba(0, 0, 0, 0.397);
-    background-color: rgb(156, 89, 182);
-    transition:0.3s;
-    color:white;
-    font-weight: 600;
-}
-
-.blockquote-right {
-    border-right: 5px solid rgb(155, 89, 182);
-    background-color: rgba(0, 0, 0, 0.068);
-    display: block;
-    padding:2% 5%;
-    text-align: center;
-    transition:0.3s;
-}
-
-.blockquote-right:hover {
-    border-right: 5px solid rgba(0, 0, 0, 0.397);
-    background-color: #5f7d9b;
-    transition:0.3s;
-    color:white;
-    font-weight: 600;
-}
-
 div > img {
     text-align:center;
 }
@@ -331,6 +291,154 @@ span {
     padding-left:2.5rem;
     padding-right:0;
 }
+
+/* Learn and Marketplace Section */
+
+div[class=learn-nft] {
+    background-color: #9c59b61e;
+    width:40%;
+}
+
+.learn-nft {
+    margin-top:10vh;
+    margin-bottom:10vh;
+    display: inline-block;
+    border:1px solid #9c59b685;
+    padding:20px;
+    border-radius:15px;
+}
+
+details {
+    margin:0 0 10px 0;
+    text-align: center;
+}
+
+details > p {
+    padding:10px 10px;
+    width:40ch;
+    background-color: #9c59b61e;
+    display: inline-block;
+    text-align: justify;
+    margin:10px 0 0 0;
+    font-weight: 400;
+}
+
+summary {
+    background-color: #9B59B6;
+    color:white;
+    padding:20px;
+    font-weight: 700;
+    transition: 0.5s;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+summary:hover {
+    transition: 0.5s;
+    background-color: #460462;
+}
+
+div > iframe {
+    margin-bottom: 10px;
+    margin-top:10px;
+}
+
+/* Contact Styling */
+
+.contact {
+    position:relative;;
+    border:1px solid #9c59b685;
+    margin: 50px 0 50px 0;
+    color: #9B59B6;
+    border-radius: 15px;
+    background-color: #9c59b61e;
+    float:left;
+    left:16vw;
+}
+
+ul[class=base-color]{
+    padding:0;
+}
+
+ul[class=base-color] > li > a {
+    color:#ffffff;
+    border: 1px solid #9B59B6;
+    border-radius: 15px;
+    padding:7px;
+    background-color: #9B59B6;
+    transition:0.3s;
+    font-size: 13px;
+    margin-top:5px;
+}
+
+ul[class=base-color] > li > a:hover {
+    border: 1px solid #9B59B6;
+    background-color: rgba(156, 89, 182, 0.746);
+    transition:0.3s;
+    color:white;
+}
+
+fieldset{
+    border: none;
+    margin:20px 0;
+}
+
+legend {
+    padding: 5px;
+    font-weight: 700;
+    text-align: left;
+}
+
+input {
+    padding:8px;
+    border-radius: 15px;
+    border: 1px solid #9c59b685 ;
+    cursor:auto;
+}
+
+input:hover {
+    cursor:pointer;
+}
+
+select {
+    padding:5px 2px;
+    border-radius: 15px;
+}
+
+.inline {
+    display: inline;
+}
+
+.aside {
+    width:40ch;
+    padding:20px;
+    text-align: center;
+    margin-left:80px;
+}
+
+.acceptdata {
+    text-decoration: none;
+    color: #9B59B6;
+    font-size: 0.9rem;
+    transition: 0.3s;
+}
+
+.acceptdata:hover {
+    color:#460462;
+    transition: 0.3s;
+}
+
+#text-align {
+    text-align: left;
+}
+
+div[id=text-align] > input {
+    display: block;
+    margin: 10px 0;
+    width:95%;
+}
+
+/* Footer and Other General Styling */
 
 footer {
     color:white;
@@ -369,141 +477,4 @@ ul > li > a {
 
 .height {
     height:100vh;
-}
-.contact {
-    position:relative;;
-    border:1px solid #9c59b685;
-    margin: 50px 0 50px 0;
-    color: #9B59B6;
-    border-radius: 15px;
-    background-color: #9c59b61e;
-    float:left;
-    left:16vw;
-}
-
-ul[class=base-color]{
-    padding:0;
-}
-
-ul[class=base-color] > li > a {
-    color:#ffffff;
-    border: 1px solid #9B59B6;
-    border-radius: 15px;
-    padding:7px;
-    background-color: #9B59B6;
-    transition:0.3s;
-    font-size: 13px;
-    margin-top:5px;
-}
-
-ul[class=base-color] > li {
-}
-
-ul[class=base-color] > li > a:hover {
-    border: 1px solid #9B59B6;
-    background-color: rgba(156, 89, 182, 0.746);
-    transition:0.3s;
-    color:white;
-}
-
-fieldset{
-    border: none;
-    margin:20px 0;
-}
-
-legend {
-    padding: 5px;
-    font-weight: 700;
-    text-align: left;
-}
-
-input {
-    padding:8px;
-    border-radius: 15px;
-    border: 1px solid #9c59b685 ;
-    cursor:auto;
-}
-input:hover {
-    cursor:pointer;
-}
-
-select {
-    padding:5px 2px;
-    border-radius: 15px;
-}
-
-.inline {
-    display: inline;
-}
-
-.aside {
-    width:40ch;
-    padding:20px;
-    text-align: center;
-    margin-left:80px;
-}
-.acceptdata {
-    text-decoration: none;
-    color: #9B59B6;
-    font-size: 0.9rem;
-    transition: 0.3s;
-}
-.acceptdata:hover {
-    color:#460462;
-    transition: 0.3s;
-}
-#text-align {
-    text-align: left;
-}
-
-div[id=text-align] > input {
-    display: block;
-    margin: 10px 0;
-    width:95%;
-}
-
-div[class=learn-nft] {
-    background-color: #9c59b61e;
-    width:40%;
-}
-.learn-nft {
-    margin-top:10vh;
-    margin-bottom:10vh;
-    display: inline-block;
-    border:1px solid #9c59b685;
-    padding:20px;
-    border-radius:15px;
-}
-
-details {
-    margin:0 0 10px 0;
-    text-align: center;
-}
-
-details > p {
-    padding:10px 10px;
-    width:40ch;
-    background-color: #9c59b61e;
-    display: inline-block;
-    text-align: justify;
-    margin:10px 0 0 0;
-    font-weight: 400;
-}
-
-summary {
-    background-color: #9B59B6;
-    color:white;
-    padding:20px;
-    font-weight: 700;
-    transition: 0.5s;
-    cursor: pointer;
-    font-size: 18px;
-}
-summary:hover {
-    transition: 0.5s;
-    background-color: #460462;
-}
-div > iframe {
-    margin-bottom: 10px;
-    margin-top:10px;
 }
