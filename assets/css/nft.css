@@ -1,4 +1,4 @@
-/* General settings for NFTs display*/
+/* General styling Homepage NFT display*/
 
 .center-info-nft {
     display: grid;
@@ -30,7 +30,8 @@
 
 /*NFT section - BASIC*/
 
-/* START NFT BASIC 1*/
+/*Start of BASIC 1*/
+
 .nft-basic{
     width: 30vw;
     height: 30vw;
@@ -40,9 +41,10 @@
     display: inline-block;
 }
 
-/* End NFT BASIC 1 */
+/* End of BASIC 1 */
 
-/* START NFT BASIC 2*/
+/* START of BASIC 2*/
+
 .nft-basic2{
     width: 30vw;
     height: 30vw;
@@ -50,13 +52,12 @@
     background-size: cover;
     transition:0.5s;
     display: inline-block;
-    
-
 }
 
-/* End NFT BASIC 2 */
+/* End of BASIC 2 */
 
-/* START NFT BASIC 3*/
+/* START of BASIC 3*/
+
 .nft-basic3{
     width: 30vw;
     height: 30vw;
@@ -64,15 +65,14 @@
     background-size: cover;
     transition:0.5s;
     display: inline-block;
-    
-
 }
 
-/* End NFT BASIC 3 */
+/* End of BASIC 3 */
 
 /*NFT section - EXPERT*/
 
-/* START NFT EXPERT 1*/
+/* START of EXPERT 1*/
+
 .nft-basic{
     width: 30vw;
     height: 30vw;
@@ -80,13 +80,12 @@
     background-size: cover;
     transition:0.5s;
     display: inline-block;
-    
-
 }
 
-/* End NFT EXPERT 1 */
+/* End of EXPERT 1 */
 
-/* START NFT EXPERT 2*/
+/* START of EXPERT 2*/
+
 .nft-basic2{
     width: 30vw;
     height: 30vw;
@@ -94,13 +93,12 @@
     background-size: cover;
     transition:0.5s;
     display: inline-block;
-    
-
 }
 
-/* End NFT EXPERT 2 */
+/* End of EXPERT 2 */
 
-/* START NFT EXPERT 3*/
+/* START of EXPERT 3*/
+
 .nft-basic3{
     width: 30vw;
     height: 30vw;
@@ -108,15 +106,14 @@
     background-size: cover;
     transition:0.5s;
     display: inline-block;
-    
-
 }
 
-/* End NFT EXPERT 3 */
+/* End of EXPERT 3 */
 
 /*NFT section - PREMIUM*/
 
-/* START NFT PREMIUM 1*/
+/* START of PREMIUM 1*/
+
 .nft-basic{
     width: 30vw;
     height: 30vw;
@@ -124,13 +121,12 @@
     background-size: cover;
     transition:0.5s;
     display: inline-block;
-    
-
 }
 
-/* End NFT PREMIUM 1 */
+/* End of PREMIUM 1 */
 
-/* START NFT PREMIUM 2*/
+/* START of PREMIUM 2*/
+
 .nft-basic2{
     width: 30vw;
     height: 30vw;
@@ -138,13 +134,12 @@
     background-size: cover;
     transition:0.5s;
     display: inline-block;
-    
-
 }
 
-/* End NFT PREMIUM 2 */
+/* End of PREMIUM 2 */
 
-/* START NFT PREMIUM 3*/
+/* START of PREMIUM 3*/
+
 .nft-basic3{
     width: 30vw;
     height: 30vw;
@@ -152,8 +147,6 @@
     background-size: cover;
     transition:0.5s;
     display: inline-block;
-    
-
 }
 
-/* End NFT PREMIUM 3 */
+/* End of PREMIUM 3 */
