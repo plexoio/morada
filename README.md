@@ -20,11 +20,11 @@ Please note that this project is not available for public deployment; **it is in
 3. [Structure Plane - Content, Priority and Organization](#structure-plane)
 4. [Skeleton Plane - Layout, Interaction and Relationship](#skeleton-plane)
 5. [Surface Plane - Color, Typography, Effect and Images](#surface-plane)
-6. [Technologies used](#technologies)
+6. [Technologies Used](#technologies)
 7. [Testing Results](#testing)
 8. [Development Process](#development)
 9. [Deployment Process](#deployment)
-10. [Graphic sources](#graphics)
+10. [Graphic Sources](#graphics)
 11. [Credits](#credits)
 
 ## Badges
@@ -260,17 +260,26 @@ From the beginning to the end, we used the following technologies:
 - **Gitpod**: For learning about Git Bash, Visual Studio Code, and GitHub.
 - **[Code Institute](https://codeinstitute.net/)**: As a source of knowledge and information to build the entire project.
 
-### Branding
+### Fonts, Graphics and formatting
 - **Google Fonts**: For adding personality to the site.
 - **[Unstoppable Domains](https://unstoppabledomains.com/?ref=a28abc13737a4e8)**: For the morada.nft Web3 domain (found in the footer).
-- **[DeepAI](https://deepai.org/)**: For creating the NFTs.
 - **[My Color Space](https://mycolor.space/)**: For the project's color palette.
 - **[Flat UI Colors](https://flatuicolors.com/)**: For the primary color of the project.
 - **[Am I Responsive?](https://ui.dev/amiresponsive)**: For the initial mockup in various screen sizes.
 - **[Lunapic](https://www2.lunapic.com/editor/?action=changecolor)**: For changing specific colors in the logo.
 
+- **Powerpoint**: for the table graphics on the Strategy Plane.
+
+- **Gitmind**: for the Mind map creation.
+
+- **[Ezgif](https://ezgif.com/video-to-gif)**: for converting MP4 to Gif.
+
+- **[Freeconvert](https://www.freeconvert.com/gif-compressor)**: for compressing GIF images.
+- **[Tinypng](https://tinypng.com/)**: for compressing .png and .jpg images.
+
 ### Artificial Intelligence (AI)
 - **[ChatGPT-4](https://chat.openai.com/chat)**: For consulting, copywriting, proofreading, drudgery or assistance with various tedious tasks.
+- **[DeepAI](https://deepai.org/)**: For creating the NFTs.
 
 ## Testing<a name="testing"></a> | [#](#index)
 
