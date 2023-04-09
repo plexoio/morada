@@ -288,38 +288,50 @@ From the beginning to the end, we used the following technologies:
 ### Index.html
 
 #### Header
+![header](https://github.com/plexoio/morada/blob/main/documentation/assets/img/header.png)
+
 #### Branding Title
+![branding](https://github.com/plexoio/morada/blob/main/documentation/assets/img/branding-title.png)
+
 #### Hero Section
+![hero](https://github.com/plexoio/morada/blob/main/documentation/assets/img/hero-section.png)
+
 #### NFTs display
+![nft](https://github.com/plexoio/morada/blob/main/documentation/assets/img/nft-display.png)
+
 #### Educational row
+![educational-row](https://github.com/plexoio/morada/blob/main/documentation/assets/img/educational-main.png)
+
 #### Footer
+![footer](https://github.com/plexoio/morada/blob/main/documentation/assets/img/footer.png)
 
 ### Marketplace.html
-
-#### Header
-#### Page Title
-#### Info Section
-#### Iframe Video
-#### Detailed List
-#### Footer
+![marketplace](https://github.com/plexoio/morada/blob/main/documentation/assets/img/marketplace.png)
+#### 1 Header
+#### 2 Page Title
+#### 3 Info Section
+#### 4 Iframe Video
+#### 5 Detailed List
+#### 6 Footer
 
 ### Learn.html
-
-#### Header
-#### Page Title
-#### Learning Section
-#### Iframe Video
-#### Detailed List
-#### Footer
+![learn](https://github.com/plexoio/morada/blob/main/documentation/assets/img/learn.png)
+#### 1 Header
+#### 2 Page Title
+#### 3 Learning Section
+#### 4 Iframe Video
+#### 5 Detailed List
+#### 6 Footer
 
 ### Contact.html
+![marketplace](https://github.com/plexoio/morada/blob/main/documentation/assets/img/contact.png)
 
-#### Header
-#### Page Title
-#### Contact Section
-#### Aside Section
-#### Iframe Google Maps
-#### Footer
+#### 1 Header
+#### 2 Page Title
+#### 3 Contact Section
+#### 4 Aside Section
+#### 5 Iframe Google Maps
+#### 6 Footer
 
 
 <hr>
