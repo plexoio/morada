@@ -173,7 +173,7 @@ a[href="index.htm"] > img {
 }
 
 #padding-left {
-  padding-right: 1rem;
+  padding-left: 1rem;
   text-align: justify;
 }
 
@@ -304,7 +304,7 @@ ul {
 }
 
 #padding-left {
-  padding-right: 3rem;
+  padding-left: 3rem;
   text-align: justify;
 }
 
@@ -404,7 +404,7 @@ ul {
 }
 
 #padding-left {
-  padding-right: 4rem;
+  padding-left: 4rem;
   text-align: justify;
 }
 
@@ -420,6 +420,15 @@ ul {
 
 .aside {
   margin-left: 40px;
+}
+
+#padding-right {
+  padding-right:5rem;
+}
+
+#padding-left {
+  padding-left:5rem;
+  padding-right:0;
 }
 
 }
