@@ -41,7 +41,7 @@
 .nft-basic{
     width: 30vw;
     height: 30vw;
-    background-image: url('../nft/b1.jpeg');
+    background: url('../nft/b1.jpeg') center center no-repeat;
     background-size: cover;
     transition:0.5s;
     display: inline-block;
@@ -54,7 +54,7 @@
 .nft-basic2{
     width: 30vw;
     height: 30vw;
-    background-image: url('../nft/b2.jpeg');
+    background: url('../nft/b2.jpeg') center center no-repeat;
     background-size: cover;
     transition:0.5s;
     display: inline-block;
@@ -67,7 +67,7 @@
 .nft-basic3{
     width: 30vw;
     height: 30vw;
-    background-image: url('../nft/b3.jpeg');
+    background: url('../nft/b3.jpeg') center center no-repeat;
     background-size: cover;
     transition:0.5s;
     display: inline-block;
@@ -82,7 +82,7 @@
 .nft-expert{
     width: 30vw;
     height: 30vw;
-    background-image: url('../nft/e1.jpeg');
+    background: url('../nft/e1.jpeg') center center no-repeat;
     background-size: cover;
     transition:0.5s;
     display: inline-block;
@@ -95,7 +95,7 @@
 .nft-expert2{
     width: 30vw;
     height: 30vw;
-    background-image: url('../nft/e2.jpeg');
+    background: url('../nft/e2.jpeg') center center no-repeat;
     background-size: cover;
     transition:0.5s;
     display: inline-block;
@@ -108,7 +108,7 @@
 .nft-expert3{
     width: 30vw;
     height: 30vw;
-    background-image: url('../nft/e3.jpeg');
+    background: url('../nft/e3.jpeg') center center no-repeat;
     background-size: cover;
     transition:0.5s;
     display: inline-block;
@@ -123,7 +123,7 @@
 .nft-premium{
     width: 30vw;
     height: 30vw;
-    background-image: url('../nft/p1.jpeg');
+    background: url('../nft/p1.jpeg') center center no-repeat;
     background-size: cover;
     transition:0.5s;
     display: inline-block;
@@ -136,7 +136,7 @@
 .nft-premium2{
     width: 30vw;
     height: 30vw;
-    background-image: url('../nft/p2.jpeg');
+    background: url('../nft/p2.jpeg') center center no-repeat;
     background-size: cover;
     transition:0.5s;
     display: inline-block;
@@ -149,7 +149,7 @@
 .nft-premium3{
     width: 30vw;
     height: 30vw;
-    background-image: url('../nft/p3.jpeg');
+    background: url('../nft/p3.jpeg') center center no-repeat;
     background-size: cover;
     transition:0.5s;
     display: inline-block;
