@@ -267,16 +267,26 @@ transition: 0.3s;
     text-align: center;
 }
 
+.text-justify {
+    text-align: justify;
+}
+
 .img-learn1{
     width: 30vw;
     height: 30vw;
-    border: 1px solid #000;
+    border: 1px solid rgba(0, 0, 0, 0.527);
+    background: url(../../vendor/img/nft.jpg) center center no-repeat;
+    background-size: cover;
+    border-radius: 5px;
 }
 
 .img-learn2{
     width: 30vw;
     height: 30vw;
-    border: 1px solid #000;
+    border: 1px solid rgba(0, 0, 0, 0.527);
+    background: url(../../vendor/img/blockchain.jpg) center center no-repeat;
+    background-size: cover;
+    border-radius: 5px;
 }
 
 div > img {
@@ -288,11 +298,11 @@ span {
 }
 
 #padding-right {
-    padding-right:2.5rem;
+    padding-right:5rem;
 }
 
 #padding-left {
-    padding-left:2.5rem;
+    padding-left:5rem;
     padding-right:0;
 }
 
@@ -402,6 +412,10 @@ input {
 
 input:hover {
     cursor:pointer;
+}
+
+textarea {
+    width: 80%;
 }
 
 select {

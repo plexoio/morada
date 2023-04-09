@@ -167,6 +167,16 @@ a[href="index.htm"] > img {
   display: none;
 }
 
+#padding-right {
+  padding-right: 1rem;
+  text-align: justify;
+}
+
+#padding-left {
+  padding-right: 1rem;
+  text-align: justify;
+}
+
 }
 
 /*Tablets (portrait orientation)*/
@@ -288,6 +298,16 @@ ul {
   margin-left:5px;
 }
 
+#padding-right {
+  padding-right: 3rem;
+  text-align: justify;
+}
+
+#padding-left {
+  padding-right: 3rem;
+  text-align: justify;
+}
+
 }
 
 /*Tablets (landscape orientation) and small desktops*/
@@ -376,6 +396,16 @@ ul {
 .claim-nft {
   font-size: 14px;
   padding: 5px 16px 5px 16px;
+}
+
+#padding-right {
+  padding-right: 4rem;
+  text-align: justify;
+}
+
+#padding-left {
+  padding-right: 4rem;
+  text-align: justify;
 }
 
 }

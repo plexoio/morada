@@ -21,12 +21,13 @@ Please note that this project is not available for public deployment; **it is in
 4. [Skeleton Plane - Layout, Interaction and Relationship](#skeleton-plane)
 5. [Surface Plane - Color, Typography, Effect and Images](#surface-plane)
 6. [Technologies Used](#technologies)
-7. [Features Explained](#features)
-8. [Testing Results](#testing)
-9. [Development Process](#development)
-10. [Deployment Process](#deployment)
-11. [Graphic Sources](#graphics)
-12. [Credits](#credits)
+7. [Actual Features Explained](#features)
+8. [Future Features Explained](#f-features)
+9. [Testing Results](#testing)
+10. [Development Process](#development)
+11. [Deployment Process](#deployment)
+12. [Graphic Sources](#graphics)
+13. [Credits](#credits)
 
 ## Badges
 
@@ -282,7 +283,44 @@ From the beginning to the end, we used the following technologies:
 - **[ChatGPT-4](https://chat.openai.com/chat)**: For consulting, copywriting, proofreading, drudgery or assistance with various tedious tasks.
 - **[DeepAI](https://deepai.org/)**: For creating the NFTs.
 
-## Testing<a name="testing"></a> | [#](#index)
+## Actual Features Explained<a name="features"></a> | [#](#index)
+
+### Index.html
+
+#### Header
+#### Branding Title
+#### Hero Section
+#### NFTs display
+#### Educational row
+#### Footer
+
+### Marketplace.html
+
+#### Header
+#### Page Title
+#### Info Section
+#### Iframe Video
+#### Detailed List
+#### Footer
+
+### Learn.html
+
+#### Header
+#### Page Title
+#### Learning Section
+#### Iframe Video
+#### Detailed List
+#### Footer
+
+### Contact.html
+
+#### Header
+#### Page Title
+#### Contact Section
+#### Aside Section
+#### Iframe Google Maps
+#### Footer
+
 
 <hr>
 
