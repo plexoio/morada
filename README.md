@@ -580,17 +580,15 @@ In this way, we have successfully deployed our project with no particular errors
 
 ## Credits
 
-- **Brian O'Hare** for mentoring me three times on this project. Without him, it would not have been possible.
-- **[DeepAI](https://deepai.org/)** for creating the NFTs.
-- **hero.jpg** [@naimbic](https://www.pexels.com/@naimbic)
-- **blockchain.jpg & nft.jpg** [@lukejonesdesign](https://unsplash.com/@lukejonesdesign)
-- [stackoverflow.com](https://stackoverflow.com/) for in-depth consultation and checking user-created content (from experienced developers) or human opinion.
-- [google.com](https://google.com) for programming queries.
-- [codeinstitute.net](https://codeinstitute.net/) for providing proper education, which knowledge is being applied throughout this project.
-- [programminghub.io](https://programminghub.io/), where I learned the basics before joining Code Institute.
-- [ChatGPT](https://chat.openai.com/chat)
-
-ChatGPT was used for the following queries:
+- **Brian O'Hare**: for mentoring me three times on this project. Without him, it would not have been possible.
+- [DeepAI](https://deepai.org/): for creating the NFTs.
+- **hero.jpg**: [@naimbic](https://www.pexels.com/@naimbic)
+- **blockchain.jpg & nft.jpg**: [@lukejonesdesign](https://unsplash.com/@lukejonesdesign)
+- [stackoverflow.com](https://stackoverflow.com/): for in-depth consultation and checking user-created content (from experienced developers) or human opinion.
+- [google.com](https://google.com): for programming queries.
+- [codeinstitute.net](https://codeinstitute.net/): for providing proper education, which knowledge is being applied throughout this project.
+- [programminghub.io](https://programminghub.io/): where I learned the basics before joining Code Institute.
+- [ChatGPT](https://chat.openai.com/chat), was used for the following queries:
 
 1. Used for quick general consulting.
 2. Used to convert HTML code to Markdown tables for the README.md file. As seen from our extended self-coded versions: [focus-table](https://github.com/plexoio/morada/blob/main/documentation/assets/extended-versions/focus-table2.html), [scope-table](https://github.com/plexoio/morada/blob/main/documentation/assets/extended-versions/scope-table1.html), [strategy-table](https://github.com/plexoio/morada/blob/main/documentation/assets/extended-versions/strategy-table.html).
