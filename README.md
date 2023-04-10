@@ -584,11 +584,11 @@ In this way, we have successfully deployed our project with no particular errors
 - **[DeepAI](https://deepai.org/)** for creating the NFTs.
 - **hero.jpg** [@naimbic](https://www.pexels.com/@naimbic)
 - **blockchain.jpg & nft.jpg** [@lukejonesdesign](https://unsplash.com/@lukejonesdesign)
-- **Stack Overflow** [stackoverflow.com](https://stackoverflow.com/) for in-depth consultation and checking user-created content (from experienced developers) or human opinion.
-- **Google** [google.com](https://google.com) for programming queries.
+- [stackoverflow.com](https://stackoverflow.com/) for in-depth consultation and checking user-created content (from experienced developers) or human opinion.
+- [google.com](https://google.com) for programming queries.
 - [codeinstitute.net](https://codeinstitute.net/) for providing proper education, which knowledge is being applied throughout this project.
-- **Programminghub** [programminghub.io](https://programminghub.io/), where I learned the basics before joining Code Institute.
-- **ChatGPT4** [ChatGPT](https://chat.openai.com/chat)
+- [programminghub.io](https://programminghub.io/), where I learned the basics before joining Code Institute.
+- [ChatGPT](https://chat.openai.com/chat)
 
 ChatGPT was used for the following queries:
 
