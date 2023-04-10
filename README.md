@@ -551,7 +551,7 @@ In future iterations, the `index`, `marketplace`, `learn`, and `contact` pages w
 
 We are satisfied with our first iteration of Morada NFT. Users are learning about this emerging technology, and the hotel is informing them about upcoming developments. Radical changes are not always positive, so building and deploying this project was a great idea.
 
-## Deployment Process <a name="development"></a> | [#](#index)
+## Deployment Process<a name="deployment"></a> | [#](#index)
 
 We were at all times using Visual Studio, Git Bash, and GitHub for coding and version control respectively. That guaranteed that we could deploy our product faster once it was completed.
 
@@ -580,12 +580,12 @@ In this way, we have successfully deployed our project with no particular errors
 
 ## Credits
 
-- sample.jpg: [@jjjordan](https://unsplash.com/@jjjordan)
+- **[DeepAI](https://deepai.org/)**: For creating the NFTs.
 - hero.jpg: [@naimbic](https://www.pexels.com/@naimbic)
-- marketplace.jpg: [@Rodion Kutsaiev](https://unsplash.com/photos/-tgTipG2t_g)
-- Apart from relying on Stack Overflow or Google for most of my programming queries, I specifically turned to **ChatGPT** to seek clarification on certain code implementations and clear up any lingering doubts.
+- Apart from relying on Stack Overflow or Google for most of my programming queries, I specifically turned to **ChatGPT** to seek clarification on certain code implementations and clear up any plingering doubts. **EXTEND!!!*
 - [codeinstitute.net](https://codeinstitute.net/) for the proper education provided, which knowledge is being applied throughout this project.
 - Programminghub where I learned the basics before joining Code Institute.
+- Mentor
 
 ## Authors 
 
