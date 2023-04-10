@@ -480,13 +480,15 @@ We have used the official W3C Markup Validation Service to test our site. We fou
 
 #### GT-metrix Performance
 
-After using GT-Metrix we realized that our site is doing quite well with a 91% in performance, we took their suggestions on improving cached file by adding our `.htaccess` with the necessary values and by adding `loading="lazy"` to certain elements such images and iframes. The image talk by itself:
+After using GT-Metrix we realized that our site is doing quite well with a 91% in performance, we took their suggestions on improving cached file by adding our `.htaccess` with the necessary values and by adding `loading="lazy"` to certain elements such images and iframes and after that we got XX, a XX in improvement. The image talk by itself:
 
 ![GT-metrix Result](https://github.com/plexoio/morada/blob/main/documentation/assets/img/gtmetrix.png)
 
 #### Responsiveness
 
+We have run manual tests on different devices to make sure our media queries are working 100%. We have made final improvements to it, and now we believe it's suitable for most screen sizes out there in the world. Here is again the insight shot:
 
+![Responsive Mockup image](https://github.com/plexoio/morada/blob/main/documentation/assets/img/responsive-mockup.png)
 
 
 <hr>
