@@ -23,7 +23,7 @@ Please note that this project is not available for public deployment; **it is in
 6. [Technologies Used](#technologies)
 7. [Actual Features Explained](#features)
 8. [Future Features Explained](#f-features)
-9. [Testing Results](#testing)
+9. [Bugs & Testing Results](#testing)
 10. [Development Process](#development)
 11. [Deployment Process](#deployment)
 12. [Credits](#credits)
