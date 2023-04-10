@@ -583,6 +583,7 @@ In this way, we have successfully deployed our project with no particular errors
 - **Brian O'Hare** for mentoring me three times on this project. Without him, it would not have been possible.
 - **[DeepAI](https://deepai.org/)** for creating the NFTs.
 - **hero.jpg** [@naimbic](https://www.pexels.com/@naimbic)
+- **blockchain.jpg & nft.jpg**[@lukejonesdesign](https://unsplash.com/@lukejonesdesign)
 - **Stack Overflow** for in-depth consultation and checking user-created content (from experienced developers) or human opinion.
 - **Google** for programming queries.
 - [codeinstitute.net](https://codeinstitute.net/) for providing proper education, which knowledge is being applied throughout this project.
