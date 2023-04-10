@@ -529,6 +529,29 @@ We have run manual tests on different devices to make sure our media queries are
 
 ![Responsive Mockup image](https://github.com/plexoio/morada/blob/main/documentation/assets/img/responsive-mockup.png)
 
+## Development Process <a name="development"></a> | [Index](#index)
+
+We have created 4 `.html` pages, 3 `.css` files, and 1 `.js` file. In addition, we have an assets folder, a documentation folder, a vendor folder, and an `.htaccess` file for better caching. Naturally, we can also see the `README.md` file.
+
+It was an exciting journey using our `User-centered Design` approach by Jesse James Garrett.
+
+On the **strategy** plane, we focused on the problem rather than the solution, determining what we wanted to build.
+
+On the **scope** plane, we determined what we could accomplish based on deadlines and resources. That's the reason why we created an MVP and not all main desired functionalities are active. This first iteration is for presentation and marketing for Morada Hotel, allowing clients to see that their hotel has started building something.
+
+On the **structure** plane, we put in more work that helped us code better, defining the content, folder distribution, user interactions, feature locations, and user navigation.
+
+On the **skeleton** plane, we began giving form to our ideas. From two mindmaps, we designed our wireframe using Adobe XD. We could see how the project was coming to life and decided what could be improved and what was already fantastic.
+
+On the **surface** plane, we established our colors, fonts, elements, content, and everything that users can see in the system. Each plane is related to the others, and the surface is the final projection of our work.
+
+We encountered various challenges during the planning process, documentation process, and coding process. However, with patience and perseverance, we found a solution for each one.
+
+In future iterations, the `index`, `marketplace`, `learn`, and `contact` pages will be developed further. Particularly, the `marketplace` and `Metamask Login` will allow users to purchase NFTs. The idea of a CTA offer section for presenting different offers or discounts is also planned.
+
+We are satisfied with our first iteration of Morada NFT. Users are learning about this emerging technology, and the hotel is informing them about upcoming developments. Radical changes are not always positive, so building and deploying this project was a great idea.
+
+## Deployment Process <a name="development"></a> | [Index](#index)
 
 <hr>
 
