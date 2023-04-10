@@ -1,3 +1,4 @@
+// START of ChatGPT4 code for Metamask login
 async function connect() {
     if (typeof window.ethereum !== 'undefined') {
     try {
@@ -33,3 +34,4 @@ document.getElementById('metamask').addEventListener('click', (event) => {
     event.preventDefault();
     connect();
 });
+// END of ChatGPT4 code for Metamask login
