@@ -49,13 +49,13 @@ These insights stem from comprehensive research, as evidenced by the accompanyin
 
 | Goals               | Relevancy (0-5) | Viability (0-5) | N. Items (0-~) |
 |:-------------------:|:---------------:|:---------------:|:-------------:|
-| Landing page        | 5               | 5               |               |
-| NFT showcase        | 5               | 2               |               |
+| Landing Page        | 5               | 5               |               |
+| NFT Showcase        | 5               | 2               |               |
 | Marketplace         | 5               | 1               |               |
 | Metamask Login      | 5               | 2               |               |
-| Learn section       | 4               | 3               |               |
+| Learn Section       | 4               | 3               |               |
 | Contact Section     | 5               | 5               |               |
-| CTA of current offers | 4             | 3               |               |
+| CTA of Current Offers | 4             | 3               |               |
 | N. Items            |                 |                 | 7             |
 | Max. Points         |                 |                 | 35            |
 | Results             | 33              | 21              |               |
@@ -579,14 +579,32 @@ In this way, we have successfully deployed our project with no particular errors
 <hr>
 
 ## Credits
+....
 
-- **[DeepAI](https://deepai.org/)**: For creating the NFTs.
-- hero.jpg: [@naimbic](https://www.pexels.com/@naimbic)
-- Apart from relying on Stack Overflow or Google for most of my programming queries, I specifically turned to **ChatGPT** to seek clarification on certain code implementations and clear up any plingering doubts. **EXTEND!!!*
-- [codeinstitute.net](https://codeinstitute.net/) for the proper education provided, which knowledge is being applied throughout this project.
-- Programminghub where I learned the basics before joining Code Institute.
-- Mentor
+- **Brian O'Hare** for mentoring me three times on this project. Without him, it would not have been possible.
+- **[DeepAI](https://deepai.org/)** for creating the NFTs.
+- **hero.jpg** [@naimbic](https://www.pexels.com/@naimbic)
+- **Stack Overflow** for in-depth consultation and checking user-created content (from experienced developers) or human opinion.
+- **Google** for programming queries.
+- [codeinstitute.net](https://codeinstitute.net/) for providing proper education, which knowledge is being applied throughout this project.
+- **Programminghub**, where I learned the basics before joining Code Institute.
+- **ChatGPT4**
 
+ChatGPT was used for the following queries:
+
+1. Used for quick general consulting.
+2. Used to convert HTML code to Markdown tables for the README.md file. As seen from our extended self-coded versions: [focus-table](https://github.com/plexoio/morada/blob/main/documentation/assets/extended-versions/focus-table2.html), [scope-table](https://github.com/plexoio/morada/blob/main/documentation/assets/extended-versions/scope-table1.html), [strategy-table](https://github.com/plexoio/morada/blob/main/documentation/assets/extended-versions/strategy-table.html).
+3. Copywriting and proofreading.
+4. Used to validate HTML and styling codes.
+5. Used to confirm whether or not my code snippet is correct and why not.
+
+**Note:** ChatGPT has given some false answers during some queries. We always need to question its answers.
+- To all the websites and technologies used as seen in [Technologies Used](#technologies)
+
+-------
+
+
+....
 ## Authors 
 
 - [@plexoio](https://www.github.com/plexoio) | Frank Arellano
