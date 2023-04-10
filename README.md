@@ -285,34 +285,75 @@ From the beginning to the end, we used the following technologies:
 
 ## Actual Features Explained<a name="features"></a> | [#](#index)
 
+The strategy plan gave us perspective on what we could do based on current deadlines and resources. We created a very particular MVP that showcases what a hotel is planning to offer its clients. As it is well-known, it's more expensive to look for new clients than to keep old ones. Morada NFT is designed for both new and old clients, but with a focus on the latter.
+
+The following features are a must for our MVP:
+
 ### Index.html
 
 #### Header
+At the header, we have located the branding logo on the left side of the screen following the current convention. At the same time, it is clickable and will take you back to the homepage when clicked from a different page, and a refreshing button when located on the index.html. In the center, we find our navbar, easy to find, not overloaded, and practical. It also includes a very important future feature: Metamask login.
+
+It uses a background of the project's primary color and hover properties and values have been applied on each anchor element, including the Metamask login. They can all be considered CTA buttons as well.
+
 ![header](https://github.com/plexoio/morada/blob/main/documentation/assets/img/header.png)
 
 #### Branding Title
+
+We can find the branding title under the header of the index.html. It tells the users where they are, who is presenting this project, and at the same time provides personality and more identity to the site.
+
 ![branding](https://github.com/plexoio/morada/blob/main/documentation/assets/img/branding-title.png)
 
 #### Hero Section
+
+The hero section comes right after the branding title as expected. Its location surprises users with the hotel hero image. Not being enough, it holds the hotel's motto found on almost every corner of our establishments: 'Always beyond your expectations'. Now that we've got the user's attention, what do we do with it? Right! We need some CTA buttons. They are concrete and useful. One takes you to the marketplace.html, and the other takes you to the learning page or learn.html.
+
 ![hero](https://github.com/plexoio/morada/blob/main/documentation/assets/img/hero-section.png)
 
 #### NFTs display
+
+So far, we have our great web application working properly, but something is still missing in the user's mind. The users want to see more. Therefore, we have added 3 rows of NFTs display. One row at the top showcases the Basic membership, the second Expert, and the last one the Premium one.
+
+We took our time to add hovering effects to each NFT. Once it is hovered, information related to the particular type of NFT or membership will be shown. Once again, we got the user engaged, so we had to do something about it. We added a CTA to purchase the NFT right away. We believe in the 3 steps rule. It has as well the primary color of the project on its descriptive header.
+
 ![nft](https://github.com/plexoio/morada/blob/main/documentation/assets/img/nft-display.png)
 
 #### Educational row
+
+We are still on the same page, index.html. Under each row of NFTs display, we are placing an educational section, which is part of our cultural acquisition program. Therefore, you will see only 2 educational rows on the homepage. We could add more, but more does not really mean better. It has as well the primary color of the project on its descriptive header.
+
 ![educational-row](https://github.com/plexoio/morada/blob/main/documentation/assets/img/educational-main.png)
 
+
 #### Footer
+
+At the final part of the index.html, we have our Footer. This footer is a bit different from the other pages; it has CTAs to social media. Users can also find them on the contact.html page. It also features the primary color of the project.
+
 ![footer](https://github.com/plexoio/morada/blob/main/documentation/assets/img/footer.png)
 
 ### Marketplace.html
+
+We are now on our next page following the navbar order. Here, although not complete (for future implementation), we find the Marketplace of Morada Hotel. Users can learn how it will work, and questions are being answered on the detailed lists of progressive disclosure. Let's discuss each point or number seen in the image below:
+
 ![marketplace](https://github.com/plexoio/morada/blob/main/documentation/assets/img/marketplace.png)
+
 #### 1 Header
+Same header as seen on the index.html or home page with the same functionalities. We believe in consistency and meaning.
+
 #### 2 Page Title
+It tells the users clearly where they are and what they are supposed to do. The title is clickable as well, and it refreshes the current page. It does not take users back to the homepage.
+
 #### 3 Info Section
+Here, users can find answers to their questions after watching a video presentation. It holds a detailed list, and once clicked, the answer appears. It also has a hover property for better interaction.
+
 #### 4 Iframe Video
+The video is showing and teaching users how to use a digital marketplace, especially those related to NFTs or blockchain.
+
 #### 5 Detailed List
+This section shows the main questions, and once clicked, they reveal the information that the user needs. We strongly believe in progressive disclosure.
+
 #### 6 Footer
+Here, we find our second type of footer, which will be seen everywhere except on the homepage. It is simple, follows the standards, and tells the users that they have reached the end of the page.
 
 ### Learn.html
 ![learn](https://github.com/plexoio/morada/blob/main/documentation/assets/img/learn.png)
