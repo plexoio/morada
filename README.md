@@ -478,9 +478,13 @@ We have used a [Screen Reader](https://chrome.google.com/webstore/detail/screen-
 
 We have used the official W3C Markup Validation Service to test our site. We found just 3 common errors on each page, and they were already solved. Therefore, the site shows the following results:
 
+##### index.html
+
+![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-html.png)
+
 #### GT-metrix Performance
 
-After using GT-Metrix we realized that our site is doing quite well with a 91% in performance, we took their suggestions on improving cached file by adding our `.htaccess` with the necessary values and by adding `loading="lazy"` to certain elements such images and iframes and after that we got XX, a XX in improvement. The image talk by itself:
+After using GT-Metrix we realized that our site is doing quite well with a 71% in performance, we took their suggestions on improving cached file by adding our `.htaccess` with the necessary values and by adding `loading="lazy"` to certain elements such images and iframes and after that we got 91%. The image talk by itself:
 
 ![GT-metrix Result](https://github.com/plexoio/morada/blob/main/documentation/assets/img/gtmetrix.png)
 
