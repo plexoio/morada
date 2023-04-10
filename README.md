@@ -290,10 +290,10 @@ The strategy plan gave us perspective on what we could do based on current deadl
 
 The following features are a must for our MVP:
 
-### Index.html
+### Index.htm
 
 #### Header
-At the header, we have located the branding logo on the left side of the screen following the current convention. At the same time, it is clickable and will take you back to the homepage when clicked from a different page, and a refreshing button when located on the index.html. In the center, we find our navbar, easy to find, not overloaded, and practical. It also includes a very important future feature: Metamask login.
+At the header, we have located the branding logo on the left side of the screen following the current convention. At the same time, it is clickable and will take you back to the homepage when clicked from a different page, and a refreshing button when located on the index.htm. In the center, we find our navbar, easy to find, not overloaded, and practical. It also includes a very important future feature: Metamask login.
 
 It uses a background of the project's primary color and hover properties and values have been applied on each anchor element, including the Metamask login. They can all be considered CTA buttons as well.
 
@@ -301,7 +301,7 @@ It uses a background of the project's primary color and hover properties and val
 
 #### Branding Title
 
-We can find the branding title under the header of the index.html. It tells the users where they are, who is presenting this project, and at the same time provides personality and more identity to the site.
+We can find the branding title under the header of the index.htm. It tells the users where they are, who is presenting this project, and at the same time provides personality and more identity to the site.
 
 ![branding](https://github.com/plexoio/morada/blob/main/documentation/assets/img/branding-title.png)
 
@@ -321,14 +321,14 @@ We took our time to add hovering effects to each NFT. Once it is hovered, inform
 
 #### Educational row
 
-We are still on the same page, index.html. Under each row of NFTs display, we are placing an educational section, which is part of our cultural acquisition program. Therefore, you will see only 2 educational rows on the homepage. We could add more, but more does not really mean better. It has as well the primary color of the project on its descriptive header.
+We are still on the same page, index.htm. Under each row of NFTs display, we are placing an educational section, which is part of our cultural acquisition program. Therefore, you will see only 2 educational rows on the homepage. We could add more, but more does not really mean better. It has as well the primary color of the project on its descriptive header.
 
 ![educational-row](https://github.com/plexoio/morada/blob/main/documentation/assets/img/educational-main.png)
 
 
 #### Footer
 
-At the final part of the index.html, we have our Footer. This footer is a bit different from the other pages; it has CTAs to social media. Users can also find them on the contact.html page. It also features the primary color of the project.
+At the final part of the index.htm, we have our Footer. This footer is a bit different from the other pages; it has CTAs to social media. Users can also find them on the contact.html page. It also features the primary color of the project.
 
 ![footer](https://github.com/plexoio/morada/blob/main/documentation/assets/img/footer.png)
 
@@ -339,7 +339,7 @@ We are now on our next page following the navbar order. Here, although not compl
 ![marketplace page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/marketplace.png)
 
 #### 1 Header
-Same header as seen on the index.html or home page with the same functionalities. We believe in consistency and meaning.
+Same header as seen on the index.htm or home page with the same functionalities. We believe in consistency and meaning.
 
 #### 2 Page Title
 It tells the users clearly where they are and what they are supposed to do. The title is clickable as well, and it refreshes the current page. It does not take users back to the homepage.
@@ -363,7 +363,7 @@ The formating of this page is just the same as the previous one but with differe
 
 ![learn page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/learn.png)
 #### 1 Header
-Same header as seen on the index.html or home page with the same functionalities. We believe in consistency and meaning.
+Same header as seen on the index.htm or home page with the same functionalities. We believe in consistency and meaning.
 
 #### 2 Page Title
 It tells the users clearly where they are and what they are supposed to do. The title is clickable as well, and it refreshes the current page. It does not take users back to the homepage.
@@ -387,7 +387,7 @@ The final place of this journey is the contact section. Some users may go straig
 ![contact page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/contact.png)
 
 #### 1 Header
-Same header as seen on the index.html or home page with the same functionalities. We believe in consistency and meaning.
+Same header as seen on the index.htm or home page with the same functionalities. We believe in consistency and meaning.
 
 #### 2 Page Title
 It tells the users clearly where they are and what they are supposed to do. The title is clickable as well, and it refreshes the current page. It does not take users back to the homepage.
@@ -417,9 +417,9 @@ This one is more tricky. Although the current button is partially working, it is
 Implementation is possible following the current logical order we have settled. The page is done, and the path to glory has been created.
 
 ### NFT Showcase
-We are currently using starting NFTs, which are static and can be seen inside the index.html page. It is a starting point, but it can be improved using backend development to facilitate the display of the NFTs, and why not keep track of how users interact with them.
+We are currently using starting NFTs, which are static and can be seen inside the index.htm page. It is a starting point, but it can be improved using backend development to facilitate the display of the NFTs, and why not keep track of how users interact with them.
 
-There is useful commenting on the index.html, the indentation is elegant, and the code workflow is visible. Implementing a more sophisticated NFT showcase would not be a problem. We need to remember the connection with Metamask and the NFT for the CTA button 'Claim' when hovering over the NFT.
+There is useful commenting on the index.htm, the indentation is elegant, and the code workflow is visible. Implementing a more sophisticated NFT showcase would not be a problem. We need to remember the connection with Metamask and the NFT for the CTA button 'Claim' when hovering over the NFT.
 
 ### Marketplace
 None of this would make sense without hosting our own marketplace. The foundations are here, as seen from marketplace.html. A lot of imperative programming has to be done, and a neat connection of data at rest, data in motion, and data as presented.
@@ -478,7 +478,7 @@ We have used a [Screen Reader](https://chrome.google.com/webstore/detail/screen-
 
 We have used the official W3C Markup Validation Service to test our site. We found just 3 common errors on each page, and they were already solved. Therefore, the site shows the following results:
 
-##### index.html
+##### index.htm
 
 ![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-index.png)
 
@@ -486,11 +486,42 @@ We have used the official W3C Markup Validation Service to test our site. We fou
 
 ![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-marketplace.png)
 
+##### learn.html
+
+![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-learn.png)
+
+##### contact.html
+
+![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-contact.png)
+
+
 #### GT-metrix Performance
 
 After using GT-Metrix we realized that our site is doing quite well with a 71% in performance, we took their suggestions on improving cached file by adding our `.htaccess` with the necessary values and by adding `loading="lazy"` to certain elements such images and iframes and after that we got 91%. The image talk by itself:
 
 ![GT-metrix Result](https://github.com/plexoio/morada/blob/main/documentation/assets/img/gtmetrix.png)
+
+#### CSS
+
+Since we were doing constant testing to our css the result was the following:
+
+##### index.htm
+
+![CSS testing for index page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-style.png)
+
+##### marketplace.html
+
+![CSS testing for marketplace page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-style2.png)
+
+##### learn.html
+
+![CSS testing for learn page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-style3.png)
+
+##### contact.html
+
+![CSS testing for contact page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-style4.png)
+
+- Note: it does not mean the css is perfect.
 
 #### Responsiveness
 
