@@ -23,7 +23,7 @@ Please note that this project is not available for public deployment; **it is in
 6. [Technologies Used](#technologies)
 7. [Actual Features Explained](#features)
 8. [Future Features Explained](#f-features)
-9. [Bugs & Testing Results](#testing)
+9. [Bugs & Testing Results](#bugs-testing)
 10. [Development Process](#development)
 11. [Deployment Process](#deployment)
 12. [Credits](#credits)
@@ -259,6 +259,7 @@ From the beginning to the end, we used the following technologies:
 - **GitHub**: For repositories and version control.
 - **Git Bash**: For version control and project management.
 - **Gitpod**: For learning about Git Bash, Visual Studio Code, and GitHub.
+- **[GT-Metrix](https://gtmetrix.com/)**: For checking/improving performance and fixing errors.
 - **[Code Institute](https://codeinstitute.net/)**: As a source of knowledge and information to build the entire project.
 
 ### Fonts, Graphics and formatting
@@ -425,6 +426,55 @@ None of this would make sense without hosting our own marketplace. The foundatio
 We cannot forget the Metamask login relation to the NFTs. This wallet will allow users to make purchases and identify themselves on the site. Relations to all the CTA buttons have to be kept and considered at all times.
 
 Once this is done, the Morada NFT project is unstoppable.
+
+## Bugs & Testing<a name="bugs-testing"></a> | [#](#index)
+
+### Bugs
+
+#### Website is too slow
+
+We have made sure the website works efficiently on every device: compressing images, using lazyload attributes, etc. However, we cannot guarantee that it will work the same on devices with low memory or processing capacities.
+
+#### Metamask not working
+
+Currently Metamask is not working as expected although there is a true feature installed. Once it is connect it properly to the site and marketplace no issues should be found.
+
+#### iframe assets failures
+
+If your video or google maps is not working probably the origin server of this third-party service is not working properly. It could be as well that your device is lacking of RAM memory or processing capacities. We recommend always to delete cache files and refresh the page, as well as making sure you closed other high consuming applications, running on the background to allow Morada run properly.
+
+#### Contact Form Error
+
+Currently our contact form is pointing to a Code Institute's server. Whether or not is working is not our priority for the moment. You will need to connect it to your own database so that it works as you desire.
+
+#### Social Media issue
+
+If you noticed that the social media buttons are not pointing to the Morada Hotel official social media account is because the hotel does not actually exist. This is a project to display our abilities of building this site. The current social media links take you to the authors social media.
+
+#### Morada.nft not working
+
+Our real Web3 domain is working without problems. It just need Metamask and Polygon network in it to be able to connect to the site. If you are not able to connect it could be for the following reasons:
+
+- Metamask is not installed on your browser.
+- You do not have Polygon network added on your Metamask wallet.
+- You do not have [Unstoppabledomains](https://unstoppabledomains.com/) extension (optional).
+
+#### Other bugs
+
+For other related bugs we recommend to always refresh the page or delete cache files. The problem is not Morada project, it could be third-party related issues or related to your own device settings and capabilities.
+
+## Testing
+We have tested our site for accesibility, html & css validation, performance on GT-metrix and responsiveness.
+
+During the development process we were constantly doing the same to make sure we come about with a great final product. At the end of the development process and deployment we have run the follwing tests:
+
+#### Accesibility
+
+#### HTML & CSS validation
+#### JS valdation
+#### GT-Metrix Performance
+#### Responsiveness
+
 
 <hr>
 
