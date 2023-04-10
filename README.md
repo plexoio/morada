@@ -476,9 +476,7 @@ We have used a [Screen Reader](https://chrome.google.com/webstore/detail/screen-
 
 #### HTML & CSS validation
 
-We have used the official W3C Markup Validation Service to test our site. We found just 3 common errors, and they were already solved. Therefore, the site shows the following results:
-
-#### JS validation
+We have used the official W3C Markup Validation Service to test our site. We found just 3 common errors on each page, and they were already solved. Therefore, the site shows the following results:
 
 #### GT-metrix Performance
 
