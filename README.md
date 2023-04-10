@@ -480,7 +480,11 @@ We have used the official W3C Markup Validation Service to test our site. We fou
 
 ##### index.html
 
-![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-html.png)
+![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-index.png)
+
+##### marketplace.html
+
+![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-marketplace.png)
 
 #### GT-metrix Performance
 
