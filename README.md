@@ -579,7 +579,6 @@ In this way, we have successfully deployed our project with no particular errors
 <hr>
 
 ## Credits
-....
 
 - **Brian O'Hare** for mentoring me three times on this project. Without him, it would not have been possible.
 - **[DeepAI](https://deepai.org/)** for creating the NFTs.
@@ -601,10 +600,6 @@ ChatGPT was used for the following queries:
 **Note:** ChatGPT has given some false answers during some queries. We always need to question its answers.
 - To all the websites and technologies used as seen in [Technologies Used](#technologies)
 
--------
-
-
-....
 ## Authors 
 
 - [@plexoio](https://www.github.com/plexoio) | Frank Arellano
