@@ -583,12 +583,12 @@ In this way, we have successfully deployed our project with no particular errors
 - **Brian O'Hare** for mentoring me three times on this project. Without him, it would not have been possible.
 - **[DeepAI](https://deepai.org/)** for creating the NFTs.
 - **hero.jpg** [@naimbic](https://www.pexels.com/@naimbic)
-- **blockchain.jpg & nft.jpg**[@lukejonesdesign](https://unsplash.com/@lukejonesdesign)
-- **Stack Overflow** for in-depth consultation and checking user-created content (from experienced developers) or human opinion.
-- **Google** for programming queries.
+- **blockchain.jpg & nft.jpg** [@lukejonesdesign](https://unsplash.com/@lukejonesdesign)
+- **Stack Overflow** [stackoverflow.com](https://stackoverflow.com/) for in-depth consultation and checking user-created content (from experienced developers) or human opinion.
+- **Google** [google.com](https://google.com) for programming queries.
 - [codeinstitute.net](https://codeinstitute.net/) for providing proper education, which knowledge is being applied throughout this project.
-- **Programminghub**, where I learned the basics before joining Code Institute.
-- **ChatGPT4**
+- **Programminghub** [programminghub.io](https://programminghub.io/), where I learned the basics before joining Code Institute.
+- **ChatGPT4** [ChatGPT](https://chat.openai.com/chat)
 
 ChatGPT was used for the following queries:
 
