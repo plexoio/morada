@@ -26,8 +26,7 @@ Please note that this project is not available for public deployment; **it is in
 9. [Testing Results](#testing)
 10. [Development Process](#development)
 11. [Deployment Process](#deployment)
-12. [Graphic Sources](#graphics)
-13. [Credits](#credits)
+12. [Credits](#credits)
 
 ## Badges
 
@@ -89,7 +88,7 @@ For this iteration, we decided to include features and functionalities under the
 |:------------------:|:----------------------------------:|:----------------------------:|
 |    Limited use     |   - index.htm<br>- contact.html<br>- learn.html   |    Culture acquisition       |
 |   Simple design    |   - Metamask Login<br>- NFT showcase   |        Tech Showcase         |
-| Low leading rates<br>& Non-functional | - CTA offer<br>- Marketplace<br>- Metamask Login | Long-term Investment<br>& Future Implementation |
+| Low leading rates<br>& Non-functional | - CTA offer<br>- Marketplace<br>- Metamask Login<br>- NFT showcase | Long-term Investment<br>& Future Implementation |
 
 
 
@@ -335,7 +334,7 @@ At the final part of the index.html, we have our Footer. This footer is a bit di
 
 We are now on our next page following the navbar order. Here, although not complete (for future implementation), we find the Marketplace of Morada Hotel. Users can learn how it will work, and questions are being answered on the detailed lists of progressive disclosure. Let's discuss each point or number seen in the image below:
 
-![marketplace](https://github.com/plexoio/morada/blob/main/documentation/assets/img/marketplace.png)
+![marketplace page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/marketplace.png)
 
 #### 1 Header
 Same header as seen on the index.html or home page with the same functionalities. We believe in consistency and meaning.
@@ -356,24 +355,76 @@ This section shows the main questions, and once clicked, they reveal the informa
 Here, we find our second type of footer, which will be seen everywhere except on the homepage. It is simple, follows the standards, and tells the users that they have reached the end of the page.
 
 ### Learn.html
-![learn](https://github.com/plexoio/morada/blob/main/documentation/assets/img/learn.png)
+We have now reached the leaning section, where users enter and leave having learned something.  We believe that the Blockchain technology requires pushing from the commercial side to achieve a massive implementation. We want to educate our users so that they take reasoned choices.
+
+The formating of this page is just the same as the previous one but with different content providing consistency and familiarity to the user's mind:
+
+![learn page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/learn.png)
 #### 1 Header
+Same header as seen on the index.html or home page with the same functionalities. We believe in consistency and meaning.
+
 #### 2 Page Title
-#### 3 Learning Section
+It tells the users clearly where they are and what they are supposed to do. The title is clickable as well, and it refreshes the current page. It does not take users back to the homepage.
+
+#### 3 Info Section
+Here, users can find answers to their questions after watching a video presentation. It holds a detailed list, and once clicked, the answer appears. It also has a hover property for better interaction.
+
 #### 4 Iframe Video
+The video is showing and teaching users about Blockchain technology, featuring Gary Gensler at MIT teaching about Blockchain and Money. It is one of the best free courses out there.
+
 #### 5 Detailed List
+This section shows the main questions, and once clicked, they reveal the information that the user needs. We strongly believe in progressive disclosure.
+
 #### 6 Footer
+Here, we find our second type of footer, which will be seen everywhere except on the homepage. It is simple, follows the standards, and tells the users that they have reached the end of the page.
 
 ### Contact.html
-![marketplace](https://github.com/plexoio/morada/blob/main/documentation/assets/img/contact.png)
+
+The final place of this journey is the contact section. Some users may go straight to it once on the site, while others may visit it at the end of their trip through the site. Here, we have a contact form and an about section, plus social media CTA buttons.
+
+![contact page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/contact.png)
 
 #### 1 Header
-#### 2 Page Title
-#### 3 Contact Section
-#### 4 Aside Section
-#### 5 Iframe Google Maps
-#### 6 Footer
+Same header as seen on the index.html or home page with the same functionalities. We believe in consistency and meaning.
 
+#### 2 Page Title
+It tells the users clearly where they are and what they are supposed to do. The title is clickable as well, and it refreshes the current page. It does not take users back to the homepage.
+
+#### 3 Contact Section
+A form requesting users' important data to process their inquiries effectively. A data consent checkbox has been considered. They can neatly place their inquiry on the textarea section. Users can reset the form or submit it easily without having issues differentiating between the two.
+
+#### 4 Aside Section
+Having a form is not enough; we need to make the users feel safe. Therefore, we have added an About section on the same page, laying at the right side of the contact form. Users can reach us on social media from there as well.
+
+#### 5 Iframe Google Maps
+We want to help users as much as we can, so we decided to help them visualize us in the real world, allowing them to locate our headquarters. We are 100% reachable to them. Transparency, security, and care are always present.
+
+#### 6 Footer
+Here, we find our second type of footer, which will be seen everywhere except on the homepage. It is simple, follows the standards, and tells the users that they have reached the end of the page.
+
+## Future Features Explained<a name="f-features"></a> | [#](#index)
+
+As mentioned before, this is our MVP. Future features will naturally be added to make it more functional and dynamic. Now, let's take a look at the features that can be added, how and where they can be implemented.
+
+### CTA Offer Section
+This can be added anywhere on the site. It is an idea to make a section that appears sometimes inviting users to purchase NFTs or offering discounts. This is key to increasing sales.
+
+### Metamask Login
+This one is more tricky. Although the current button is partially working, it is not connecting anywhere. Once the Marketplace is created, it will be connected to it to finally allow users to make purchases on the site. It is more complex than we think; Morada Hotel needs to create its own smart contract to tell the blockchain what to do for them.
+
+Implementation is possible following the current logical order we have settled. The page is done, and the path to glory has been created.
+
+### NFT Showcase
+We are currently using starting NFTs, which are static and can be seen inside the index.html page. It is a starting point, but it can be improved using backend development to facilitate the display of the NFTs, and why not keep track of how users interact with them.
+
+There is useful commenting on the index.html, the indentation is elegant, and the code workflow is visible. Implementing a more sophisticated NFT showcase would not be a problem. We need to remember the connection with Metamask and the NFT for the CTA button 'Claim' when hovering over the NFT.
+
+### Marketplace
+None of this would make sense without hosting our own marketplace. The foundations are here, as seen from marketplace.html. A lot of imperative programming has to be done, and a neat connection of data at rest, data in motion, and data as presented.
+
+We cannot forget the Metamask login relation to the NFTs. This wallet will allow users to make purchases and identify themselves on the site. Relations to all the CTA buttons have to be kept and considered at all times.
+
+Once this is done, the Morada NFT project is unstoppable.
 
 <hr>
 
