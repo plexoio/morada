@@ -260,6 +260,7 @@ From the beginning to the end, we used the following technologies:
 - **Git Bash**: For version control and project management.
 - **Gitpod**: For learning about Git Bash, Visual Studio Code, and GitHub.
 - **[GT-Metrix](https://gtmetrix.com/)**: For checking/improving performance and fixing errors.
+- **[Screen Reader](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn)**: for testing accesibility.
 - **[Code Institute](https://codeinstitute.net/)**: As a source of knowledge and information to build the entire project.
 
 ### Fonts, Graphics and formatting
@@ -441,39 +442,48 @@ Currently Metamask is not working as expected although there is a true feature i
 
 #### iframe assets failures
 
-If your video or google maps is not working probably the origin server of this third-party service is not working properly. It could be as well that your device is lacking of RAM memory or processing capacities. We recommend always to delete cache files and refresh the page, as well as making sure you closed other high consuming applications, running on the background to allow Morada run properly.
+If your video or Google Maps is not working, probably the origin server of this third-party service is not working properly. It could be as well that your device is lacking RAM memory or processing capacities. We recommend always deleting cache files and refreshing the page, as well as making sure you closed other high consuming applications running on the background to allow Morada to run properly.
 
 #### Contact Form Error
 
-Currently our contact form is pointing to a Code Institute's server. Whether or not is working is not our priority for the moment. You will need to connect it to your own database so that it works as you desire.
+Currently, our contact form is pointing to a Code Institute's server. Whether or not it is working is not our priority for the moment. You will need to connect it to your own database so that it works as you desire.
 
 #### Social Media issue
 
-If you noticed that the social media buttons are not pointing to the Morada Hotel official social media account is because the hotel does not actually exist. This is a project to display our abilities of building this site. The current social media links take you to the authors social media.
+If you noticed that the social media buttons are not pointing to the Morada Hotel official social media account, it is because the hotel does not actually exist. This is a project to display our abilities of building this site. The current social media links take you to the author's social media.
 
 #### Morada.nft not working
 
-Our real Web3 domain is working without problems. It just need Metamask and Polygon network in it to be able to connect to the site. If you are not able to connect it could be for the following reasons:
+Our real Web3 domain is working without problems. It just needs Metamask and Polygon network in it to be able to connect to the site. If you are not able to connect, it could be for the following reasons:
 
 - Metamask is not installed on your browser.
 - You do not have Polygon network added on your Metamask wallet.
-- You do not have [Unstoppabledomains](https://unstoppabledomains.com/) extension (optional).
+- You do not have Unstoppable domain extension (optional).
 
 #### Other bugs
 
-For other related bugs we recommend to always refresh the page or delete cache files. The problem is not Morada project, it could be third-party related issues or related to your own device settings and capabilities.
+For other related bugs, we recommend always refreshing the page or deleting cache files. The problem is not the Morada project; it could be third-party related issues or related to your own device settings and capabilities.
 
 ## Testing
-We have tested our site for accesibility, html & css validation, performance on GT-metrix and responsiveness.
 
-During the development process we were constantly doing the same to make sure we come about with a great final product. At the end of the development process and deployment we have run the follwing tests:
+We have tested our site for accessibility, HTML & CSS validation, performance on GT-metrix, and responsiveness.
 
-#### Accesibility
+During the development process, we were constantly doing the same to make sure we come up with a great final product. At the end of the development process and deployment, we have run the following tests:
+
+#### Accessibility
+
+We have used a [Screen Reader](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) created by Google. As a result, we have improved the aria-label of some features, such as the educational image displayed on the homepage, as well as the Google Maps iframe on the contact.html page.
 
 #### HTML & CSS validation
-#### JS valdation
-#### GT-Metrix Performance
+
+We have used the official W3C Markup Validation Service to test our site. We found just 3 common errors, and they were already solved. Therefore, the site shows the following results:
+
+#### JS validation
+
+#### GT-metrix Performance
+
 #### Responsiveness
+
 
 
 <hr>
