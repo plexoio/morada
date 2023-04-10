@@ -432,27 +432,27 @@ Once this is done, the Morada NFT project is unstoppable.
 
 ### Bugs
 
-#### Website is too slow
+#### a) Website is too slow
 
 We have made sure the website works efficiently on every device: compressing images, using lazyload attributes, etc. However, we cannot guarantee that it will work the same on devices with low memory or processing capacities.
 
-#### Metamask not working
+#### b) Metamask not working
 
 Currently Metamask is not working as expected although there is a true feature installed. Once it is connect it properly to the site and marketplace no issues should be found.
 
-#### iframe assets failures
+#### c) iframe assets failures
 
 If your video or Google Maps is not working, probably the origin server of this third-party service is not working properly. It could be as well that your device is lacking RAM memory or processing capacities. We recommend always deleting cache files and refreshing the page, as well as making sure you closed other high consuming applications running on the background to allow Morada to run properly.
 
-#### Contact Form Error
+#### d) Contact Form Error
 
 Currently, our contact form is pointing to a Code Institute's server. Whether or not it is working is not our priority for the moment. You will need to connect it to your own database so that it works as you desire.
 
-#### Social Media issue
+#### e) Social Media issue
 
 If you noticed that the social media buttons are not pointing to the Morada Hotel official social media account, it is because the hotel does not actually exist. This is a project to display our abilities of building this site. The current social media links take you to the author's social media.
 
-#### Morada.nft not working
+#### f) Morada.nft not working
 
 Our real Web3 domain is working without problems. It just needs Metamask and Polygon network in it to be able to connect to the site. If you are not able to connect, it could be for the following reasons:
 
@@ -501,9 +501,9 @@ After using GT-Metrix we realized that our site is doing quite well with a 71% i
 
 ![GT-metrix Result](https://github.com/plexoio/morada/blob/main/documentation/assets/img/gtmetrix.png)
 
-#### CSS
+#### CSS validation
 
-Since we were doing constant testing to our css the result was the following:
+This test represents all the .css files `style.css`, `nft.css`, and `media.css` queries. Since we were doing constant testing to our css the result was the following:
 
 ##### index.htm
 
@@ -529,21 +529,21 @@ We have run manual tests on different devices to make sure our media queries are
 
 ![Responsive Mockup image](https://github.com/plexoio/morada/blob/main/documentation/assets/img/responsive-mockup.png)
 
-## Development Process <a name="development"></a> | [Index](#index)
+## Development Process <a name="development"></a> | [#](#index)
 
 We have created 4 `.html` pages, 3 `.css` files, and 1 `.js` file. In addition, we have an assets folder, a documentation folder, a vendor folder, and an `.htaccess` file for better caching. Naturally, we can also see the `README.md` file.
 
-It was an exciting journey using our `User-centered Design` approach by Jesse James Garrett.
+It was an exciting journey using our `User-centered Design` approach by Jesse James Garrett:
 
-On the **strategy** plane, we focused on the problem rather than the solution, determining what we wanted to build.
+- On the `strategy` plane, we focused on the problem rather than the solution, determining what we wanted to build.
 
-On the **scope** plane, we determined what we could accomplish based on deadlines and resources. That's the reason why we created an MVP and not all main desired functionalities are active. This first iteration is for presentation and marketing for Morada Hotel, allowing clients to see that their hotel has started building something.
+- On the `scope` plane, we determined what we could accomplish based on deadlines and resources. That's the reason why we created an MVP and not all main desired functionalities are active. This first iteration is for presentation and marketing for Morada Hotel, allowing clients to see that their hotel has started building something.
 
-On the **structure** plane, we put in more work that helped us code better, defining the content, folder distribution, user interactions, feature locations, and user navigation.
+- On the `structure`plane, we put in more work that helped us code better, defining the content, folder distribution, user interactions, feature locations, and user navigation.
 
-On the **skeleton** plane, we began giving form to our ideas. From two mindmaps, we designed our wireframe using Adobe XD. We could see how the project was coming to life and decided what could be improved and what was already fantastic.
+- On the `skeleton` plane, we began giving form to our ideas. From two mindmaps, we designed our wireframe using Adobe XD. We could see how the project was coming to life and decided what could be improved and what was already fantastic.
 
-On the **surface** plane, we established our colors, fonts, elements, content, and everything that users can see in the system. Each plane is related to the others, and the surface is the final projection of our work.
+- On the `surface` plane, we established our colors, fonts, elements, content, and everything that users can see in the system. Each plane is related to the others, and the surface is the final projection of our work.
 
 We encountered various challenges during the planning process, documentation process, and coding process. However, with patience and perseverance, we found a solution for each one.
 
@@ -551,7 +551,30 @@ In future iterations, the `index`, `marketplace`, `learn`, and `contact` pages w
 
 We are satisfied with our first iteration of Morada NFT. Users are learning about this emerging technology, and the hotel is informing them about upcoming developments. Radical changes are not always positive, so building and deploying this project was a great idea.
 
-## Deployment Process <a name="development"></a> | [Index](#index)
+## Deployment Process <a name="development"></a> | [#](#index)
+
+We were at all times using Visual Studio, Git Bash, and GitHub for coding and version control respectively. That guaranteed that we could deploy our product faster once it was completed.
+
+- We made sure we had a safe backup of the site. We did not rely solely on the GitHub repository, we also made structured backups on external hard disks.
+
+- We made sure from the beginning that we were using industry-standard ways of structuring our directory and naming our files.
+
+- We corrected all directories in the code, making them from absolute directories to relative directories to ensure interoperability during deployment.
+
+- We made sure images and code were optimized by using W3C, a screen reader, testing the site on different devices, GT-matrix, etc.
+
+- After ensuring the README.md was up to date, we decided to open GitHub Pages for our product. The setup was rather easy:
+
+1. Go to your repository
+2. Click on the settings button
+3. Go to the left navbar on `Code and automation`
+4. Click on `Pages`
+5. Select `deploy from a branch`
+6. Select `Branch` and then `/root` then click on `Save`
+7. Wait for 1 to 5 minutes and then refresh your page.
+8. On top of that section, you will see the link to your GitHub Pages.
+
+In this way, we have successfully deployed our project with no particular errors. Please refer to the other sections and subsections of this README.md file for more information.
 
 <hr>
 
