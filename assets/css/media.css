@@ -146,10 +146,6 @@ ul > li {
   padding: 10px 5px 5px 0px;
 }
 
-ul {
-  padding: 0;
-}
-
 ul > li > a {
     font-size: 16px;
 }
@@ -282,7 +278,6 @@ body nav {
 
 ul {
   display: inline-block;
-  padding: 0;
 }
 
 .hr-cut-bottom {
@@ -346,7 +341,6 @@ a[href="index.htm"] > img {
 
 ul {
   display: inline-block;
-  padding: 0;
 }
 
 .hr-cut-bottom {

@@ -25,7 +25,6 @@
 }
 body {
     background-color:#FFE8FF;
-    margin:0;
     font-family: 'Roboto', Bitter, sans-serif;
 }
 
@@ -38,7 +37,6 @@ body h1,h2{
     padding: 0.5rem 0.5rem;
     font-family: 'Roboto', Bitter, serif;
     text-align: center;
-    margin:0;
     letter-spacing: 1px;
 }
 
@@ -65,7 +63,6 @@ h2 {
 .logo-img-background {
     background-color: #9B59B6;
     width:100%;
-    margin: 0;
     padding-top:10px;
 }
 
@@ -129,7 +126,6 @@ transition: 0.3s;
     font-family: 'Tangerine', Roboto, serif;
     font-weight: 400;
     font-size: 4rem;
-    margin:0;
     color: #460462;
     padding-top: 10px;
     margin-left: -30px;
@@ -139,7 +135,6 @@ transition: 0.3s;
     font-family: 'Tangerine', Roboto, serif;
     font-weight: 400;
     font-size: 4rem;
-    margin:0;
     color: #ffffff;
 }
 
@@ -189,7 +184,6 @@ transition: 0.3s;
 /* Start of Home Hero Section*/
 
 .hero-container {
-    margin:0;
     background: url('../../vendor/img/hero.jpg') no-repeat center center fixed;
     background-size: cover;
     height: 50vw;
@@ -488,7 +482,6 @@ ul {
     position: relative;
     text-align: center;
     list-style: none;
-    margin:0;
 }
 
 ul > li {
