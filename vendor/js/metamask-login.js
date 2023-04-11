@@ -1,16 +1,16 @@
 // START of ChatGPT4 code for Metamask login
 async function connect() {
     if (typeof window.ethereum !== 'undefined') {
-    try {
-        await addPolygonNetwork();
-        await requestAccountAccess();
-        const currentAccount = await getCurrentAccount();
-        alert(`Logged in as ${currentAccount}`);
-    } catch (error) {
-        displayError(error);
-    }
+        try {
+            await addPolygonNetwork();
+            await requestAccountAccess();
+            const currentAccount = await getCurrentAccount();
+            alert(`Logged in as ${currentAccount}`);
+        } catch (error) {
+            displayError(error);
+        }
     } else {
-    alert('Metamask is not installed');
+        alert('Metamask is not installed');
     }
 }
 
