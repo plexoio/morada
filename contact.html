@@ -1,148 +1,167 @@
 <!DOCTYPE html>
 <html lang="en-US">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Morada Hotel - Contact</title>
-        <meta name="description" content="Get in touch with Morada Hotel and learn more about our NFT Project!">
-        <meta name="keywords" content="contact, project, morada, hotel, nft, basic, expert, premium, utility, value, blockchain, polygon, metamask, nfts">
-        <meta name="author" content="Frank Arellano">
-        <link href="assets/css/style.css" rel="stylesheet" type="text/css">
-        <link href="assets/css/media.css" rel="stylesheet" type="text/css">
-        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/web3@1.3.5/dist/web3.min.js"></script>
-    </head>
-    <body class="bkg-white">
-        
-        <!-- Start nav section-->
-        <header>
-            <nav class="nav" aria-label="Morada Navigation Bar">
-                 <ul>
-                    <li class="nav-logo">
-                        <a href="index.htm"><img class="logo-img" src="assets/img/logo.png" alt="logo of morada"></a>
-                    </li>
-                    <li><a href="index.htm">Home</a></li>
-                    <li><a href="marketplace.html">Marketplace</a></li>
-                    <li><a href="learn.html">Learn</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li><a href="#" id="metamask"><strong>Metamask</strong></a></li> 
-                </ul>              
-            </nav>
-        </header>
-        <!-- End nav section-->
 
-        <!-- Start of Contact Form-->
-        <div class="height text-center">
-            <a href="contact.html">
-                <h1 class="page-title background call-action-start padding-bottom">Contact us</h1>
-            </a>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morada Hotel - Contact</title>
+    <meta name="description" content="Get in touch with Morada Hotel and learn more about our NFT Project!">
+    <meta name="keywords"
+        content="contact, project, morada, hotel, nft, basic, expert, premium, utility, value, blockchain, polygon, metamask, nfts">
+    <meta name="author" content="Frank Arellano">
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/media.css" rel="stylesheet" type="text/css">
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/web3@1.3.5/dist/web3.min.js"></script>
+</head>
 
-            <section class="contact">
-                <h2 class="base-color call-action-start padding-bottom">Contact</h2>
-                <form action="https://formdump.codeinstitute.net/" method="POST">
-                    <!-- Personal Data-->
-                    <fieldset>
-                        <legend>Personal</legend>
-                        <div id="text-align">
-                        <label for="name">Name*</label>
+<body class="bkg-white">
+
+    <!-- Start nav section-->
+    <header>
+        <nav class="nav" aria-label="Morada Navigation Bar">
+            <ul>
+                <li class="nav-logo">
+                    <a href="index.htm"><img class="logo-img" src="assets/img/logo.png" alt="logo of morada"></a>
+                </li>
+                <li><a href="index.htm">Home</a></li>
+                <li><a href="marketplace.html">Marketplace</a></li>
+                <li><a href="learn.html">Learn</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="#" id="metamask"><strong>Metamask</strong></a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- End nav section-->
+
+    <!-- Start of Contact Form-->
+    <div class="height">
+        <a href="contact.html">
+            <h1 class="page-title background call-action-start padding-bottom">Contact us</h1>
+        </a>
+
+        <section class="contact">
+            <h2 class="base-color call-action-start padding-bottom">Contact</h2>
+            <form action="https://formdump.codeinstitute.net/" method="POST">
+                <!-- Personal Data-->
+                <fieldset>
+                    <legend>Personal</legend>
+                    <div id="text-align">
+                        <label for="name">Name *</label>
                         <input id="name" type="text" name="contactname" placeholder="Your name" required>
-                        
-                        <label for="lastname">Last Name*</label>
+
+                        <label for="lastname">Last Name *</label>
                         <input id="lastname" type="text" name="contactlname" placeholder="Your last name" required>
-                        
-                        <label for="email">E-mail*</label>
+
+                        <label for="email">E-mail *</label>
                         <input id="email" type="email" name="contactemail" placeholder="youremail@mail.com" required>
-                        </div>
-                    </fieldset>
+                    </div>
+                </fieldset>
 
-                    <!-- Topic selection-->
-                    <fieldset>
-                        <legend>Topic*</legend>
-                        <div>
-                            <label for="topic">Choose</label>
-                            <select id="topic" name="topic" required>
-                                <option value="">Select an option</option>
-                                <option value="learn">Learn</option>
-                                <option value="metamask">Metamask</option>
-                                <option value="marketplace">Marketplace</option>
-                                <option value="NFT">NFT</option>
-                                <option value="Location">Location</option>
-                                <option value="Other">Other</option>
-                            </select>
-                        </div>
-                    </fieldset>
+                <!-- Topic selection-->
+                <fieldset>
+                    <legend>Topic</legend>
+                    <div>
+                        <label class="text-left" for="topic">Choose * </label>
+                        <select id="topic" name="topic" required>
+                            <option value="">Select an option</option>
+                            <option value="learn">Learn</option>
+                            <option value="metamask">Metamask</option>
+                            <option value="marketplace">Marketplace</option>
+                            <option value="NFT">NFT</option>
+                            <option value="Location">Location</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </div>
+                </fieldset>
 
-                    <!-- User inquiries-->
-                    <fieldset>
-                        <legend>
-                            Comment*
-                        </legend>
-                        <label for="explain"></label>
-                        <textarea id="explain" name="explain" rows="10" cols="50" required></textarea>
-                    </fieldset>
+                <!-- User inquiries-->
+                <fieldset>
+                    <legend>
+                        Comment *
+                    </legend>
+                    <label for="explain"></label>
+                    <textarea id="explain" name="explain" rows="10" required></textarea>
+                </fieldset>
 
-                    <!-- Data Consent Section-->
-                    <fieldset>
-                        <legend>Data Consent*</legend>
-                        <label for="acceptdatause"></label>
-                        <input class="inline" id="acceptdatause" type="checkbox" name="contact" value="yes" required>
-                        <a class="acceptdata" href="#" target="_blank">I accept the Privacy Policy and Terms & Conditions</a>
-                    </fieldset>
+                <!-- Data Consent Section-->
+                <fieldset>
+                    <legend>Data Consent *</legend>
+                    <label for="acceptdatause"></label>
+                    <input class="inline" id="acceptdatause" type="checkbox" name="contact" value="yes" required>
+                    <a class="acceptdata" href="#" target="_blank">I accept the Privacy Policy and Terms &
+                        Conditions</a>
+                </fieldset>
 
-                    <!-- Form submit/reset buttons-->
+                <!-- Form submit/reset buttons-->
+                <div class="text-center">
                     <input class="claim bkg-white base-color" type="submit" value="Send request">
                     <input class="learn bkg-white base-color" type="reset" value="Reset form">
-                </form>
-            </section>
-            <!-- End of Contact Form-->
-
-            <!-- Start of About us-->
-            <aside class="aside contact">
-                <div>
-                    <h2 class="text-center base-color">What is Morada NFT?</h2>
-                    <p class="text-justify">Morada NFT is a landing page for purchasing functional NFTs offered by a hotel. "Functional" in this context refers to NFTs that hold real value or utility. Apart from receiving special benefits, free stays, surprises, VIP services, and more, clients will be at the forefront of the most advanced technology available for membership management and ticket issuance. Users become part of the hotel by holding an NFT, which is 100% tradable and valid for lifetime use.
-                    </p>
-                    
-                    <!-- Location Data-->
-                    <p><strong>Address</strong></p>
-                    <p>Leipzig, Germany.</p>
-                    <p><strong>Tlf</strong></p>
-                    <p>+49 000 000 000</p>
-                    <p><strong>Email</strong></p>
-                    <p>info@gmail.com</p>
-                    <p><strong>Smart Contract</strong></p>
-                    <p class="contract">0xB09480eE8A8d9a40d7449327f45fA79F035F624C</p>
-
-                    <!-- Social Media Buttons-->
-                    <p><strong>Social Media</strong></p>
-                    <ul class="base-color">
-                        <li><a href="https://www.facebook.com/plexo.io" target="_blank" rel="noopener noreferrer nofollow">Facebook</a></li>
-                        <li><a href="https://twitter.com/plexoio" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-                        <li><a href="https://instagram.com/plexo.io" target="_blank" rel="noopener noreferrer nofollow">Instagram</a></li>
-                        <li><a href="https://linktr.ee/plexoblockchain" target="_blank" rel="noopener noreferrer nofollow">Linktree</a></li>
-                    </ul>
                 </div>
-            </aside>
-        </div>
+            </form>
+        </section>
         <!-- End of Contact Form-->
 
-        <!-- Start of Embedded Google Maps-->
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d643684.0358774893!2d9.92012577925788!3d52.38528608001345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47afef35fcca8c8f%3A0xe62a665a2fbb2490!2sGehrenkamp%201%2C%2038550%20Isenb%C3%BCttel!5e0!3m2!1sen!2sde!4v1680290819949!5m2!1sen!2sde" 
-                style="border:0;" allowfullscreen="" loading="lazy" 
-                referrerpolicy="no-referrer-when-downgrade" aria-label="Embedded Google Maps">
-            </iframe>
-        <!-- End of Embedded Google Maps-->
+        <!-- Start of About us-->
+        <aside class="aside contact">
+            <div>
+                <h2 class="text-center base-color">What is Morada NFT?</h2>
+                <p class="text-justify">Morada NFT is a landing page for purchasing functional NFTs offered by a hotel.
+                    "Functional" in this context refers to NFTs that hold real value or utility. Apart from receiving
+                    special benefits, free stays, surprises, VIP services, and more, clients will be at the forefront of
+                    the most advanced technology available for membership management and ticket issuance. Users become
+                    part of the hotel by holding an NFT, which is 100% tradable and valid for lifetime use.
+                </p>
 
-        <!-- Start of footer-->
-        <footer class="background text-center" aria-label="footer section">
-            <div class="center">
-                <p>©2023 <a class="color-white" href="https://morada.nft" rel="author noopener noreferrer"><b>morada.nft</b></a> of Morada by <a class="color-white" href="https://github.com/plexoio" target="_blank" aria-label="link to author" rel="author noopener noreferrer"><b>Frank Arellano</b></a></p>
+                <!-- Location Data-->
+                <p><strong>Address</strong></p>
+                <p>Leipzig, Germany.</p>
+                <p><strong>Tlf</strong></p>
+                <p>+49 000 000 000</p>
+                <p><strong>Email</strong></p>
+                <p>info@gmail.com</p>
+                <p><strong>Smart Contract</strong></p>
+                <p class="contract">0xB09480eE8A8d9a40d7449327f45fA79F035F624C</p>
+
+                <!-- Social Media Buttons-->
+                <p><strong>Social Media</strong></p>
+                <ul class="base-color">
+                    <li><a href="https://www.facebook.com/plexo.io" target="_blank"
+                            rel="noopener noreferrer nofollow">Facebook</a></li>
+                    <li><a href="https://twitter.com/plexoio" target="_blank"
+                            rel="noopener noreferrer nofollow">Twitter</a></li>
+                    <li><a href="https://instagram.com/plexo.io" target="_blank"
+                            rel="noopener noreferrer nofollow">Instagram</a></li>
+                    <li><a href="https://linktr.ee/plexoblockchain" target="_blank"
+                            rel="noopener noreferrer nofollow">Linktree</a></li>
+                </ul>
             </div>
-        </footer>
-        <!-- End of footer-->
-        
-        <!-- Start of Metasmask Login to Polygon network by ChatGPT4 -->
-        <script src="/vendor/js/metamask-login.js"></script>
-        <!-- End of Metasmask Login to Polygon network by ChatGPT4 -->
-    </body>
+        </aside>
+    </div>
+    <!-- End of Contact Form-->
+
+    <!-- Start of Embedded Google Maps-->
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d643684.0358774893!2d9.92012577925788!3d52.38528608001345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47afef35fcca8c8f%3A0xe62a665a2fbb2490!2sGehrenkamp%201%2C%2038550%20Isenb%C3%BCttel!5e0!3m2!1sen!2sde!4v1680290819949!5m2!1sen!2sde"
+        style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+        aria-label="Embedded Google Maps">
+    </iframe>
+    <!-- End of Embedded Google Maps-->
+
+    <!-- Start of footer-->
+    <footer class="background text-center" aria-label="footer section">
+        <div class="center">
+            <p>©2023 <a class="color-white" href="https://morada.nft"
+                    rel="author noopener noreferrer"><b>morada.nft</b></a> of Morada by <a class="color-white"
+                    href="https://github.com/plexoio" target="_blank" aria-label="link to author"
+                    rel="author noopener noreferrer"><b>Frank Arellano</b></a></p>
+        </div>
+    </footer>
+    <!-- End of footer-->
+
+    <!-- Start of Metasmask Login to Polygon network by ChatGPT4 -->
+    <script src="/vendor/js/metamask-login.js"></script>
+    <!-- End of Metasmask Login to Polygon network by ChatGPT4 -->
+</body>
+
 </html>

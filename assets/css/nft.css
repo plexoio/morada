@@ -22,16 +22,12 @@
     color:white;
 }
 
-.info-nft > div{
-    text-align: center;
-    padding: 0;
-    margin:0;
-}
 .info-nft > div > p{
     font-weight: 400;
     text-align: justify;
     font-size: 18px;
     text-transform: capitalize;
+    margin-top: 15px;
 }
 
 /*NFT section - BASIC*/
