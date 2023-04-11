@@ -276,7 +276,7 @@
   }
 
   .hr-cut-bottom {
-    padding: 0 0 35px 0;
+    padding: 0 0 2px 0;
   }
 
   .footer {
@@ -290,7 +290,7 @@
   }
 
   #padding-left {
-    padding: 20% 5rem;
+    padding-left: 3rem;
     text-align: justify;
   }
 
@@ -340,7 +340,7 @@
   }
 
   .hr-cut-bottom {
-    padding: 0 0 35px 0;
+    padding: 0 0 2px 0;
   }
 
   .contact {
