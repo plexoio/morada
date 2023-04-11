@@ -112,7 +112,7 @@
 
   .info-nft>div {
     text-align: center;
-    padding: 10% 0 10% 0;
+    padding: 10% 30%;
   }
 
   .info-nft>div>p {
@@ -120,8 +120,7 @@
     text-align: justify;
     font-size: 18px;
     text-transform: capitalize;
-    padding-left: 25%;
-    width: 20ch;
+    width: 18ch;
   }
 
   /* Contact page styling*/
@@ -158,12 +157,12 @@
   }
 
   #padding-right {
-    padding-right: 0.5rem;
+    padding: 1rem 1rem 1rem 0;
     text-align: justify;
   }
 
   #padding-left {
-    padding: 0.5rem;
+    padding: 1rem 0 1rem 1rem;
     text-align: justify;
   }
 
