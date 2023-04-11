@@ -8,9 +8,8 @@
     font-size: 1.1rem;
   }
 
-  body nav {
-    height: 2rem;
-    padding: 10px 0 15px 0;
+  ul {
+    line-height: 60px;
   }
 
   div[class=learn-nft] {
@@ -143,7 +142,7 @@
   /* Footer and General Styling*/
   ul>li {
     display: inline-block;
-    padding: 10px 5px 5px 0px;
+    padding: 0 5px 5px 0px;
   }
 
   ul>li>a {
@@ -255,13 +254,13 @@
 
   /* General Styling*/
 
-  a[href="index.htm"]>img {
-    display: none;
+  ul {
+    display: inline-block;
+    line-height: 60px;
   }
 
-  body nav {
-    height: 2rem;
-    padding: 20px 0 5px;
+  a[href="index.htm"]>img {
+    display: none;
   }
 
   .padding {
@@ -274,10 +273,6 @@
 
   .aside {
     margin-left: -20px;
-  }
-
-  ul {
-    display: inline-block;
   }
 
   .hr-cut-bottom {
@@ -306,6 +301,11 @@
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
 
   /*General Styling*/
+
+  ul {
+    display: inline-block;
+    line-height: 60px;
+  }
 
   div[class=learn-nft] {
     width: 80vw;
@@ -337,10 +337,6 @@
 
   .padding {
     padding: 70px 0 10px 0;
-  }
-
-  ul {
-    display: inline-block;
   }
 
   .hr-cut-bottom {
