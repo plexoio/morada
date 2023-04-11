@@ -8,7 +8,7 @@ As evident from all the information provided in this Readme.md, the state of thi
 
 Please note that this project is not available for public deployment; **it is intended solely for learning and demonstration purposes** even though is ready for use.
 
-![Responsive Mockup image](https://github.com/plexoio/morada/blob/main/documentation/assets/img/responsive-mockup.png)
+![Responsive Mockup image](https://github.com/plexoio/morada/blob/main/documentation/assets/img/responsive-mockup.webp)
 
 **Preview Link:** [Morada Hotel](https://plexoio.github.io/morada/index.htm)
 
@@ -65,7 +65,7 @@ These insights stem from comprehensive research, as evidenced by the accompanyin
 
 ### Research Graphic
 
-![Table Graphic](https://github.com/plexoio/morada/blob/main/documentation/assets/img/strategy.png)
+![Table Graphic](https://github.com/plexoio/morada/blob/main/documentation/assets/img/strategy.webp)
 
 The results show that the points we selected for our 'Relevancy' group are integrated with the most important points for the project itself, with the `Learn` and `CTA Offers` points having a slight difference of `4` to `5` compared to the highest point.
 
@@ -133,13 +133,13 @@ In this iteration, as shown in the following mind map, the site is intuitive, an
 
 Please refer to the following mind map for more details on the Interactive Experience Design (IXD) for our Morada Project.
 
-![IXD Mindmap](https://github.com/plexoio/morada/blob/main/documentation/assets/img/IXD.png)
+![IXD Mindmap](https://github.com/plexoio/morada/blob/main/documentation/assets/img/IXD.webp)
 
 Placing the right keywords, data, and content in the appropriate sections and subsections is crucial to ensure proper navigation and organization. This approach allows us to convey value and serve the final purpose of the underlying feature. We also use lists and nested lists to present information effectively. By referring to the first mind map, which represents the interactive part, we can see how information will be placed and how it will serve its purpose in conjunction with the interactive design.
 
 Please refer to the following mind map for more details on the Information Architecture Design (IAD) for our Morada Project.
 
-![IXD Mindmap](https://github.com/plexoio/morada/blob/main/documentation/assets/img/IAD.png)
+![IXD Mindmap](https://github.com/plexoio/morada/blob/main/documentation/assets/img/IAD.webp)
 
 The IXD and IAD mind maps have provided a clear direction for the skeleton plane. We now understand what needs to be done and how to achieve our goals. It's time to move on to the next phase: the `Skeleton plane`.
 
@@ -278,7 +278,7 @@ From the beginning to the end, we used the following technologies:
 - **[Ezgif](https://ezgif.com/video-to-gif)**: for converting MP4 to Gif.
 
 - **[Freeconvert](https://www.freeconvert.com/gif-compressor)**: for compressing GIF images.
-- **[Tinypng](https://tinypng.com/)**: for compressing .png and .jpg images.
+- **[Tinypng](https://tinypng.com/)**: for compressing .webp and .webp images.
 - **[Wechat](https://www.wechat.com/)**: for easy screenshots, editing and cropping, a chinese multifuncional desktop and mobile app.
 
 ### Artificial Intelligence (AI)
@@ -300,19 +300,19 @@ At the header, we have located the branding logo on the left side of the screen 
 
 It uses a background of the project's primary color and hover properties and values have been applied on each anchor element, including the Metamask login. They can all be considered CTA buttons as well.
 
-![header](https://github.com/plexoio/morada/blob/main/documentation/assets/img/header.png)
+![header](https://github.com/plexoio/morada/blob/main/documentation/assets/img/header.webp)
 
 #### Branding Title
 
 We can find the branding title under the header of the index.htm. It tells the users where they are, who is presenting this project, and at the same time provides personality and more identity to the site.
 
-![branding](https://github.com/plexoio/morada/blob/main/documentation/assets/img/branding-title.png)
+![branding](https://github.com/plexoio/morada/blob/main/documentation/assets/img/branding-title.webp)
 
 #### Hero Section
 
 The hero section comes right after the branding title as expected. Its location surprises users with the hotel hero image. Not being enough, it holds the hotel's motto found on almost every corner of our establishments: 'Always beyond your expectations'. Now that we've got the user's attention, what do we do with it? Right! We need some CTA buttons. They are concrete and useful. One takes you to the marketplace.html, and the other takes you to the learning page or learn.html.
 
-![hero](https://github.com/plexoio/morada/blob/main/documentation/assets/img/hero-section.png)
+![hero](https://github.com/plexoio/morada/blob/main/documentation/assets/img/hero-section.webp)
 
 #### NFTs display
 
@@ -320,26 +320,26 @@ So far, we have our great web application working properly, but something is sti
 
 We took our time to add hovering effects to each NFT. Once it is hovered, information related to the particular type of NFT or membership will be shown. Once again, we got the user engaged, so we had to do something about it. We added a CTA to purchase the NFT right away. We believe in the 3 steps rule. It has as well the primary color of the project on its descriptive header.
 
-![nft](https://github.com/plexoio/morada/blob/main/documentation/assets/img/nft-display.png)
+![nft](https://github.com/plexoio/morada/blob/main/documentation/assets/img/nft-display.webp)
 
 #### Educational row
 
 We are still on the same page, index.htm. Under each row of NFTs display, we are placing an educational section, which is part of our cultural acquisition program. Therefore, you will see only 2 educational rows on the homepage. We could add more, but more does not really mean better. It has as well the primary color of the project on its descriptive header.
 
-![educational-row](https://github.com/plexoio/morada/blob/main/documentation/assets/img/educational-main.png)
+![educational-row](https://github.com/plexoio/morada/blob/main/documentation/assets/img/educational-main.webp)
 
 
 #### Footer
 
 At the final part of the index.htm, we have our Footer. This footer is a bit different from the other pages; it has CTAs to social media. Users can also find them on the contact.html page. It also features the primary color of the project and it is also sticky.
 
-![footer](https://github.com/plexoio/morada/blob/main/documentation/assets/img/footer.png)
+![footer](https://github.com/plexoio/morada/blob/main/documentation/assets/img/footer.webp)
 
 ### Marketplace.html
 
 We are now on our next page following the navbar order. Here, although not complete (for future implementation), we find the Marketplace of Morada Hotel. Users can learn how it will work, and questions are being answered on the detailed lists of progressive disclosure. Let's discuss each point or number seen in the image below:
 
-![marketplace page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/marketplace.png)
+![marketplace page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/marketplace.webp)
 
 #### 1 Header
 Same header as seen on the index.htm or home page with the same functionalities. We believe in consistency and meaning.
@@ -364,7 +364,7 @@ We have now reached the leaning section, where users enter and leave having lear
 
 The formating of this page is just the same as the previous one but with different content providing consistency and familiarity to the user's mind:
 
-![learn page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/learn.png)
+![learn page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/learn.webp)
 #### 1 Header
 Same header as seen on the index.htm or home page with the same functionalities. We believe in consistency and meaning.
 
@@ -387,7 +387,7 @@ Here, we find our second type of footer, which will be seen everywhere except on
 
 The final place of this journey is the contact section. Some users may go straight to it once on the site, while others may visit it at the end of their trip through the site. Here, we have a contact form and an about section, plus social media CTA buttons.
 
-![contact page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/contact.png)
+![contact page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/contact.webp)
 
 #### 1 Header
 Same header as seen on the index.htm or home page with the same functionalities. We believe in consistency and meaning.
@@ -483,26 +483,26 @@ We have used the official W3C Markup Validation Service to test our site. We fou
 
 ##### index.htm
 
-![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-index.png)
+![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-index.webp)
 
 ##### marketplace.html
 
-![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-marketplace.png)
+![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-marketplace.webp)
 
 ##### learn.html
 
-![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-learn.png)
+![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-learn.webp)
 
 ##### contact.html
 
-![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-contact.png)
+![HTML validation](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-contact.webp)
 
 
 #### GT-metrix Performance
 
 After using GT-Metrix we realized that our site is doing quite well with a 71% in performance, we took their suggestions on improving cached file by adding our `.htaccess` with the necessary values and by adding `loading="lazy"` to certain elements such images and iframes and after that we got 91%. The image talk by itself:
 
-![GT-metrix Result](https://github.com/plexoio/morada/blob/main/documentation/assets/img/gtmetrix.png)
+![GT-metrix Result](https://github.com/plexoio/morada/blob/main/documentation/assets/img/gtmetrix.webp)
 
 #### CSS validation
 
@@ -510,19 +510,19 @@ This test represents all the .css files `style.css`, `nft.css`, and `media.css` 
 
 ##### index.htm
 
-![CSS testing for index page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-style.png)
+![CSS testing for index page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-style.webp)
 
 ##### marketplace.html
 
-![CSS testing for marketplace page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-style2.png)
+![CSS testing for marketplace page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-style2.webp)
 
 ##### learn.html
 
-![CSS testing for learn page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-style3.png)
+![CSS testing for learn page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-style3.webp)
 
 ##### contact.html
 
-![CSS testing for contact page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-style4.png)
+![CSS testing for contact page](https://github.com/plexoio/morada/blob/main/documentation/assets/img/w3c-style4.webp)
 
 - Note: it does not mean the css is perfect.
 
@@ -530,7 +530,7 @@ This test represents all the .css files `style.css`, `nft.css`, and `media.css` 
 
 We have run manual tests on different devices to make sure our media queries are working 100%. We have made final improvements to it, and now we believe it's suitable for most screen sizes out there in the world. Here is again the insight shot:
 
-![Responsive Mockup image](https://github.com/plexoio/morada/blob/main/documentation/assets/img/responsive-mockup.png)
+![Responsive Mockup image](https://github.com/plexoio/morada/blob/main/documentation/assets/img/responsive-mockup.webp)
 
 #### Security
 
@@ -605,8 +605,8 @@ In this way, we have successfully deployed our project with no particular errors
 
 - **Brian O'Hare**: for mentoring me three times on this project. Without him, it would not have been possible.
 - [DeepAI](https://deepai.org/): for creating the NFTs.
-- **hero.jpg**: [@naimbic](https://www.pexels.com/@naimbic)
-- **blockchain.jpg & nft.jpg**: [@lukejonesdesign](https://unsplash.com/@lukejonesdesign)
+- **hero.webp**: [@naimbic](https://www.pexels.com/@naimbic)
+- **blockchain.webp & nft.webp**: [@lukejonesdesign](https://unsplash.com/@lukejonesdesign)
 - [stackoverflow.com](https://stackoverflow.com/): for in-depth consultation and checking user-created content (from experienced developers) or human opinion.
 - [google.com](https://google.com): for programming queries.
 - [codeinstitute.net](https://codeinstitute.net/): for providing proper education, which knowledge is being applied throughout this project.
