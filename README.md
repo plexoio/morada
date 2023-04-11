@@ -133,7 +133,7 @@ In this iteration, as shown in the following mind map, the site is intuitive, an
 
 Please refer to the following mind map for more details on the Interactive Experience Design (IXD) for our Morada Project.
 
-![IXD Mindmap](https://github.com/plexoio/morada/blob/main/documentation/assets/img/IXD.webp)
+![IXD Mindmap](https://github.com/plexoio/morada/blob/main/documentation/assets/img/.png)
 
 Placing the right keywords, data, and content in the appropriate sections and subsections is crucial to ensure proper navigation and organization. This approach allows us to convey value and serve the final purpose of the underlying feature. We also use lists and nested lists to present information effectively. By referring to the first mind map, which represents the interactive part, we can see how information will be placed and how it will serve its purpose in conjunction with the interactive design.
 
