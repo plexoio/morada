@@ -2,172 +2,172 @@
 
 @media only screen and (max-width: 480px) {
 
-/* General Styling*/
+  /* General Styling*/
 
-nav {
-  font-size: 1.1rem;
-}
+  nav {
+    font-size: 1.1rem;
+  }
 
-body nav {
-  height: 2rem;
-  padding: 10px 0 15px 0;
-}
+  body nav {
+    height: 2rem;
+    padding: 10px 0 15px 0;
+  }
 
-div[class=learn-nft] {
-  width: 80vw;
-}
+  div[class=learn-nft] {
+    width: 80vw;
+  }
 
-details > p {
-  width: 70vw;
-  font-size: 17px;
-}
+  details>p {
+    width: 70vw;
+    font-size: 17px;
+  }
 
-.hero-container {
-  height: 100vw;
-  width: 100vw;
-}
+  .hero-container {
+    height: 100vw;
+    width: 100vw;
+  }
 
-.tangerine-hero-title {
-  top: 10%;
-}
+  .tangerine-hero-title {
+    top: 10%;
+  }
 
-.tangerine-hero-button {
-  top:25%;
-}
+  .tangerine-hero-button {
+    top: 25%;
+  }
 
-.tangerine-font {
-  font-size: 3.5rem;
-}
+  .tangerine-font {
+    font-size: 3.5rem;
+  }
 
-/* NFT display Basic*/
+  /* NFT display Basic*/
 
-.nft-basic {
-  width: 100vw;
-  height: 100vw;
-  display: block;
-}
+  .nft-basic {
+    width: 100vw;
+    height: 100vw;
+    display: block;
+  }
 
-.nft-basic2 {
-  width: 100vw;
-  height: 100vw;
-  display: block;
-}
+  .nft-basic2 {
+    width: 100vw;
+    height: 100vw;
+    display: block;
+  }
 
-.nft-basic3 {
-  width: 100vw;
-  height: 100vw;
-  display: block;
-}
+  .nft-basic3 {
+    width: 100vw;
+    height: 100vw;
+    display: block;
+  }
 
-/* NFT display Expert*/
+  /* NFT display Expert*/
 
-.nft-expert {
-  width: 100vw;
-  height: 100vw;
-  display: block;
-}
+  .nft-expert {
+    width: 100vw;
+    height: 100vw;
+    display: block;
+  }
 
-.nft-expert2 {
-  width: 100vw;
-  height: 100vw;
-  display: block;
-}
+  .nft-expert2 {
+    width: 100vw;
+    height: 100vw;
+    display: block;
+  }
 
-.nft-expert3 {
-  width: 100vw;
-  height: 100vw;
-  display: block;
-}
+  .nft-expert3 {
+    width: 100vw;
+    height: 100vw;
+    display: block;
+  }
 
-/* NFT display Premium*/
+  /* NFT display Premium*/
 
-.nft-premium {
-  width: 100vw;
-  height: 100vw;
-  display: block;
-}
+  .nft-premium {
+    width: 100vw;
+    height: 100vw;
+    display: block;
+  }
 
-.nft-premium2 {
-  width: 100vw;
-  height: 100vw;
-  display: block;
-}
+  .nft-premium2 {
+    width: 100vw;
+    height: 100vw;
+    display: block;
+  }
 
-.nft-premium3 {
-  width: 100vw;
-  height: 100vw;
-  display: block;
-}
+  .nft-premium3 {
+    width: 100vw;
+    height: 100vw;
+    display: block;
+  }
 
-/*NFT general styling*/
+  /*NFT general styling*/
 
 
-.info-nft {
-  width: 100%;
-  height: 100%;
-  display: block;
-}
+  .info-nft {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
 
-.info-nft:hover {
-  margin-top:0;
-}
+  .info-nft:hover {
+    margin-top: 0;
+  }
 
-.info-nft > div {
-  text-align: center;
-  padding: 10% 0 10% 0;
-}
+  .info-nft>div {
+    text-align: center;
+    padding: 10% 0 10% 0;
+  }
 
-.info-nft > div > p {
-  font-weight: 400;
-  text-align: justify;
-  font-size: 18px;
-  text-transform: capitalize;
-  padding-left: 25%;
-  width: 20ch;
-}
+  .info-nft>div>p {
+    font-weight: 400;
+    text-align: justify;
+    font-size: 18px;
+    text-transform: capitalize;
+    padding-left: 25%;
+    width: 20ch;
+  }
 
-/* Contact page styling*/
+  /* Contact page styling*/
 
-.contact {
-  float: left;
-  left: 10vw;
-  width: 80vw;
-}
+  .contact {
+    float: left;
+    left: 10vw;
+    width: 80vw;
+  }
 
-.aside {
-  width: 80vw;
-  padding: 20px;
-  margin-left: -20px;
-}
+  .aside {
+    width: 80vw;
+    padding: 20px;
+    margin-left: -20px;
+  }
 
-/* Footer and General Styling*/
-ul > li {
-  display: inline-block;
-  padding: 10px 5px 5px 0px;
-}
+  /* Footer and General Styling*/
+  ul>li {
+    display: inline-block;
+    padding: 10px 5px 5px 0px;
+  }
 
-ul > li > a {
+  ul>li>a {
     font-size: 16px;
-}
+  }
 
-.footer {
-  font-size: 14px;
-  margin-left:5px;
-}
+  .footer {
+    font-size: 14px;
+    margin-left: 5px;
+  }
 
-a[href="index.htm"] > img {
-  display: none;
-}
+  a[href="index.htm"]>img {
+    display: none;
+  }
 
-#padding-right {
-  padding-right: 1rem;
-  text-align: justify;
-}
+  #padding-right {
+    padding-right: 1rem;
+    text-align: justify;
+  }
 
-#padding-left {
-  padding-left: 1rem;
-  text-align: justify;
-}
+  #padding-left {
+    padding-left: 1rem;
+    text-align: justify;
+  }
 
 }
 
@@ -175,129 +175,129 @@ a[href="index.htm"] > img {
 
 @media only screen and (min-width: 481px) and (max-width: 768px) {
 
-/* General Styling*/
+  /* General Styling*/
 
-div[class=learn-nft] {
-  width: 80vw;
-}
+  div[class=learn-nft] {
+    width: 80vw;
+  }
 
-details > p {
-  width: 70vw;
-  font-size: 17px;
-}
+  details>p {
+    width: 70vw;
+    font-size: 17px;
+  }
 
-.tangerine-font {
-  font-size: 3.5rem;
-}
+  .tangerine-font {
+    font-size: 3.5rem;
+  }
 
-.tangerine-hero-title {
-  top: 20%;
-}
+  .tangerine-hero-title {
+    top: 20%;
+  }
 
-.tangerine-hero-button {
-  top: 40%;
-}
+  .tangerine-hero-button {
+    top: 40%;
+  }
 
-h3 {
-  margin: 5px 5px;
-}
+  h3 {
+    margin: 5px 5px;
+  }
 
-/* NFT display Basic */
+  /* NFT display Basic */
 
-.nft-basic {
-  width: 30vw;
-  height: 30vw;
-}
+  .nft-basic {
+    width: 30vw;
+    height: 30vw;
+  }
 
-.nft-basic2 {
-  width: 30vw;
-  height: 30vw;
-}
+  .nft-basic2 {
+    width: 30vw;
+    height: 30vw;
+  }
 
-.nft-basic3 {
-  width: 30vw;
-  height: 30vw;
-}
+  .nft-basic3 {
+    width: 30vw;
+    height: 30vw;
+  }
 
-/*NFT general styling*/
+  /*NFT general styling*/
 
 
-.info-nft {
-  width: 100%;
-  height: 100%;
-  display: block;
-}
+  .info-nft {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
 
-.info-nft:hover {
-  margin-top:0;
-}
+  .info-nft:hover {
+    margin-top: 0;
+  }
 
-.info-nft > div {
-  text-align: center;
-  padding-top: 5%;
-  padding-bottom: 5%;
-}
+  .info-nft>div {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
 
-.info-nft > div > p {
-  font-weight: 400;
-  text-align: justify;
-  font-size: 12px;
-  text-transform: capitalize;
-  line-height: 10px;
-  padding-left: 20%;
-  width: 20ch;
-}
+  .info-nft>div>p {
+    font-weight: 400;
+    text-align: justify;
+    font-size: 12px;
+    text-transform: capitalize;
+    line-height: 10px;
+    padding-left: 20%;
+    width: 20ch;
+  }
 
-.claim-nft {
-  font-size: 14px;
-  padding: 3px 14px 3px 14px;
-}
+  .claim-nft {
+    font-size: 14px;
+    padding: 3px 14px 3px 14px;
+  }
 
-/* General Styling*/
+  /* General Styling*/
 
-a[href="index.htm"] > img {
-  display: none;
-}
+  a[href="index.htm"]>img {
+    display: none;
+  }
 
-body nav {
-  height: 2rem;
-  padding: 20px 0 5px;
-}
+  body nav {
+    height: 2rem;
+    padding: 20px 0 5px;
+  }
 
-.padding {
-  padding: 70px 0 10px 0;
-}
+  .padding {
+    padding: 70px 0 10px 0;
+  }
 
-.contact {
-  width: 70%;
-}
+  .contact {
+    width: 70%;
+  }
 
-.aside {
+  .aside {
     margin-left: -20px;
-}
+  }
 
-ul {
-  display: inline-block;
-}
+  ul {
+    display: inline-block;
+  }
 
-.hr-cut-bottom {
-  padding: 0 0 35px 0;
-}
+  .hr-cut-bottom {
+    padding: 0 0 35px 0;
+  }
 
-.footer {
-  font-size: 13px;
-  margin-left:5px;
-}
+  .footer {
+    font-size: 13px;
+    margin-left: 5px;
+  }
 
-#padding-right {
-  padding-right: 3rem;
-  text-align: justify;
-}
+  #padding-right {
+    padding-right: 3rem;
+    text-align: justify;
+  }
 
-#padding-left {
-  padding-left: 3rem;
-  text-align: justify;
-}
+  #padding-left {
+    padding-left: 3rem;
+    text-align: justify;
+  }
 
 }
 
@@ -305,120 +305,121 @@ ul {
 
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
 
-/*General Styling*/
+  /*General Styling*/
 
-div[class=learn-nft] {
-  width: 80vw;
-}
-
-details > p {
-  width: 70vw;
-}
-
-.tangerine-font {
-  font-size: 4rem;
-}
-
-.tangerine-hero-title {
-  top: 20%;
-}
-
-.tangerine-hero-button {
-  top: 40%;
-}
-
-h3 {
-  margin: 10px 10px;
-}
-
-a[href="index.htm"] > img {
-  display: none;
+  div[class=learn-nft] {
+    width: 80vw;
   }
 
-.padding {
-  padding: 70px 0 10px 0;
-}
+  details>p {
+    width: 70vw;
+  }
 
-ul {
-  display: inline-block;
-}
+  .tangerine-font {
+    font-size: 4rem;
+  }
 
-.hr-cut-bottom {
-  padding: 0 0 35px 0;
-}
+  .tangerine-hero-title {
+    top: 20%;
+  }
 
-.contact {
-  left: 10vw;
-  width: 80%;
-}
+  .tangerine-hero-button {
+    top: 40%;
+  }
 
-.aside {
-  margin-left: -20px;
-}
-/*NFT general styling*/
+  h3 {
+    margin: 10px 10px;
+  }
+
+  a[href="index.htm"]>img {
+    display: none;
+  }
+
+  .padding {
+    padding: 70px 0 10px 0;
+  }
+
+  ul {
+    display: inline-block;
+  }
+
+  .hr-cut-bottom {
+    padding: 0 0 35px 0;
+  }
+
+  .contact {
+    left: 10vw;
+    width: 80%;
+  }
+
+  .aside {
+    margin-left: -20px;
+  }
+
+  /*NFT general styling*/
 
 
-.info-nft {
-  width: 100%;
-  height: 100%;
-  display: block;
-}
+  .info-nft {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
 
-.info-nft:hover {
-  margin-top:0;
-}
+  .info-nft:hover {
+    margin-top: 0;
+  }
 
-.info-nft > div {
-  text-align: center;
-  padding: 5% 0 5% 0;
-}
+  .info-nft>div {
+    text-align: center;
+    padding: 5% 0 5% 0;
+  }
 
-.info-nft > div > p {
-  font-weight: 400;
-  text-align: justify;
-  font-size: 16px;
-  text-transform: capitalize;
-  width: 20ch;
-  padding-left: 10%;
-  margin: 5px;
-}
+  .info-nft>div>p {
+    font-weight: 400;
+    text-align: justify;
+    font-size: 16px;
+    text-transform: capitalize;
+    width: 20ch;
+    padding-left: 10%;
+    margin: 5px;
+  }
 
-.claim-nft {
-  font-size: 14px;
-  padding: 5px 16px 5px 16px;
-}
+  .claim-nft {
+    font-size: 14px;
+    padding: 5px 16px 5px 16px;
+  }
 
-#padding-right {
-  padding-right: 4rem;
-  text-align: justify;
-}
+  #padding-right {
+    padding-right: 4rem;
+    text-align: justify;
+  }
 
-#padding-left {
-  padding-left: 4rem;
-  text-align: justify;
-}
+  #padding-left {
+    padding-left: 4rem;
+    text-align: justify;
+  }
 
 }
 
 @media only screen and (min-width: 1025px) and (max-width: 1440px) {
 
-/* General Styling*/
-.contact {
-  left: 7vw;
-  width: 40%;
-}
+  /* General Styling*/
+  .contact {
+    left: 7vw;
+    width: 40%;
+  }
 
-.aside {
-  margin-left: 40px;
-}
+  .aside {
+    margin-left: 40px;
+  }
 
-#padding-right {
-  padding-right:5rem;
-}
+  #padding-right {
+    padding-right: 5rem;
+  }
 
-#padding-left {
-  padding-left:5rem;
-  padding-right:0;
-}
+  #padding-left {
+    padding-left: 5rem;
+    padding-right: 0;
+  }
 
 }

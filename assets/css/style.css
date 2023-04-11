@@ -2,39 +2,41 @@
 @font-face {
     font-family: "Roboto";
     src: url("../font/roboto/Roboto-Regular.ttf");
-  }
+}
 
 @font-face {
     font-family: "Bitter";
     src: url("../font/bitter/static/bitter-Regular.ttf");
-  }
+}
 
-  @font-face {
+@font-face {
     font-family: "Tangerine";
     src: url("../font/tangerine/Tangerine-Regular.ttf");
-  }
+}
+
 /* End of local Google Fonts */
 
-/* Start General Styling*/ 
+/* Start General Styling*/
 
 * {
-    margin:0;
+    margin: 0;
     padding: 0;
     border: none;
     text-decoration: none;
 }
+
 body {
-    background-color:#FFE8FF;
+    background-color: #FFE8FF;
     font-family: 'Roboto', Bitter, sans-serif;
-    color:#3a3a3a;
+    color: #3a3a3a;
 }
 
 p {
     line-height: 25px;
 }
 
-body h1,h2{
-    color:white;
+body h1, h2 {
+    color: white;
     padding: 0.5rem 0.5rem;
     font-family: 'Roboto', Bitter, serif;
     text-align: center;
@@ -47,25 +49,21 @@ h2 {
 
 .sticky-top {
     position: fixed;
-    top:0;
+    top: 0;
     width: 100%;
     z-index: 999;
 }
 
-.logo-img{
+.logo-img {
     width: 3rem;
     height: 3rem;
     padding: 0.5rem;
 }
+
 .logo-img-background {
     background-color: #9B59B6;
-    width:100%;
-    padding-top:10px;
-}
-
-body nav {
-    height: 2rem;
-    padding: 20px 0 5px;
+    width: 100%;
+    padding-top: 10px;
 }
 
 .nav {
@@ -78,10 +76,23 @@ body nav {
 }
 
 .nav-logo {
+    float: left;
+}
+
+ul {
+    position: relative;
+    list-style: none;
+    line-height: 75px;
+}
+
+ul>li {
     display: inline-block;
-    left: 0;
-    position: absolute;
-    top: -25px;
+    padding-right: 8px;
+}
+
+ul>li>a {
+    font-size: 110%;
+    color: white;
 }
 
 .center {
@@ -90,14 +101,14 @@ body nav {
     justify-content: center;
 }
 
-nav > a {
-    color:white;
+nav>a {
+    color: white;
     transition: 0.3s;
 }
 
 a:hover {
-    color:#FFE8FF;
-transition: 0.3s;
+    color: #FFE8FF;
+    transition: 0.3s;
 }
 
 #metamask {
@@ -105,18 +116,18 @@ transition: 0.3s;
     padding: 5px;
     border-radius: 5px;
     transition: 0.3s;
-    cursor:pointer;
+    cursor: pointer;
 }
 
 #metamask:hover {
     border: 1px solid white;
-    background-color:white;
-    color:#9B59B6;
-transition: 0.3s;
+    background-color: white;
+    color: #9B59B6;
+    transition: 0.3s;
 }
 
 .base-color {
-    color:#9B59B6;
+    color: #9B59B6;
 }
 
 .tangerine {
@@ -136,19 +147,19 @@ transition: 0.3s;
 }
 
 .tangerine-hero-title {
-    position:relative; 
-    top:30%;
+    position: relative;
+    top: 30%;
     text-align: center;
 }
 
 .tangerine-hero-button {
-    position:relative; 
-    top:50%;
+    position: relative;
+    top: 50%;
     text-align: center;
 }
 
 #call-out-text {
-    font-size:2rem;
+    font-size: 2rem;
     padding: 10px 0;
 }
 
@@ -156,7 +167,7 @@ transition: 0.3s;
     border-top: 2px solid rgb(155, 89, 182, 0.5);
     border-bottom: 2px solid rgb(155, 89, 182, 0.5);
     border-width: 2px;
-    margin:10px 0;
+    margin: 10px 0;
     padding: 0;
     background-color: white;
 }
@@ -175,7 +186,7 @@ transition: 0.3s;
 }
 
 .color-white {
-    color:white;
+    color: white;
 }
 
 /* Start of Home Hero Section*/
@@ -185,7 +196,7 @@ transition: 0.3s;
     background-size: cover;
     height: 50vw;
     width: 100%;
-    position:relative;
+    position: relative;
 }
 
 #hero {
@@ -199,7 +210,7 @@ transition: 0.3s;
     font-weight: 700;
     font-size: 18px;
     margin-bottom: 20px;
-    margin-right:8px;
+    margin-right: 8px;
     transition: 0.3s;
     background-color: #9B59B6;
     color: white;
@@ -207,7 +218,7 @@ transition: 0.3s;
 
 .claim:hover {
     background-color: #FFE8FF;
-    color:#9B59B6;
+    color: #9B59B6;
     transition: 0.3s;
 }
 
@@ -217,14 +228,14 @@ transition: 0.3s;
     font-weight: 700;
     font-size: 18px;
     margin-bottom: 20px;
-    margin-right:5px;
+    margin-right: 5px;
     transition: 0.3s;
     background-color: #FFE8FF;
 }
 
 .learn:hover {
-    background-color:#9B59B6;
-    color:#ffffff;
+    background-color: #9B59B6;
+    color: #ffffff;
     transition: 0.3s;
 }
 
@@ -234,15 +245,15 @@ transition: 0.3s;
     font-weight: 700;
     font-size: 18px;
     margin-bottom: 20px;
-    margin-right:5px;
+    margin-right: 5px;
     transition: 0.3s;
     background-color: #ffffff;
-    color:#9B59B6;
+    color: #9B59B6;
 }
 
 .claim-nft:hover {
-    background-color:#f5dcff;
-    color:#9B59B6;
+    background-color: #f5dcff;
+    color: #9B59B6;
     transition: 0.3s;
 }
 
@@ -266,7 +277,7 @@ transition: 0.3s;
     text-align: justify;
 }
 
-.img-learn1{
+.img-learn1 {
     width: 30vw;
     height: 30vw;
     border: 1px solid #3a3a3a;
@@ -275,7 +286,7 @@ transition: 0.3s;
     border-radius: 5px;
 }
 
-.img-learn2{
+.img-learn2 {
     width: 30vw;
     height: 30vw;
     border: 1px solid #3a3a3a;
@@ -284,8 +295,8 @@ transition: 0.3s;
     border-radius: 5px;
 }
 
-div > img {
-    text-align:center;
+div>img {
+    text-align: center;
 }
 
 span {
@@ -296,37 +307,37 @@ span {
 
 div[class=learn-nft] {
     background-color: #9c59b61e;
-    width:40%;
+    width: 40%;
 }
 
 .learn-nft {
-    margin-top:10vh;
-    margin-bottom:10vh;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
     display: inline-block;
-    border:1px solid #9c59b685;
-    padding:20px;
-    border-radius:15px;
+    border: 1px solid #9c59b685;
+    padding: 20px;
+    border-radius: 15px;
 }
 
 details {
-    margin:0 0 10px 0;
+    margin: 0 0 10px 0;
     text-align: center;
 }
 
-details > p {
-    padding:10px 10px;
-    width:40ch;
+details>p {
+    padding: 10px 10px;
+    width: 40ch;
     background-color: #9c59b61e;
     display: inline-block;
     text-align: justify;
-    margin:10px 0 0 0;
+    margin: 10px 0 0 0;
     font-weight: 400;
 }
 
 summary {
     background-color: #9B59B6;
-    color:white;
-    padding:20px;
+    color: white;
+    padding: 20px;
     font-weight: 700;
     transition: 0.5s;
     cursor: pointer;
@@ -338,58 +349,59 @@ summary:hover {
     background-color: #460462;
 }
 
-div > iframe {
+div>iframe {
     margin-bottom: 10px;
-    margin-top:10px;
+    margin-top: 10px;
 }
 
 iframe {
     border: none;
-    width:100%;
-    height:315px;
+    width: 100%;
+    height: 315px;
 }
 
 /* Contact Styling */
 
 .contact {
-    position:relative;;
-    border:1px solid #9c59b685;
+    position: relative;
+    ;
+    border: 1px solid #9c59b685;
     margin: 50px 0 50px 0;
     color: #9B59B6;
     border-radius: 15px;
     background-color: #9c59b61e;
-    float:left;
-    left:16vw;
+    float: left;
+    left: 16vw;
 }
 
 .padding-title {
     margin-top: 18px;
 }
 
-ul[class=base-color]{
-    padding:0;
+ul[class=base-color] {
+    padding: 0;
     margin-top: 10px;
 }
 
-ul[class=base-color] > li > a {
-    color:#ffffff;
+ul[class=base-color]>li>a {
+    color: #ffffff;
     border: 1px solid #9B59B6;
     border-radius: 15px;
-    padding:7px;
+    padding: 7px;
     background-color: #9B59B6;
-    transition:0.3s;
+    transition: 0.3s;
     font-size: 13px;
-    margin-top:5px;
+    margin-top: 5px;
 }
 
-ul[class=base-color] > li > a:hover {
+ul[class=base-color]>li>a:hover {
     border: 1px solid #9B59B6;
     background-color: rgba(156, 89, 182, 0.746);
-    transition:0.3s;
-    color:white;
+    transition: 0.3s;
+    color: white;
 }
 
-fieldset{
+fieldset {
     border: none;
     margin: 20px 0 20px 15px;
 }
@@ -401,18 +413,18 @@ legend {
 }
 
 input {
-    padding:8px;
+    padding: 8px;
     border-radius: 15px;
-    border: 1px solid #9c59b685 ;
-    cursor:auto;
+    border: 1px solid #9c59b685;
+    cursor: auto;
 }
 
 input:hover {
-    cursor:pointer;
+    cursor: pointer;
 }
 
 select {
-    padding:5px 2px;
+    padding: 5px 2px;
     border-radius: 15px;
 }
 
@@ -425,10 +437,10 @@ textarea {
 }
 
 .aside {
-    width:40ch;
-    padding:20px;
+    width: 40ch;
+    padding: 20px;
     text-align: center;
-    margin-left:80px;
+    margin-left: 80px;
 }
 
 .contract {
@@ -442,7 +454,7 @@ textarea {
 }
 
 .acceptdata:hover {
-    color:#460462;
+    color: #460462;
     transition: 0.3s;
 }
 
@@ -452,22 +464,24 @@ textarea {
 }
 
 
-div[id=text-align] > input {
+div[id=text-align]>input {
     display: block;
     margin: 10px 0;
-    width:100%;
+    width: 100%;
 }
 
 /* Footer and Other General Styling */
 
 footer {
-    color:white;
+    color: white;
     width: 100%;
     text-align: center;
 }
+
 #bold {
     font-weight: 600;
 }
+
 footer {
     padding: 10px 0px;
 }
@@ -477,24 +491,9 @@ footer {
     font-size: 12px;
     margin-right: 8px;
 }
-
-
-ul {
-    position: relative;
-    text-align: center;
-    list-style: none;
+#line-height {
+    line-height: 30px;
 }
-
-ul > li {
-    display: inline-block;
-    padding-right: 8px;
-}
-
-ul > li > a {
-    font-size: 16px;
-    color:white;
-}
-
 .height {
-    height:100vh;
+    height: 100vh;
 }
