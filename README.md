@@ -47,19 +47,19 @@ These insights stem from comprehensive research, as evidenced by the accompanyin
 
 <br>
 
-| Goals               | Relevancy (0-5) | Viability (0-5) | N. Items (0-~) |
-|:-------------------:|:---------------:|:---------------:|:-------------:|
-| Landing Page        | 5               | 5               |               |
-| NFT Showcase        | 5               | 2               |               |
-| Marketplace         | 5               | 1               |               |
-| Metamask Login      | 5               | 2               |               |
-| Learn Section       | 4               | 3               |               |
-| Contact Section     | 5               | 5               |               |
-| CTA of Current Offers | 4             | 3               |               |
-| N. Items            |                 |                 | 7             |
-| Max. Points         |                 |                 | 35            |
-| Results             | 33              | 21              |               |
-| Percentage          | 94.28% <br> (Strategy)| 60% <br> (Scope)     |               |
+|         Goals         |    Relevancy (0-5)     | Viability (0-5)  | N. Items (0-~) |
+| :-------------------: | :--------------------: | :--------------: | :------------: |
+|     Landing Page      |           5            |        5         |                |
+|     NFT Showcase      |           5            |        2         |                |
+|      Marketplace      |           5            |        1         |                |
+|    Metamask Login     |           5            |        2         |                |
+|     Learn Section     |           4            |        3         |                |
+|    Contact Section    |           5            |        5         |                |
+| CTA of Current Offers |           4            |        3         |                |
+|       N. Items        |                        |                  |       7        |
+|      Max. Points      |                        |                  |       35       |
+|        Results        |           33           |        21        |                |
+|      Percentage       | 94.28% <br> (Strategy) | 60% <br> (Scope) |                |
 
 <br>
 
@@ -84,10 +84,10 @@ Based on the importance of each functionality and feature, as well as the time f
 For this iteration, we decided to include features and functionalities under the following conditions and goals:
 
 
-|     Condition      |             Iteration              |            Goals             |
-|:------------------:|:----------------------------------:|:----------------------------:|
-|    Limited use     |   - index.htm<br>- contact.html<br>- learn.html   |    Culture acquisition       |
-|   Simple design    |   - Metamask Login<br>- NFT showcase   |        Tech Showcase         |
+|               Condition               |                             Iteration                              |                      Goals                      |
+| :-----------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------: |
+|              Limited use              |           - index.htm<br>- contact.html<br>- learn.html            |               Culture acquisition               |
+|             Simple design             |                 - Metamask Login<br>- NFT showcase                 |                  Tech Showcase                  |
 | Low leading rates<br>& Non-functional | - CTA offer<br>- Marketplace<br>- Metamask Login<br>- NFT showcase | Long-term Investment<br>& Future Implementation |
 
 
@@ -114,13 +114,13 @@ We have analyzed important factors at each step of our research for Useful, Sell
 
 ### User Story
 
-| Scenario                                                               | Solution                                                                                        |
-|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| Subject wants more information about Morada NFT project                | Subject found the landing page of the project                                                   |
-| Subject wants to see how the NFTs will be displayed                    | Subject can see from the homepage 3 categories: Basic, Expert and Premium. Inside each category, 3 NFTs |
-| Subject wants to learn more about Blockchain and how NFTs will work    | Subject realized there are 2 educational sections on the homepage and a special educational section called Learn at the navbar |
-| Subject wants to try the process of buying a NFT                      | Subject discovered that first they need to log in with Metamask and simply click on Claim at the home page or on the future Marketplace |
-| Subject has questions and would like to more directly speak with an agent from the hotel | Subject found a friendly contact page for that                                                |
+| Scenario                                                                                 | Solution                                                                                                                                |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Subject wants more information about Morada NFT project                                  | Subject found the landing page of the project                                                                                           |
+| Subject wants to see how the NFTs will be displayed                                      | Subject can see from the homepage 3 categories: Basic, Expert and Premium. Inside each category, 3 NFTs                                 |
+| Subject wants to learn more about Blockchain and how NFTs will work                      | Subject realized there are 2 educational sections on the homepage and a special educational section called Learn at the navbar          |
+| Subject wants to try the process of buying a NFT                                         | Subject discovered that first they need to log in with Metamask and simply click on Claim at the home page or on the future Marketplace |
+| Subject has questions and would like to more directly speak with an agent from the hotel | Subject found a friendly contact page for that                                                                                          |
 
 
 In this way we have aligned our `Scope` based on the results of our research on the `Strategy` plane. The intention of a MVP iteration is evident at this point. This will help us in consecuense build the foundations of our next plane, `Structure`.
@@ -171,14 +171,14 @@ Before we started coding and investing resources and time, we needed to clarify 
 
 ### Color
 
-|         | Color Type       | Color Name             | Hex Code |
-| ------- | ---------------- | ---------------------- | -------- |
-| ![Color](https://via.placeholder.com/50x50/9b59b6/9b59b6?text=+) | Primary Color    | Shade of purple        | `#9b59b6` |
-| ![Color](https://via.placeholder.com/50x50/ffffff/ffffff?text=+) | Secondary Color  | White                  | `#ffffff` |
-| ![Color](https://via.placeholder.com/50x50/460462/460462?text=+) | Secondary Color  | Shade of dark purple   | `#460462` |
-| ![Color](https://via.placeholder.com/50x50/000000/000000?text=+) | Secondary Color  | Black                  | `#000000` |
-| ![Color](https://via.placeholder.com/50x50/9c59b685/9c59b685?text=+) | Secondary Color  | Shade of light purple  | `#9c59b685` |
-| ![Color](https://via.placeholder.com/50x50/9c59b61e/9c59b61e?text=+) | Secondary Color  | Shade of lighter purple| `#9c59b61e` |
+|                                                                      | Color Type      | Color Name              | Hex Code    |
+| -------------------------------------------------------------------- | --------------- | ----------------------- | ----------- |
+| ![Color](https://via.placeholder.com/50x50/9b59b6/9b59b6?text=+)     | Primary Color   | Shade of purple         | `#9b59b6`   |
+| ![Color](https://via.placeholder.com/50x50/ffffff/ffffff?text=+)     | Secondary Color | White                   | `#ffffff`   |
+| ![Color](https://via.placeholder.com/50x50/460462/460462?text=+)     | Secondary Color | Shade of dark purple    | `#460462`   |
+| ![Color](https://via.placeholder.com/50x50/000000/000000?text=+)     | Secondary Color | Black                   | `#000000`   |
+| ![Color](https://via.placeholder.com/50x50/9c59b685/9c59b685?text=+) | Secondary Color | Shade of light purple   | `#9c59b685` |
+| ![Color](https://via.placeholder.com/50x50/9c59b61e/9c59b61e?text=+) | Secondary Color | Shade of lighter purple | `#9c59b61e` |
 
 #### Pallet
 
@@ -328,7 +328,7 @@ We are still on the same page, index.htm. Under each row of NFTs display, we are
 
 #### Footer
 
-At the final part of the index.htm, we have our Footer. This footer is a bit different from the other pages; it has CTAs to social media. Users can also find them on the contact.html page. It also features the primary color of the project.
+At the final part of the index.htm, we have our Footer. This footer is a bit different from the other pages; it has CTAs to social media. Users can also find them on the contact.html page. It also features the primary color of the project. However, it is also sticky.
 
 ![footer](https://github.com/plexoio/morada/blob/main/documentation/assets/img/footer.png)
 
@@ -354,7 +354,7 @@ The video is showing and teaching users how to use a digital marketplace, especi
 This section shows the main questions, and once clicked, they reveal the information that the user needs. We strongly believe in progressive disclosure.
 
 #### 6 Footer
-Here, we find our second type of footer, which will be seen everywhere except on the homepage. It is simple, follows the standards, and tells the users that they have reached the end of the page.
+Here, we find our second type of footer, which will be seen everywhere except on the homepage. It is simple, follows the standards, and tells the users that they have reached the end of the page. However, it is also sticky.
 
 ### Learn.html
 We have now reached the leaning section, where users enter and leave having learned something.  We believe that the Blockchain technology requires pushing from the commercial side to achieve a massive implementation. We want to educate our users so that they take reasoned choices.
