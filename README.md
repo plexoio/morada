@@ -477,6 +477,8 @@ During the development process, we were constantly doing the same to make sure w
 
 We have used a [Screen Reader](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) created by Google. As a result, we have improved the aria-label of some features, such as the educational image displayed on the homepage, as well as the Google Maps iframe on the contact.html page.
 
+![Accessibility results](https://github.com/plexoio/morada/blob/main/documentation/assets/img/accessibility.png)
+
 #### HTML & CSS validation
 
 We have used the official W3C Markup Validation Service to test our site. We found just 3 common errors on each page, and they were already solved. Therefore, the site shows the following results:
