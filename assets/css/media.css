@@ -12,15 +12,6 @@
     line-height: 60px;
   }
 
-  div[class=learn-nft] {
-    width: 80vw;
-  }
-
-  details>p {
-    width: 70vw;
-    font-size: 17px;
-  }
-
   .hero-container {
     height: 100vw;
     width: 100vw;
@@ -36,6 +27,15 @@
 
   .tangerine-font {
     font-size: 3.5rem;
+  }
+
+  div[class=learn-nft] {
+    width: 80vw;
+  }
+
+  details>p {
+    width: 70vw;
+    font-size: 17px;
   }
 
   /* NFT display Basic*/
@@ -99,7 +99,6 @@
   }
 
   /*NFT general styling*/
-
 
   .info-nft {
     width: 100%;
@@ -176,15 +175,6 @@
 
   /* General Styling*/
 
-  div[class=learn-nft] {
-    width: 80vw;
-  }
-
-  details>p {
-    width: 70vw;
-    font-size: 17px;
-  }
-
   .tangerine-font {
     font-size: 3.5rem;
   }
@@ -199,6 +189,15 @@
 
   h3 {
     margin: 5px 5px;
+  }
+
+  div[class=learn-nft] {
+    width: 80vw;
+  }
+
+  details>p {
+    width: 70vw;
+    font-size: 17px;
   }
 
   /* NFT display Basic */
@@ -219,7 +218,6 @@
   }
 
   /*NFT general styling*/
-
 
   .info-nft {
     width: 100%;
@@ -303,19 +301,6 @@
 
   /*General Styling*/
 
-  ul {
-    display: inline-block;
-    line-height: 60px;
-  }
-
-  div[class=learn-nft] {
-    width: 80vw;
-  }
-
-  details>p {
-    width: 70vw;
-  }
-
   .tangerine-font {
     font-size: 4rem;
   }
@@ -334,6 +319,19 @@
 
   a[href="index.htm"]>img {
     display: none;
+  }
+
+  ul {
+    display: inline-block;
+    line-height: 60px;
+  }
+
+  div[class=learn-nft] {
+    width: 80vw;
+  }
+
+  details>p {
+    width: 70vw;
   }
 
   .padding {
@@ -435,9 +433,11 @@
   h1, h2 {
     font-size: 2rem;
   }
+
   p {
     line-height: 35px;
   }
+
   ul>li {
     font-size: 1.5rem;
   }
