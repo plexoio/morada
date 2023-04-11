@@ -2,16 +2,19 @@
 @font-face {
     font-family: "Roboto";
     src: url("../font/roboto/Roboto-Regular.ttf");
+    font-display: swap;
 }
 
 @font-face {
     font-family: "Bitter";
     src: url("../font/bitter/static/bitter-Regular.ttf");
+    font-display: swap;
 }
 
 @font-face {
     font-family: "Tangerine";
     src: url("../font/tangerine/Tangerine-Regular.ttf");
+    font-display: swap;
 }
 
 /* End of local Google Fonts */
