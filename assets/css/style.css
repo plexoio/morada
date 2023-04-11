@@ -26,6 +26,7 @@
 body {
     background-color:#FFE8FF;
     font-family: 'Roboto', Bitter, sans-serif;
+    color:#3a3a3a;
 }
 
 p {
@@ -37,15 +38,11 @@ body h1,h2{
     padding: 0.5rem 0.5rem;
     font-family: 'Roboto', Bitter, serif;
     text-align: center;
-    letter-spacing: 1px;
-}
-
-h1 {
-    font-size: 1.5rem;
+    letter-spacing: 2px;
 }
 
 h2 {
-    font-size:1.5rem;
+    text-transform: uppercase;
 }
 
 .sticky-top {
@@ -272,7 +269,7 @@ transition: 0.3s;
 .img-learn1{
     width: 30vw;
     height: 30vw;
-    border: 1px solid rgba(0, 0, 0, 0.527);
+    border: 1px solid #3a3a3a;
     background: url(../../vendor/img/nft.jpg) center center no-repeat;
     background-size: cover;
     border-radius: 5px;
@@ -281,7 +278,7 @@ transition: 0.3s;
 .img-learn2{
     width: 30vw;
     height: 30vw;
-    border: 1px solid rgba(0, 0, 0, 0.527);
+    border: 1px solid #3a3a3a;
     background: url(../../vendor/img/blockchain.jpg) center center no-repeat;
     background-size: cover;
     border-radius: 5px;
@@ -363,6 +360,10 @@ iframe {
     background-color: #9c59b61e;
     float:left;
     left:16vw;
+}
+
+.padding-title {
+    margin-top: 18px;
 }
 
 ul[class=base-color]{
