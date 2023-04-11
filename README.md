@@ -295,6 +295,8 @@ The following features are a must for our MVP:
 #### Header
 At the header, we have located the branding logo on the left side of the screen following the current convention. At the same time, it is clickable and will take you back to the homepage when clicked from a different page, and a refreshing button when located on the index.htm. In the center, we find our navbar, easy to find, not overloaded, and practical. It also includes a very important future feature: Metamask login.
 
+`Border-bottom` on hover has been added to improve interaction, and once a link is accessed, an active `class` will be applied to display a fixed border-bottom on that clicked link, indicating to users where they currently are.
+
 It uses a background of the project's primary color and hover properties and values have been applied on each anchor element, including the Metamask login. They can all be considered CTA buttons as well.
 
 ![header](https://github.com/plexoio/morada/blob/main/documentation/assets/img/header.png)
@@ -328,7 +330,7 @@ We are still on the same page, index.htm. Under each row of NFTs display, we are
 
 #### Footer
 
-At the final part of the index.htm, we have our Footer. This footer is a bit different from the other pages; it has CTAs to social media. Users can also find them on the contact.html page. It also features the primary color of the project. However, it is also sticky.
+At the final part of the index.htm, we have our Footer. This footer is a bit different from the other pages; it has CTAs to social media. Users can also find them on the contact.html page. It also features the primary color of the project and it is also sticky.
 
 ![footer](https://github.com/plexoio/morada/blob/main/documentation/assets/img/footer.png)
 
@@ -354,7 +356,7 @@ The video is showing and teaching users how to use a digital marketplace, especi
 This section shows the main questions, and once clicked, they reveal the information that the user needs. We strongly believe in progressive disclosure.
 
 #### 6 Footer
-Here, we find our second type of footer, which will be seen everywhere except on the homepage. It is simple, follows the standards, and tells the users that they have reached the end of the page. However, it is also sticky.
+Here, we find our second type of footer, which will be seen everywhere except on the homepage. It is simple, follows the standards, and tells the users that they have reached the end of the page and it is also sticky.
 
 ### Learn.html
 We have now reached the leaning section, where users enter and leave having learned something.  We believe that the Blockchain technology requires pushing from the commercial side to achieve a massive implementation. We want to educate our users so that they take reasoned choices.
@@ -378,7 +380,7 @@ The video is showing and teaching users about Blockchain technology, featuring G
 This section shows the main questions, and once clicked, they reveal the information that the user needs. We strongly believe in progressive disclosure.
 
 #### 6 Footer
-Here, we find our second type of footer, which will be seen everywhere except on the homepage. It is simple, follows the standards, and tells the users that they have reached the end of the page.
+Here, we find our second type of footer, which will be seen everywhere except on the homepage. It is simple, follows the standards, and tells the users that they have reached the end of the page and it is also sticky.
 
 ### Contact.html
 
@@ -402,7 +404,7 @@ Having a form is not enough; we need to make the users feel safe. Therefore, we 
 We want to help users as much as we can, so we decided to help them visualize us in the real world, allowing them to locate our headquarters. We are 100% reachable to them. Transparency, security, and care are always present.
 
 #### 6 Footer
-Here, we find our second type of footer, which will be seen everywhere except on the homepage. It is simple, follows the standards, and tells the users that they have reached the end of the page.
+Here, we find our second type of footer, which will be seen everywhere except on the homepage. It is simple, follows the standards, and tells the users that they have reached the end of the page and it is also sticky.
 
 ## Future Features Explained<a name="f-features"></a> | [#](#index)
 
