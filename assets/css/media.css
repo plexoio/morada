@@ -399,6 +399,8 @@
 
 }
 
+/*Desktop Screen Size*/
+
 @media only screen and (min-width: 1025px) and (max-width: 1440px) {
 
   /* General Styling*/
@@ -417,6 +419,96 @@
 
   #padding-left {
     padding: 20%;
+  }
+
+}
+
+/*Large desktops and high-resolution screens:*/
+
+@media only screen and (min-width: 1441px) {
+
+  /* General Styling*/
+  body {
+    font-size: 22px;
+  }
+
+  h1, h2 {
+    font-size: 2rem;
+  }
+  p {
+    line-height: 35px;
+  }
+  ul>li {
+    font-size: 1.5rem;
+  }
+
+  .tangerine {
+    font-size: 6rem;
+  }
+
+  .tangerine-font {
+    font-size: 6rem;
+  }
+
+  .claim {
+    padding: 15px 50px 15px 50px;
+    font-size: 2rem;
+  }
+
+  .learn {
+    padding: 10px 45px 10px 45px;
+    font-size: 2rem;
+  }
+
+  .info-nft>div>p {
+    font-size: 1.5rem;
+  }
+
+  #padding-right {
+    padding: 20%;
+  }
+
+  #padding-left {
+    padding: 20%;
+  }
+
+  /*Contact page*/
+  .contact {
+    left: 7vw;
+    width: 40%;
+  }
+
+  div[id=text-align]>input {
+    font-size: 1.5rem;
+  }
+
+  select {
+    font-size: 1.3rem;
+  }
+
+  textarea {
+    font-size: 1.5rem;
+  }
+
+  .acceptdata {
+    font-size: inherit;
+  }
+
+  .aside {
+    margin-left: 40px;
+  }
+
+  .contract {
+    font-size: inherit;
+  }
+
+  ul[class=base-color]>li>a {
+    font-size: inherit;
+  }
+
+  /*Footer*/
+  .footer {
+    font-size: 16px;
   }
 
 }
