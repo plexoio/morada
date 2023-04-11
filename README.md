@@ -601,7 +601,7 @@ In this way, we have successfully deployed our project with no particular errors
 
 <hr>
 
-## Credits
+## Credits <a name="credits"></a> | [#](#index)
 
 - **Brian O'Hare**: for mentoring me three times on this project. Without him, it would not have been possible.
 - [DeepAI](https://deepai.org/): for creating the NFTs.

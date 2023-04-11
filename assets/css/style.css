@@ -192,7 +192,7 @@ ul>li>a:hover {
 /*Hero Section*/
 
 .hero-container {
-    background: url('../../vendor/img/hero.jpg') no-repeat center center fixed;
+    background: url('../../vendor/img/hero.webp') no-repeat center center fixed;
     background-size: cover;
     height: 50vw;
     width: 100%;
@@ -279,14 +279,14 @@ ul>li>a:hover {
 .img-learn1 {
     width: 30vw;
     height: 30vw;
-    background: url(../../vendor/img/nft.jpg) center center no-repeat;
+    background: url(../../vendor/img/nft.webp) center center no-repeat;
     background-size: cover;
 }
 
 .img-learn2 {
     width: 30vw;
     height: 30vw;
-    background: url(../../vendor/img/blockchain.jpg) center center no-repeat;
+    background: url(../../vendor/img/blockchain.webp) center center no-repeat;
     background-size: cover;
 }
 
