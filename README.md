@@ -278,7 +278,7 @@ From the beginning to the end, we used the following technologies:
 - **[Ezgif](https://ezgif.com/video-to-gif)**: for converting MP4 to Gif.
 
 - **[Freeconvert](https://www.freeconvert.com/gif-compressor)**: for compressing GIF images.
-- **[Tinypng](https://tinypng.com/)**: for compressing .webp and .webp images.
+- **[Tinypng](https://tinypng.com/)**: for compressing .jpg and .png images.
 - **[Wechat](https://www.wechat.com/)**: for easy screenshots, editing and cropping, a chinese multifuncional desktop and mobile app.
 
 ### Artificial Intelligence (AI)

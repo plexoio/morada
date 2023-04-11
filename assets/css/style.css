@@ -214,6 +214,7 @@ ul>li>a:hover {
     transition: 0.3s;
     background-color: #9B59B6;
     color: white;
+    letter-spacing: 1px;
 }
 
 .claim:hover {
@@ -230,7 +231,8 @@ ul>li>a:hover {
     margin-bottom: 20px;
     margin-right: 5px;
     transition: 0.3s;
-    background-color: #FFE8FF;
+    background-color: #ffffff;
+    letter-spacing: 1px;
 }
 
 .learn:hover {
