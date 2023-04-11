@@ -159,12 +159,12 @@
   }
 
   #padding-right {
-    padding-right: 1rem;
+    padding-right: 0.5rem;
     text-align: justify;
   }
 
   #padding-left {
-    padding-left: 1rem;
+    padding: 0.5rem;
     text-align: justify;
   }
 
@@ -290,7 +290,7 @@
   }
 
   #padding-left {
-    padding-left: 3rem;
+    padding: 20% 5rem;
     text-align: justify;
   }
 
@@ -391,7 +391,7 @@
   }
 
   #padding-left {
-    padding-left: 4rem;
+    padding: 20% 5rem;
     text-align: justify;
   }
 
@@ -410,12 +410,11 @@
   }
 
   #padding-right {
-    padding-right: 5rem;
+    padding: 20%;
   }
 
   #padding-left {
-    padding-left: 5rem;
-    padding-right: 0;
+    padding: 20%;
   }
 
 }

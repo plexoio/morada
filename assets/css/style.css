@@ -16,7 +16,7 @@
 
 /* End of local Google Fonts */
 
-/* Start General Styling*/
+/* Top General Styling*/
 
 * {
     margin: 0;
@@ -47,12 +47,7 @@ h2 {
     text-transform: uppercase;
 }
 
-.sticky-top {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 999;
-}
+/* Navigation styling*/
 
 .logo-img {
     width: 3rem;
@@ -60,10 +55,8 @@ h2 {
     padding: 0.5rem;
 }
 
-.logo-img-background {
-    background-color: #9B59B6;
-    width: 100%;
-    padding-top: 10px;
+.nav-logo {
+    float: left;
 }
 
 .nav {
@@ -75,8 +68,14 @@ h2 {
     border-top: 1px solid rgba(255, 255, 255, 0.486);
 }
 
-.nav-logo {
-    float: left;
+nav>a {
+    color: white;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #FFE8FF;
+    transition: 0.3s;
 }
 
 ul {
@@ -93,22 +92,20 @@ ul>li {
 ul>li>a {
     font-size: 110%;
     color: white;
-}
-
-.center {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-nav>a {
-    color: white;
     transition: 0.3s;
 }
 
-a:hover {
-    color: #FFE8FF;
+ul>li>a:hover {
+    border-bottom: 1px solid #FFE8FF;
     transition: 0.3s;
+}
+
+.active {
+    border-bottom: 1px solid white;
+}
+
+#a-border {
+    border: none;
 }
 
 #metamask {
@@ -129,6 +126,8 @@ a:hover {
 .base-color {
     color: #9B59B6;
 }
+
+/*Branding styling*/
 
 .tangerine {
     font-family: 'Tangerine', Roboto, serif;
@@ -158,10 +157,7 @@ a:hover {
     text-align: center;
 }
 
-#call-out-text {
-    font-size: 2rem;
-    padding: 10px 0;
-}
+/* Other general styling*/
 
 .hr {
     border-top: 2px solid rgb(155, 89, 182, 0.5);
@@ -189,7 +185,13 @@ a:hover {
     color: white;
 }
 
-/* Start of Home Hero Section*/
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*Hero Section*/
 
 .hero-container {
     background: url('../../vendor/img/hero.jpg') no-repeat center center fixed;
@@ -257,7 +259,7 @@ a:hover {
     transition: 0.3s;
 }
 
-/* Start of Home Card-based Containers */
+/*Card-based Containers*/
 
 .card-based-container {
     text-align: center;
@@ -266,7 +268,6 @@ a:hover {
 .card-based-container-section {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    padding: 10px;
 }
 
 .text-center {
@@ -280,16 +281,15 @@ a:hover {
 .img-learn1 {
     width: 30vw;
     height: 30vw;
-    border: 1px solid #3a3a3a;
     background: url(../../vendor/img/nft.jpg) center center no-repeat;
     background-size: cover;
     border-radius: 5px;
+    padding: 10px;
 }
 
 .img-learn2 {
     width: 30vw;
     height: 30vw;
-    border: 1px solid #3a3a3a;
     background: url(../../vendor/img/blockchain.jpg) center center no-repeat;
     background-size: cover;
     border-radius: 5px;
@@ -491,9 +491,7 @@ footer {
     font-size: 12px;
     margin-right: 8px;
 }
+
 #line-height {
     line-height: 30px;
-}
-.height {
-    height: 100vh;
 }
