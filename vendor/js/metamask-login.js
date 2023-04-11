@@ -34,4 +34,9 @@ document.getElementById('metamask').addEventListener('click', (event) => {
     event.preventDefault();
     connect();
 });
+
+document.getElementById('metamask').addEventListener('touchend', (event) => {
+    event.preventDefault();
+    connect();
+});
 // END of ChatGPT4 code for Metamask login
