@@ -307,7 +307,7 @@ div[class=learn-nft] {
 
 .learn-nft {
     margin-top: 10vh;
-    margin-bottom: 10vh;
+    margin-bottom: 15vh;
     display: inline-block;
     border: 1px solid #9c59b685;
     padding: 20px;
@@ -463,6 +463,11 @@ div[id=text-align]>input {
     display: block;
     margin: 10px 0;
     width: 100%;
+}
+
+.hr-cut {
+    border-top: 2px solid rgb(155, 89, 182, 0.5);
+    margin-bottom: 50px;
 }
 
 /* Footer and Other General Styling */
