@@ -279,6 +279,7 @@ From the beginning to the end, we used the following technologies:
 
 - **[Freeconvert](https://www.freeconvert.com/gif-compressor)**: for compressing GIF images.
 - **[Tinypng](https://tinypng.com/)**: for compressing .png and .jpg images.
+- **[Wechat](https://www.wechat.com/)**: for easy screenshots, editing and cropping, a chinese multifuncional desktop and mobile app.
 
 ### Artificial Intelligence (AI)
 - **[ChatGPT-4](https://chat.openai.com/chat)**: For consulting, copywriting, proofreading, drudgery or assistance with various tedious tasks.
@@ -537,7 +538,7 @@ Our site is static, and we have only used HTML and CSS, with just a little JavaS
 
 To improve security, we have added the `rel attribute` to compromising anchors such as social media links or third-party services, especially those with user-generated content.
 
-Here are the values we have used as an example:
+Here are the values we have used as an example in action:
 
 `rel="author noopener noreferrer nofollow"`
 
