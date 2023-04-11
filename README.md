@@ -531,6 +531,26 @@ We have run manual tests on different devices to make sure our media queries are
 
 ![Responsive Mockup image](https://github.com/plexoio/morada/blob/main/documentation/assets/img/responsive-mockup.png)
 
+#### Security
+
+Our site is static, and we have only used HTML and CSS, with just a little JavaScript to demonstrate how Metamask will work once fully set up.
+
+To improve security, we have added the `rel attribute` to compromising anchors such as social media links or third-party services, especially those with user-generated content.
+
+Here are the values we have used as an example:
+
+`rel="author noopener noreferrer nofollow"`
+
+- **Author:** This value is used to indicate that the current document belongs to the linked author or is related to them. It is often used in blog posts or articles, where the author's name and a link to their bio or website is included.
+
+- **Noopener:** This value prevents the new page from being able to access the `window.opener` property of the current page, not allowing a gap of access to both directions, the origin and destination, either could be malicious, which can help protect against malicious attacks.
+
+- **Noreferrer:** This value instructs the browser not to send the Referer header (which includes a bunch of private data) to the linked page, which can help protect user privacy.
+
+- **Nofollow:** This value tells search engines not to follow the link, which can help prevent spam and malicious links from affecting a website's search engine rankings. It tells the search engines or target system that the origin website mentions this link but does not endorse it, and it should not trust it or even mention it.
+
+`Noopener` and `noreferrer` values are often used together to provide enhanced security and privacy when opening links in a new tab or window.
+
 ## Development Process <a name="development"></a> | [#](#index)
 
 We have created 4 `.html` pages, 3 `.css` files, and 1 `.js` file. In addition, we have an assets folder, a documentation folder, a vendor folder, and an `.htaccess` file for better caching. Naturally, we can also see the `README.md` file.
