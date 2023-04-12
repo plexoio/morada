@@ -597,12 +597,12 @@ We were at all times using Visual Studio, Git Bash, and GitHub for coding and ve
 
 - After ensuring the README.md was up to date, we decided to open GitHub Pages for our product. The setup was rather easy:
 
-1. Go to your repository
-2. Click on the settings button
-3. Go to the left navbar on `Code and automation`
-4. Click on `Pages`
-5. Select `deploy from a branch`
-6. Select `Branch` and then `/root` then click on `Save`
+1. Go to your repository.
+2. Click on the settings button.
+3. Go to the left navbar on `Code and automation`.
+4. Click on `Pages`.
+5. Select `deploy from a branch`.
+6. Select `Branch` and then `/root` then click on `Save`.
 7. Wait for 1 to 5 minutes and then refresh your page.
 8. On top of that section, you will see the link to your GitHub Pages.
 
