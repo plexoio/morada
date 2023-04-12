@@ -473,6 +473,8 @@ For other related bugs, we recommend always refreshing the page or deleting cach
 
 We have tested our site for accessibility, HTML & CSS validation, performance on GT-metrix, and responsiveness.
 
+We also ran a check with `Google Chrome's integrated Lighthouse devtool` and found a few errors, which were fixed accordingly. These included improving the aria-label, converting images to .webp format, and addressing some contrast issues on the contact page. Surprisingly, the accessibility of the site was great!
+
 During the development process, we were constantly doing the same to make sure we come up with a great final product. At the end of the development process and deployment, we have run the following tests:
 
 #### Accessibility
