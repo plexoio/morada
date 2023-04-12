@@ -473,7 +473,8 @@ For other related bugs, we recommend always refreshing the page or deleting cach
 
 We have tested our site for accessibility, HTML & CSS validation, performance on GT-metrix, and responsiveness.
 
-We also ran a check with `Google Chrome's integrated Lighthouse devtool` and found a few errors, which were fixed accordingly. These included improving the aria-label, converting images to .webp format, and addressing some contrast issues on the contact page. Surprisingly, the accessibility of the site was great!
+We also ran a check with `Google Chrome's integrated Lighthouse devtool` and found a few errors, which were fixed accordingly. These included improving the aria-label, converting images to .webp format, and addressing some contrast issues on the contact page. Surprisingly, the 
+accessibility of the site was great!
 
 During the development process, we were constantly doing the same to make sure we come up with a great final product. At the end of the development process and deployment, we have run the following tests:
 
@@ -622,7 +623,7 @@ In this way, we have successfully deployed our project with no particular errors
 - [ChatGPT](https://chat.openai.com/chat), was used for the following queries:
 
 1. Used for quick general consulting.
-2. Used to convert HTML code to Markdown tables for the README.md file. As seen from our extended self-coded versions: [focus-table](https://github.com/plexoio/morada/blob/main/documentation/assets/extended-versions/focus-table2.html), [scope-table](https://github.com/plexoio/morada/blob/main/documentation/assets/extended-versions/scope-table1.html), [strategy-table](https://github.com/plexoio/morada/blob/main/documentation/assets/extended-versions/strategy-table.html).
+2. Used to convert HTML code to Markdown tables for the README.md file. As seen from our extended self-coded versions: [focus-table](https://github.com/plexoio/morada/blob/main/documentation/extended-versions/focus-table2.html), [scope-table](https://github.com/plexoio/morada/blob/main/documentation/extended-versions/scope-table1.html), [strategy-table](https://github.com/plexoio/morada/blob/main/documentation/extended-versions/strategy-table.html).
 3. Copywriting and proofreading.
 4. Used to validate HTML and styling codes.
 5. Used to confirm whether or not my code snippet is correct and why not.
