@@ -374,6 +374,10 @@ iframe {
     left: 16vw;
 }
 
+.text-black {
+    color: #3a3a3a;
+}
+
 .padding-title {
     margin-top: 18px;
 }
@@ -448,7 +452,7 @@ textarea {
 }
 
 .acceptdata {
-    color: #9B59B6;
+    color: inherit;
     font-size: 0.9rem;
     transition: 0.3s;
 }
